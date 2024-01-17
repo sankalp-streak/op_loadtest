@@ -1,0 +1,18 @@
+syntax="proto3";
+
+package loadtest;
+
+option go_package = "./loadtestPB";
+
+message Request {
+    string TestName = 1;
+}
+
+message Response {
+    float Success = 1;
+    float Fails=2;
+    float Total=3;
+}
+
+// protoc --go_out=. --go-grpc_out=. loadtest.proto
+// protoc --go_out=. loadtest.proto

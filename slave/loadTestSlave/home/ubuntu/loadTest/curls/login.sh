@@ -1,0 +1,4579 @@
+curl 'https://open-v2.streak.ninja/home' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704870634.13.1.1704873647.35.0.0' \
+  -H 'referer: https://kite.zerodha.com/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-KMP9CG4JFM' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/css/677cc6296fc22c5b.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/webpack-7e1df6d440178164.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/framework-540f1b10bbe8b420.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/main-86461a59998d1af7.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/_app-2632bb0dea035c26.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/home-d3503d80575bb7e5.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/bN7w_4BGNjraEEQHKSuJd/_buildManifest.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/bN7w_4BGNjraEEQHKSuJd/_ssgManifest.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/bN7w_4BGNjraEEQHKSuJd/_middlewareManifest.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Lato&display=swap' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://connect.facebook.net/en_US/fbevents.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_s=1&sid=1704870634&sct=13&seg=1&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome&dr=https%3A%2F%2Fkite.zerodha.com%2F&dt=&en=page_view&_ee=1&tfd=505' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=Wjf0UQsLx38YGmisIhfhwR4dL1__3tjxPZ4BeseH18WzgtD1UHhGx9VA4Fg4rm6t8OWBz0m7uhpZD0uG5KhOdTG9n5RQ81HO4QDds32OKIX93dkZ26_boQ2yCe4n0GwhNdmket9Q5WrjGrEP8In2dtYVIE01eeW_akmOQ-BV_KdBwpeyF9G2I096t6j_xOIiWeEAmJT_RJc6QBTv0GmUiKzTZ5JhfeEDsLCA50iY_ZXVbsLtFQMFB47mwCOfun5lv8oPvWba3R0FyuscjL_zGw04F7bkekhNWP2eF90pNQmjhGIPpHY6Yvg7G_-sTC9O3wuCyKqFYtL1PiMsMhvUKUae49osQ0hmaoq0jkiED8xQhZUaeGG2xbocyv55q0-hEXPuJiLvIlD27s1BXbgOS7HTtfKYIAL0RUYixw47CqwDARP5_npx2t3t1jmB3g3q3jKKN0wpA-JKnJ6YoupstpSRdDeGMiH4Up-a2TyYntX8SDJR87LEZZeLa2sVZbd-TUwxMVuQmiNVWFQPP00AqR5Hcgy3FmNxTIbwRO_9zSUOTrd5XjBoLgeq1e8vxoP94V5WK39Xlvxh1TooDf4Wkc6vLcnHJXDXSduDMRbBO6kAalYinSuD03oX2p5sGmTlLVfULpF-vZ5rSwp1y73WbPEzgmp4pXStzG-CLBVvMwIkAmAm4PaQsbHW2PeiuKS0EHV2UjKhzyvMEBJxlLJPsNF6AiSvhOl5I-Kv-A; 1P_JAR=2024-01-10-06; __Secure-3PSIDTS=sidts-CjEBPVxjSn9ZEpQGozorCuuegjI1TEvgLwFI_4jlZbCKFSsgNJon2RWCTyjJJkn6Nf4FEAA; __Secure-3PSIDCC=ABTWhQGGHvfBcHRJ6j4YThxb56lovX4dCFXRG-P-FI58c642SdIHReVsJ_pgf2wNOz3PMDS7fk_6' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/29107295.4a69275373f23f88.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/3fff1979.612c6162f1b345ff.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/ea88be26.43b75960b55a0567.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/11e07bb4.5707a93598069430.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/7083.9c63fdc4eec7f340.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/5488.7c02586d11737626.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/1892.f427591a24079d36.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9319.29d5e1171b4f1efa.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/6125.3dec7996ee419c7c.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/5633.d9c863a04e4f92a9.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/4444.3c88dac7f7b5a57e.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9290.08d55848411db781.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9608.658ea8bf4e61251d.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9008.8904d5aadb01d297.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/8114.0c1c4d3eba9a264f.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/3340.8fb02e806f87ab26.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9706.38b4909f94af6796.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/430.8d4e877afe57c20f.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/6858.c5913748351539b9.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/7236.0b06ece0c919f3f7.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/6296.f4a643ecd43f8ded.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/css/999735718d407326.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/916.9df86f46fe40c564.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/3949.d1e6fe59862b3265.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/3646.53aec97c92ffe435.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/5826.0543b62927452185.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271580%27%20height=%27522%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/wasm_exec.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"2e608313-69b8-47e9-8a61-dc24b11676f6","view":"/home"}' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/logo3.ico' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/08/NR4.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/08/2-Green-Heikin-Ashi.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/NR7-Day.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/lib.wasm.gz' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/manifest.json' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Tue, 09 Jan 2024 12:14:04 GMT' \
+  -H 'if-none-match: W/"1c9-18cee24e2e0"' \
+  -H 'referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: manifest' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/home/%5Btype%5D-a1fc1e7631b436da.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/scanner/%5Bname%5D-35e840784bc2ac08.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&page=1' \
+  --compressed ;
+curl 'chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Book.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'If-None-Match: "58rEex+LFE3BoccsmZ4zWt+rHr4="' \
+  -H 'If-Modified-Since: Mon, 18 Dec 2023 11:00:56 GMT' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/scanner/%5Bname%5D-35e840784bc2ac08.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://refapi.streak.tech/documents/download_profile_pic?user_uuid=00cf1abb-108e-4786-9cad-e2e04d24e7b2&date=1704873652219' \
+  -X 'OPTIONS' \
+  -H 'authority: refapi.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://refapi.streak.tech/documents/download_profile_pic?user_uuid=00cf1abb-108e-4786-9cad-e2e04d24e7b2&date=1704873652219' \
+  -H 'authority: refapi.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/d0d3d7574805b06c.worker.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/notifications-f5927a9df760271f.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/streak_192.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'wss://ss-op.streak.tech/v2' \
+  -H 'Pragma: no-cache' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Sec-WebSocket-Key: hehOKBiTGoOqPCjW2kp0fg==' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'Upgrade: websocket' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: Upgrade' \
+  -H 'Sec-WebSocket-Version: 13' \
+  -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits' \
+  --compressed ;
+curl 'wss://nt-op.streak.tech/notification' \
+  -H 'Pragma: no-cache' \
+  -H 'Origin: https://open-v2.streak.ninja' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Sec-WebSocket-Key: GvtfKXg4Zc/l9ms3SIULqg==' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'Upgrade: websocket' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: Upgrade' \
+  -H 'Sec-WebSocket-Version: 13' \
+  -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"058e5a6b097f4f13b61ca73ff856a545","sent_at":"2024-01-10T08:00:52.521Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/home","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"7762703dcfdd44d58c0217ba4561b33c","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"pageload","span_id":"95ea13650ded2376","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"7762703dcfdd44d58c0217ba4561b33c"}},"spans":[{"description":"unloadEvent","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"97336ec8ea79a3b2","start_timestamp":1704873651.4081,"timestamp":1704873651.4081,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"domContentLoadedEvent","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"b2f8f09f7419f04a","start_timestamp":1704873651.5145,"timestamp":1704873651.5145,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"loadEvent","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"b9014294d3bc4182","start_timestamp":1704873651.8934999,"timestamp":1704873651.8936,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"connect","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"8dedb00b25d2583a","start_timestamp":1704873651.0779998,"timestamp":1704873651.0779998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"TLS/SSL","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"907e3003a6704767","start_timestamp":1704873651.0779998,"timestamp":1704873651.0779998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"cache","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"9f8d08aba00b1773","start_timestamp":1704873651.0779998,"timestamp":1704873651.0779998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"DNS","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"86d8874abd10bb56","start_timestamp":1704873651.0779998,"timestamp":1704873651.0779998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"request","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"9d96bbf21e156732","start_timestamp":1704873651.0860999,"timestamp":1704873651.3883,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"response","op":"browser","parent_span_id":"95ea13650ded2376","span_id":"bea262334471546f","start_timestamp":1704873651.3813,"timestamp":1704873651.3883,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"Next.js-before-hydration","op":"measure","parent_span_id":"95ea13650ded2376","span_id":"98ccb769b74a718f","start_timestamp":1704873651.077,"timestamp":1704873651.5119998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://www.googletagmanager.com/gtag/js?id=G-KMP9CG4JFM","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a8747ccbaa841bec","start_timestamp":1704873651.4155998,"timestamp":1704873651.4155998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":7599,"Decoded Body Size":35442},"description":"/_next/static/css/677cc6296fc22c5b.css","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"a5f3885aea434509","start_timestamp":1704873651.4157999,"timestamp":1704873651.4157999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":2861,"Decoded Body Size":5922},"description":"/_next/static/chunks/webpack-7e1df6d440178164.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a8b19fba41774344","start_timestamp":1704873651.416,"timestamp":1704873651.416,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":45410,"Decoded Body Size":140139},"description":"/_next/static/chunks/framework-540f1b10bbe8b420.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"bce3620d9756317d","start_timestamp":1704873651.4160998,"timestamp":1704873651.4160998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":19847,"Decoded Body Size":61528},"description":"/_next/static/chunks/main-86461a59998d1af7.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a75a28d883e7b4fd","start_timestamp":1704873651.4162998,"timestamp":1704873651.4162998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":559830,"Decoded Body Size":1950432},"description":"/_next/static/chunks/pages/_app-2632bb0dea035c26.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"ae5dc66d298aeeb8","start_timestamp":1704873651.4164999,"timestamp":1704873651.4164999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":444,"Decoded Body Size":843},"description":"/_next/static/chunks/pages/home-d3503d80575bb7e5.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"bbd28bbbc93388a7","start_timestamp":1704873651.4166,"timestamp":1704873651.4166,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":836,"Decoded Body Size":2473},"description":"/_next/static/bN7w_4BGNjraEEQHKSuJd/_buildManifest.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"8ca83450cbf54466","start_timestamp":1704873651.4167998,"timestamp":1704873651.4167998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":52,"Decoded Body Size":77},"description":"/_next/static/bN7w_4BGNjraEEQHKSuJd/_ssgManifest.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"85a85d57d40617f7","start_timestamp":1704873651.4169998,"timestamp":1704873651.4169998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":53,"Decoded Body Size":92},"description":"/_next/static/bN7w_4BGNjraEEQHKSuJd/_middlewareManifest.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a4e5cd99d9ce8db9","start_timestamp":1704873651.4171999,"timestamp":1704873651.4171999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":489,"Decoded Body Size":3351},"description":"https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"bc45e16cb93c179b","start_timestamp":1704873651.4174,"timestamp":1704873651.4174,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":354,"Decoded Body Size":761},"description":"https://fonts.googleapis.com/css2?family=Lato&display=swap","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"9b00edb7883efae4","start_timestamp":1704873651.4176998,"timestamp":1704873651.4176998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://connect.facebook.net/en_US/fbevents.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"ba6215c1b9c46105","start_timestamp":1704873651.4503,"timestamp":1704873651.5278,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":7884,"Decoded Body Size":7884},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2","op":"resource.css","parent_span_id":"95ea13650ded2376","span_id":"80a8570908ce42b3","start_timestamp":1704873651.4561,"timestamp":1704873651.4561,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":7748,"Decoded Body Size":7748},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2","op":"resource.css","parent_span_id":"95ea13650ded2376","span_id":"b7cff107124bfbb8","start_timestamp":1704873651.4568,"timestamp":1704873651.4568,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":8000,"Decoded Body Size":8000},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2","op":"resource.css","parent_span_id":"95ea13650ded2376","span_id":"af2f480dcd93dac1","start_timestamp":1704873651.4575,"timestamp":1704873651.4575,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"sentry-tracing-init","op":"mark","parent_span_id":"95ea13650ded2376","span_id":"8c4a00aa8cb3b079","start_timestamp":1704873651.5091999,"timestamp":1704873651.5091999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"Next.js-hydration","op":"measure","parent_span_id":"95ea13650ded2376","span_id":"a4d18c0aa6753d85","start_timestamp":1704873651.5119998,"timestamp":1704873651.5656998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_s=1&sid=1704870634&sct=13&seg=1&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome&dr=https%3A%2F%2Fkite.zerodha.com%2F&dt=&en=page_view&_ee=1&tfd=505","op":"resource.beacon","parent_span_id":"95ea13650ded2376","span_id":"8da0a34fcae7a33d","start_timestamp":1704873651.5823,"timestamp":1704873651.6318,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":25599,"Decoded Body Size":71691},"description":"/_next/static/chunks/29107295.4a69275373f23f88.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"9019e818f8db5e81","start_timestamp":1704873651.5867,"timestamp":1704873651.5867,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":54443,"Decoded Body Size":164947},"description":"/_next/static/chunks/3fff1979.612c6162f1b345ff.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a8c03797d332537d","start_timestamp":1704873651.5872998,"timestamp":1704873651.5872998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":77140,"Decoded Body Size":305284},"description":"/_next/static/chunks/ea88be26.43b75960b55a0567.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"8eef898ac60a2482","start_timestamp":1704873651.5877998,"timestamp":1704873651.5877998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":14173,"Decoded Body Size":43899},"description":"/_next/static/chunks/11e07bb4.5707a93598069430.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"be88fd2d780d603a","start_timestamp":1704873651.5881999,"timestamp":1704873651.5881999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":13649,"Decoded Body Size":39520},"description":"/_next/static/chunks/7083.9c63fdc4eec7f340.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"97055eb61270c14f","start_timestamp":1704873651.5884998,"timestamp":1704873651.5884998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":16569,"Decoded Body Size":58090},"description":"/_next/static/chunks/5488.7c02586d11737626.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"b90149039071fcba","start_timestamp":1704873651.589,"timestamp":1704873651.589,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":15309,"Decoded Body Size":37420},"description":"/_next/static/chunks/1892.f427591a24079d36.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"9eb5c61d730031c7","start_timestamp":1704873651.5899,"timestamp":1704873651.5899,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":10925,"Decoded Body Size":30267},"description":"/_next/static/chunks/9319.29d5e1171b4f1efa.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"aafb31c49e504746","start_timestamp":1704873651.5914998,"timestamp":1704873651.5914998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":17033,"Decoded Body Size":61985},"description":"/_next/static/chunks/6125.3dec7996ee419c7c.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"b24b2cc6ad3f2bc5","start_timestamp":1704873651.5918999,"timestamp":1704873651.5918999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":5518,"Decoded Body Size":15493},"description":"/_next/static/chunks/5633.d9c863a04e4f92a9.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a5d6786057c46785","start_timestamp":1704873651.5923,"timestamp":1704873651.5923,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":4596,"Decoded Body Size":11691},"description":"/_next/static/chunks/4444.3c88dac7f7b5a57e.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"b8d5c91f19e4ed4d","start_timestamp":1704873651.5927,"timestamp":1704873651.5927,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":6606,"Decoded Body Size":18612},"description":"/_next/static/chunks/9290.08d55848411db781.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"937f5e2445e2cdc1","start_timestamp":1704873651.593,"timestamp":1704873651.593,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":41228,"Decoded Body Size":175032},"description":"/_next/static/chunks/9608.658ea8bf4e61251d.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"9f742890fb1f8465","start_timestamp":1704873651.5934,"timestamp":1704873651.5934,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":9206,"Decoded Body Size":28729},"description":"/_next/static/chunks/9008.8904d5aadb01d297.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"84928f856c84c460","start_timestamp":1704873651.5937,"timestamp":1704873651.5937,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":5704,"Decoded Body Size":16165},"description":"/_next/static/chunks/8114.0c1c4d3eba9a264f.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"993b4b70b4ca06bc","start_timestamp":1704873651.5939999,"timestamp":1704873651.5939999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":11537,"Decoded Body Size":42329},"description":"/_next/static/chunks/3340.8fb02e806f87ab26.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"b8e6e5797aebb70a","start_timestamp":1704873651.5942998,"timestamp":1704873651.5942998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":31546,"Decoded Body Size":112967},"description":"/_next/static/chunks/9706.38b4909f94af6796.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a4adb3c45dd8a095","start_timestamp":1704873651.5946,"timestamp":1704873651.5946,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":9283,"Decoded Body Size":27972},"description":"/_next/static/chunks/430.8d4e877afe57c20f.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"944bbd0274cbaa98","start_timestamp":1704873651.5949,"timestamp":1704873651.5949,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":89210,"Decoded Body Size":369277},"description":"/_next/static/chunks/6858.c5913748351539b9.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a9eaa1fdbe340505","start_timestamp":1704873651.5951998,"timestamp":1704873651.5951998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":5258,"Decoded Body Size":16236},"description":"/_next/static/chunks/7236.0b06ece0c919f3f7.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"86e5426057782bef","start_timestamp":1704873651.5960999,"timestamp":1704873651.5960999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":3919,"Decoded Body Size":12950},"description":"/_next/static/chunks/6296.f4a643ecd43f8ded.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"ae7eed4f6ce10438","start_timestamp":1704873651.5978,"timestamp":1704873651.5978,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":861,"Decoded Body Size":2893},"description":"/_next/static/css/999735718d407326.css","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"88d10a19cc9c80e9","start_timestamp":1704873651.5983999,"timestamp":1704873651.5983999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":31850,"Decoded Body Size":72443},"description":"/_next/static/chunks/916.9df86f46fe40c564.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"9db9a5730d47b3d7","start_timestamp":1704873651.5988998,"timestamp":1704873651.5988998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":5807,"Decoded Body Size":22800},"description":"/_next/static/chunks/3949.d1e6fe59862b3265.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a1a327365a60d726","start_timestamp":1704873651.6761,"timestamp":1704873651.6761,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":6754,"Decoded Body Size":28383},"description":"/_next/static/chunks/3646.53aec97c92ffe435.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"b846e7bef48060eb","start_timestamp":1704873651.6773,"timestamp":1704873651.6773,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":8709,"Decoded Body Size":28592},"description":"/_next/static/chunks/5826.0543b62927452185.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"8516a10d56f958e5","start_timestamp":1704873651.6778,"timestamp":1704873651.6778,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/wasm_exec.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"aa0432f281f1a717","start_timestamp":1704873651.9276998,"timestamp":1704873651.9276998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":3177,"Decoded Body Size":15086},"description":"/logo3.ico","op":"resource.other","parent_span_id":"95ea13650ded2376","span_id":"afb718e56a4338a4","start_timestamp":1704873651.9736,"timestamp":1704873651.9808998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"first-paint","op":"paint","parent_span_id":"95ea13650ded2376","span_id":"bb7386f569f74270","start_timestamp":1704873651.9778998,"timestamp":1704873651.9778998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"description":"first-contentful-paint","op":"paint","parent_span_id":"95ea13650ded2376","span_id":"b49f6c83e6320110","start_timestamp":1704873651.9778998,"timestamp":1704873651.9778998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/08/NR4.png","op":"resource.img","parent_span_id":"95ea13650ded2376","span_id":"8abeb9c2d658ece5","start_timestamp":1704873651.9889998,"timestamp":1704873651.9889998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/08/2-Green-Heikin-Ashi.png","op":"resource.img","parent_span_id":"95ea13650ded2376","span_id":"aaee3939d7b04e92","start_timestamp":1704873651.9908,"timestamp":1704873651.9908,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/NR7-Day.png","op":"resource.img","parent_span_id":"95ea13650ded2376","span_id":"80cccacda856ee8a","start_timestamp":1704873651.9973998,"timestamp":1704873651.9973998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":300,"Encoded Body Size":219,"Decoded Body Size":457},"description":"/manifest.json","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"855a0ace7fa06e15","start_timestamp":1704873652.0131,"timestamp":1704873652.3337,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":46147,"Decoded Body Size":46147},"description":"//_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75","op":"resource.img","parent_span_id":"95ea13650ded2376","span_id":"9fa9c6050b100691","start_timestamp":1704873652.027,"timestamp":1704873652.1899,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":606,"Decoded Body Size":1313},"description":"/_next/static/chunks/pages/home/%5Btype%5D-a1fc1e7631b436da.js","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"82ce5e16cfcd9e2e","start_timestamp":1704873652.0324998,"timestamp":1704873652.0454998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":558,"Decoded Body Size":1040},"description":"/_next/static/chunks/pages/scanner/%5Bname%5D-35e840784bc2ac08.js","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"a47bd7dd29300e63","start_timestamp":1704873652.0340998,"timestamp":1704873652.0509999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":558,"Decoded Body Size":1040},"description":"/_next/static/chunks/pages/scanner/%5Bname%5D-35e840784bc2ac08.js","op":"resource.script","parent_span_id":"95ea13650ded2376","span_id":"a811475b20852845","start_timestamp":1704873652.1476998,"timestamp":1704873652.1521997,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":4995,"Decoded Body Size":4995},"description":"//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75","op":"resource.img","parent_span_id":"95ea13650ded2376","span_id":"8aff329004998557","start_timestamp":1704873652.2515,"timestamp":1704873652.4422998,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":3848,"Decoded Body Size":9830},"description":"/_next/static/d0d3d7574805b06c.worker.js","op":"resource.other","parent_span_id":"95ea13650ded2376","span_id":"a4a3ad5b348746a7","start_timestamp":1704873652.2531,"timestamp":1704873652.2570999,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":475,"Decoded Body Size":925},"description":"/_next/static/chunks/pages/notifications-f5927a9df760271f.js","op":"resource.link","parent_span_id":"95ea13650ded2376","span_id":"b51c4c517371aa3f","start_timestamp":1704873652.4826999,"timestamp":1704873652.4875,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"},{"data":{"Transfer Size":0,"Encoded Body Size":9385,"Decoded Body Size":9385},"description":"/streak_192.png","op":"resource.other","parent_span_id":"95ea13650ded2376","span_id":"ade21734dab4f340","start_timestamp":1704873652.4836,"timestamp":1704873652.4873,"trace_id":"7762703dcfdd44d58c0217ba4561b33c"}],"start_timestamp":1704873651.077,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1704873652.4875,"transaction":"/home","type":"transaction","measurements":{"fp":{"value":900.8999999761581,"unit":"millisecond"},"mark.fp":{"value":1704873651.9778998,"unit":"second"},"fcp":{"value":900.8999999761581,"unit":"millisecond"},"mark.fcp":{"value":1704873651.9778998,"unit":"second"},"connection.rtt":{"value":100,"unit":"millisecond"},"connection.downlink":{"value":10,"unit":""},"ttfb":{"value":304.30006980895996,"unit":"millisecond"},"ttfb.requestTime":{"value":295.2001094818115,"unit":"millisecond"}},"platform":"javascript","event_id":"058e5a6b097f4f13b61ca73ff856a545","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1704873651.511,"category":"navigation","data":{"from":"/home","to":"/home"}},{"timestamp":1704873651.983,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873652.039,"category":"fetch","data":{"method":"GET","url":"https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/lib.wasm.gz","status_code":200},"type":"http"},{"timestamp":1704873652.199,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/get_session_status/","status_code":200},"type":"http"},{"timestamp":1704873652.233,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873652.492,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"}],"request":{"url":"https://open-v2.streak.ninja/home","headers":{"Referer":"https://kite.zerodha.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/strategy/%5Bid%5D-21655a24890dba00.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/user_img.d20b6a57.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/home/%5Btype%5D-a1fc1e7631b436da.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/notifications-f5927a9df760271f.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/strategy/%5Bid%5D-21655a24890dba00.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=2&sid=1704870634&sct=13&seg=1&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome&dr=https%3A%2F%2Fkite.zerodha.com%2F&dt=&en=scroll&epn.percent_scrolled=90&_et=18&tfd=5510' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=Wjf0UQsLx38YGmisIhfhwR4dL1__3tjxPZ4BeseH18WzgtD1UHhGx9VA4Fg4rm6t8OWBz0m7uhpZD0uG5KhOdTG9n5RQ81HO4QDds32OKIX93dkZ26_boQ2yCe4n0GwhNdmket9Q5WrjGrEP8In2dtYVIE01eeW_akmOQ-BV_KdBwpeyF9G2I096t6j_xOIiWeEAmJT_RJc6QBTv0GmUiKzTZ5JhfeEDsLCA50iY_ZXVbsLtFQMFB47mwCOfun5lv8oPvWba3R0FyuscjL_zGw04F7bkekhNWP2eF90pNQmjhGIPpHY6Yvg7G_-sTC9O3wuCyKqFYtL1PiMsMhvUKUae49osQ0hmaoq0jkiED8xQhZUaeGG2xbocyv55q0-hEXPuJiLvIlD27s1BXbgOS7HTtfKYIAL0RUYixw47CqwDARP5_npx2t3t1jmB3g3q3jKKN0wpA-JKnJ6YoupstpSRdDeGMiH4Up-a2TyYntX8SDJR87LEZZeLa2sVZbd-TUwxMVuQmiNVWFQPP00AqR5Hcgy3FmNxTIbwRO_9zSUOTrd5XjBoLgeq1e8vxoP94V5WK39Xlvxh1TooDf4Wkc6vLcnHJXDXSduDMRbBO6kAalYinSuD03oX2p5sGmTlLVfULpF-vZ5rSwp1y73WbPEzgmp4pXStzG-CLBVvMwIkAmAm4PaQsbHW2PeiuKS0EHV2UjKhzyvMEBJxlLJPsNF6AiSvhOl5I-Kv-A; 1P_JAR=2024-01-10-06; __Secure-3PSIDTS=sidts-CjEBPVxjSn9ZEpQGozorCuuegjI1TEvgLwFI_4jlZbCKFSsgNJon2RWCTyjJJkn6Nf4FEAA; __Secure-3PSIDCC=ABTWhQGGHvfBcHRJ6j4YThxb56lovX4dCFXRG-P-FI58c642SdIHReVsJ_pgf2wNOz3PMDS7fk_6' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27500%27%20height=%27500%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/9207.d74cbd768ad83589.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/8131.53b042fc119d7aff.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/1825.dfc9567592cec75d.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/Bearish-Marubozu.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/Three-Black-Crows.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/Extremely-Bullish-Daily-Close.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/08/Heikin-Ashi-Bearish-Reversal.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/Close-Up-By-Atleast-2.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/10-Days-Low-Breakout.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/falling-RSI.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/08/2-Red-Heikin-Ashi.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/Bearish-Engulfing.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/Spinning-Top-Red.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/10-Days-High-Breakout.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization,content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":3,"include_fields":[],"query_fields":["screener_logic","screener_name"],"search":{"sample":[false],"user_uuid":["00cf1abb-108e-4786-9cad-e2e04d24e7b2"]},"query":"","sort":{"last_updated":"desc"},"page_number":1,"isCondensedView":true}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'Authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"2e608313-69b8-47e9-8a61-dc24b11676f6","view":"/home/scanners"}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_order_book/?platform=All' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_order_book/?platform=All' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/deployed_count2/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/deployed_count2/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/ytb-icon-1.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/08/Heikin-Ashi-Bullish-Reversal.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/11/Rising-SMA-50.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://blog.streak.tech/wp-content/uploads/2023/07/png-blog.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'Authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/portfolio/%5Btab%5D-f7d72acedecca088.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/orderbook/%5Btab%5D-9ed1bde409c81a12.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/portfolio/%5Btab%5D-f7d72acedecca088.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/orderbook/%5Btab%5D-9ed1bde409c81a12.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"fbb2969fda634c7fa9b948717f7fabe4","sent_at":"2024-01-10T08:01:00.067Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/home","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"5e2446d95fe74abfb7c4026024f9578f","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"navigation","span_id":"a6763f54f84afdcb","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"5e2446d95fe74abfb7c4026024f9578f"}},"spans":[{"data":{"Transfer Size":0,"Encoded Body Size":7550,"Decoded Body Size":29090},"description":"/_next/static/chunks/9207.d74cbd768ad83589.js","op":"resource.script","parent_span_id":"a6763f54f84afdcb","span_id":"934c76d9846a1235","start_timestamp":1704873659.0714,"timestamp":1704873659.0925,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":13954,"Decoded Body Size":50008},"description":"/_next/static/chunks/8131.53b042fc119d7aff.js","op":"resource.script","parent_span_id":"a6763f54f84afdcb","span_id":"85ddc71c936c4f1b","start_timestamp":1704873659.0719,"timestamp":1704873659.093,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":2163,"Decoded Body Size":5412},"description":"/_next/static/chunks/1825.dfc9567592cec75d.js","op":"resource.script","parent_span_id":"a6763f54f84afdcb","span_id":"b5694e91fc2f588e","start_timestamp":1704873659.0723,"timestamp":1704873659.0941,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":291700,"Decoded Body Size":291700},"description":"//_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"a3f01503ddb1fbd3","start_timestamp":1704873659.0814998,"timestamp":1704873659.1049,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/Bearish-Marubozu.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"90a7b5eefbdc345e","start_timestamp":1704873659.1801999,"timestamp":1704873659.1834998,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/Three-Black-Crows.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"990a97ffe652f5ba","start_timestamp":1704873659.1803,"timestamp":1704873659.1841,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/Extremely-Bullish-Daily-Close.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"a4b18954d3a4ad57","start_timestamp":1704873659.1806,"timestamp":1704873659.1843,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/08/Heikin-Ashi-Bearish-Reversal.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"a3dbb31479f9d6a9","start_timestamp":1704873659.1808,"timestamp":1704873659.1847,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/Close-Up-By-Atleast-2.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"914f1df2ac77f419","start_timestamp":1704873659.1811,"timestamp":1704873659.1854,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/10-Days-Low-Breakout.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"9463b67b03ee3af1","start_timestamp":1704873659.1869,"timestamp":1704873659.1915998,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/falling-RSI.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b5fff967f59c6060","start_timestamp":1704873659.1873,"timestamp":1704873659.1922,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/08/2-Red-Heikin-Ashi.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"844c47a7770cdb3a","start_timestamp":1704873659.1876998,"timestamp":1704873659.1927,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/Bearish-Engulfing.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b62cc0edb89c58e2","start_timestamp":1704873659.1878998,"timestamp":1704873659.1929,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/Spinning-Top-Red.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b74ca2913c730269","start_timestamp":1704873659.1880999,"timestamp":1704873659.1931999,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/10-Days-High-Breakout.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"bcae4e2ddef55fee","start_timestamp":1704873659.1883,"timestamp":1704873659.1934,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/ytb-icon-1.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b6e6e173ede75695","start_timestamp":1704873659.267,"timestamp":1704873659.2762,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/08/Heikin-Ashi-Bullish-Reversal.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b77576207c1d1bdd","start_timestamp":1704873659.2673,"timestamp":1704873659.2766998,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/11/Rising-SMA-50.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"98ea86b1b3e659b4","start_timestamp":1704873659.2675998,"timestamp":1704873659.2771997,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://blog.streak.tech/wp-content/uploads/2023/07/png-blog.png","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"b3c05b871f6f5813","start_timestamp":1704873659.2677999,"timestamp":1704873659.2775,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":4995,"Decoded Body Size":4995},"description":"//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75","op":"resource.img","parent_span_id":"a6763f54f84afdcb","span_id":"8eeb25726fed94a2","start_timestamp":1704873659.2695,"timestamp":1704873659.3149,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":477,"Decoded Body Size":909},"description":"/_next/static/chunks/pages/portfolio/%5Btab%5D-f7d72acedecca088.js","op":"resource.link","parent_span_id":"a6763f54f84afdcb","span_id":"81c304a45f2956f1","start_timestamp":1704873659.6706,"timestamp":1704873659.6785,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":470,"Decoded Body Size":909},"description":"/_next/static/chunks/pages/orderbook/%5Btab%5D-9ed1bde409c81a12.js","op":"resource.link","parent_span_id":"a6763f54f84afdcb","span_id":"bdf91933bac4b532","start_timestamp":1704873659.6722999,"timestamp":1704873659.6787999,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":477,"Decoded Body Size":909},"description":"/_next/static/chunks/pages/portfolio/%5Btab%5D-f7d72acedecca088.js","op":"resource.script","parent_span_id":"a6763f54f84afdcb","span_id":"93239947ba00e3db","start_timestamp":1704873659.7006,"timestamp":1704873659.7045999,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"},{"data":{"Transfer Size":0,"Encoded Body Size":470,"Decoded Body Size":909},"description":"/_next/static/chunks/pages/orderbook/%5Btab%5D-9ed1bde409c81a12.js","op":"resource.script","parent_span_id":"a6763f54f84afdcb","span_id":"9fb81429ca26c7e2","start_timestamp":1704873659.7045999,"timestamp":1704873659.7108998,"trace_id":"5e2446d95fe74abfb7c4026024f9578f"}],"start_timestamp":1704873659.0651002,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1704873659.7108998,"transaction":"/home","type":"transaction","platform":"javascript","event_id":"fbb2969fda634c7fa9b948717f7fabe4","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1704873651.511,"category":"navigation","data":{"from":"/home","to":"/home"}},{"timestamp":1704873651.983,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873652.039,"category":"fetch","data":{"method":"GET","url":"https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/lib.wasm.gz","status_code":200},"type":"http"},{"timestamp":1704873652.199,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/get_session_status/","status_code":200},"type":"http"},{"timestamp":1704873652.233,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873652.492,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704873652.521,"category":"sentry.transaction","event_id":"058e5a6b097f4f13b61ca73ff856a545","message":"058e5a6b097f4f13b61ca73ff856a545"},{"timestamp":1704873652.527,"category":"xhr","data":{"method":"GET","url":"https://refapi.streak.tech/documents/download_profile_pic?user_uuid=00cf1abb-108e-4786-9cad-e2e04d24e7b2&date=1704873652219","status_code":400},"type":"http"},{"timestamp":1704873652.754,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873653.021,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873653.22,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873659.056,"category":"ui.click","message":"div#headerContainer.jss37 > div.jss43 > a > button.jss122.jss52[type=\\"button\\"]"},{"timestamp":1704873659.064,"category":"navigation","data":{"from":"/home","to":"/home/scanners"}},{"timestamp":1704873659.137,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.227,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.301,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.399,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873659.401,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.428,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.494,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704873659.495,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.533,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873659.536,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873659.566,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_order_book/?platform=All","status_code":200},"type":"http"},{"timestamp":1704873659.644,"category":"xhr","data":{"method":"POST","url":"https://s-op.streak.tech/screeners/multi_search","status_code":200},"type":"http"},{"timestamp":1704873659.646,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.679,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/deployed_count2/","status_code":200},"type":"http"},{"timestamp":1704873659.845,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak","status_code":200},"type":"http"}],"request":{"url":"https://open-v2.streak.ninja/home/scanners","headers":{"Referer":"https://kite.zerodha.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/deployed-3234b1213321b9b6.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/pages/deployed-3234b1213321b9b6.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=3&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fscanners&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome&sid=1704870634&sct=13&seg=1&dt=Scanner%20by%20Streak&en=page_view&_et=8489&tfd=14010' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=Wjf0UQsLx38YGmisIhfhwR4dL1__3tjxPZ4BeseH18WzgtD1UHhGx9VA4Fg4rm6t8OWBz0m7uhpZD0uG5KhOdTG9n5RQ81HO4QDds32OKIX93dkZ26_boQ2yCe4n0GwhNdmket9Q5WrjGrEP8In2dtYVIE01eeW_akmOQ-BV_KdBwpeyF9G2I096t6j_xOIiWeEAmJT_RJc6QBTv0GmUiKzTZ5JhfeEDsLCA50iY_ZXVbsLtFQMFB47mwCOfun5lv8oPvWba3R0FyuscjL_zGw04F7bkekhNWP2eF90pNQmjhGIPpHY6Yvg7G_-sTC9O3wuCyKqFYtL1PiMsMhvUKUae49osQ0hmaoq0jkiED8xQhZUaeGG2xbocyv55q0-hEXPuJiLvIlD27s1BXbgOS7HTtfKYIAL0RUYixw47CqwDARP5_npx2t3t1jmB3g3q3jKKN0wpA-JKnJ6YoupstpSRdDeGMiH4Up-a2TyYntX8SDJR87LEZZeLa2sVZbd-TUwxMVuQmiNVWFQPP00AqR5Hcgy3FmNxTIbwRO_9zSUOTrd5XjBoLgeq1e8vxoP94V5WK39Xlvxh1TooDf4Wkc6vLcnHJXDXSduDMRbBO6kAalYinSuD03oX2p5sGmTlLVfULpF-vZ5rSwp1y73WbPEzgmp4pXStzG-CLBVvMwIkAmAm4PaQsbHW2PeiuKS0EHV2UjKhzyvMEBJxlLJPsNF6AiSvhOl5I-Kv-A; 1P_JAR=2024-01-10-06; __Secure-3PSIDTS=sidts-CjEBPVxjSn9ZEpQGozorCuuegjI1TEvgLwFI_4jlZbCKFSsgNJon2RWCTyjJJkn6Nf4FEAA; __Secure-3PSIDCC=ABTWhQGGHvfBcHRJ6j4YThxb56lovX4dCFXRG-P-FI58c642SdIHReVsJ_pgf2wNOz3PMDS7fk_6' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27500%27%20height=%27500%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/5161.65a27052c709c65c.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/8225.d06684e18cf78a5c.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/chunks/3993.94dbea6d1541fb73.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/algos/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization,x-csrftoken' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/algos/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-csrftoken: sdf' \
+  --data-raw 'page=1&page_limit=3&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&resp=json&search=&filter=&version=4' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"2e608313-69b8-47e9-8a61-dc24b11676f6","view":"/home/strategies"}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&filter_tag=undefined&page=1' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%27300%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6fc06f07-66ac-43f0-9193-c236ac98f13b&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6fc06f07-66ac-43f0-9193-c236ac98f13b&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"5dbb62d3f5db4ebd8f059ecaf0b4f6e4","sent_at":"2024-01-10T08:01:09.923Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/home/scanners","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"9f7e3ec4da894468b688fbf49f61ef7f","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"navigation","span_id":"91e002a522245655","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"9f7e3ec4da894468b688fbf49f61ef7f"}},"spans":[{"data":{"Transfer Size":0,"Encoded Body Size":1984,"Decoded Body Size":5165},"description":"/_next/static/chunks/5161.65a27052c709c65c.js","op":"resource.script","parent_span_id":"91e002a522245655","span_id":"93bdf7a3133a1eba","start_timestamp":1704873668.9169998,"timestamp":1704873668.9355998,"trace_id":"9f7e3ec4da894468b688fbf49f61ef7f"},{"data":{"Transfer Size":0,"Encoded Body Size":18066,"Decoded Body Size":65093},"description":"/_next/static/chunks/8225.d06684e18cf78a5c.js","op":"resource.script","parent_span_id":"91e002a522245655","span_id":"a7f9646c4aa2c6f3","start_timestamp":1704873668.9175,"timestamp":1704873668.9385,"trace_id":"9f7e3ec4da894468b688fbf49f61ef7f"},{"data":{"Transfer Size":0,"Encoded Body Size":2031,"Decoded Body Size":4393},"description":"/_next/static/chunks/3993.94dbea6d1541fb73.js","op":"resource.script","parent_span_id":"91e002a522245655","span_id":"bcd9f8ed1dba7cd8","start_timestamp":1704873668.9180999,"timestamp":1704873668.9387999,"trace_id":"9f7e3ec4da894468b688fbf49f61ef7f"},{"data":{"Transfer Size":0,"Encoded Body Size":4995,"Decoded Body Size":4995},"description":"//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75","op":"resource.img","parent_span_id":"91e002a522245655","span_id":"b8a13304152a30b3","start_timestamp":1704873669.5356,"timestamp":1704873669.5597,"trace_id":"9f7e3ec4da894468b688fbf49f61ef7f"}],"start_timestamp":1704873668.911,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1704873669.5597,"transaction":"/home/scanners","type":"transaction","platform":"javascript","event_id":"5dbb62d3f5db4ebd8f059ecaf0b4f6e4","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1704873651.511,"category":"navigation","data":{"from":"/home","to":"/home"}},{"timestamp":1704873651.983,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873652.039,"category":"fetch","data":{"method":"GET","url":"https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/lib.wasm.gz","status_code":200},"type":"http"},{"timestamp":1704873652.199,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/get_session_status/","status_code":200},"type":"http"},{"timestamp":1704873652.233,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873652.492,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704873652.521,"category":"sentry.transaction","event_id":"058e5a6b097f4f13b61ca73ff856a545","message":"058e5a6b097f4f13b61ca73ff856a545"},{"timestamp":1704873652.527,"category":"xhr","data":{"method":"GET","url":"https://refapi.streak.tech/documents/download_profile_pic?user_uuid=00cf1abb-108e-4786-9cad-e2e04d24e7b2&date=1704873652219","status_code":400},"type":"http"},{"timestamp":1704873652.754,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873653.021,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873653.22,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873659.056,"category":"ui.click","message":"div#headerContainer.jss37 > div.jss43 > a > button.jss122.jss52[type=\\"button\\"]"},{"timestamp":1704873659.064,"category":"navigation","data":{"from":"/home","to":"/home/scanners"}},{"timestamp":1704873659.137,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.227,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.301,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.399,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873659.401,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.428,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.494,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704873659.495,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.533,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873659.536,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704873659.566,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_order_book/?platform=All","status_code":200},"type":"http"},{"timestamp":1704873659.644,"category":"xhr","data":{"method":"POST","url":"https://s-op.streak.tech/screeners/multi_search","status_code":200},"type":"http"},{"timestamp":1704873659.646,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873659.679,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/deployed_count2/","status_code":200},"type":"http"},{"timestamp":1704873659.845,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak","status_code":200},"type":"http"},{"timestamp":1704873660.067,"category":"sentry.transaction","event_id":"fbb2969fda634c7fa9b948717f7fabe4","message":"fbb2969fda634c7fa9b948717f7fabe4"},{"timestamp":1704873660.261,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873660.313,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873660.43,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873660.436,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873660.521,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873660.666,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873668.045,"category":"ui.click","message":"div#leftContainer.jss4.jss7 > div.homeContainer > div.jss251 > div.jss218"},{"timestamp":1704873668.879,"category":"ui.click","message":"div.jss43 > a > button.jss122.jss52[type=\\"button\\"] > p.jss122"},{"timestamp":1704873668.883,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873668.91,"category":"navigation","data":{"from":"/home/scanners","to":"/home/strategies"}},{"timestamp":1704873668.966,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.013,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.032,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.181,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.21,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.277,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704873669.303,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704873669.304,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704873669.498,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/algos/","status_code":200},"type":"http"},{"timestamp":1704873669.582,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704873669.585,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"}],"request":{"url":"https://open-v2.streak.ninja/home/strategies","headers":{"Referer":"https://kite.zerodha.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=38c0ad36-296f-4d02-8124-6ee06a6e9365&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=38c0ad36-296f-4d02-8124-6ee06a6e9365&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-40b0-9ad8-6bf59d51e942&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-40b0-9ad8-6bf59d51e942&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-42ed-a973-2c11ab6fbf5b&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-42ed-a973-2c11ab6fbf5b&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4025-9cba-506d40ae3875&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4025-9cba-506d40ae3875&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=40b46e1d-7db2-4ecf-84a8-cc924a8a4108&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=40b46e1d-7db2-4ecf-84a8-cc924a8a4108&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4642-ac5f-f7568416e7e6&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4642-ac5f-f7568416e7e6&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4c2c-939c-ece724a73b78&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4c2c-939c-ece724a73b78&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-44ee-9858-a89daf4757c3&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-44ee-9858-a89daf4757c3&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4f46-8589-073109aa05b2&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4f46-8589-073109aa05b2&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=4&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fstrategies&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fscanners&sid=1704870634&sct=13&seg=1&dt=Scanner%20by%20Streak&en=page_view&_et=9854&tfd=23861' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=Wjf0UQsLx38YGmisIhfhwR4dL1__3tjxPZ4BeseH18WzgtD1UHhGx9VA4Fg4rm6t8OWBz0m7uhpZD0uG5KhOdTG9n5RQ81HO4QDds32OKIX93dkZ26_boQ2yCe4n0GwhNdmket9Q5WrjGrEP8In2dtYVIE01eeW_akmOQ-BV_KdBwpeyF9G2I096t6j_xOIiWeEAmJT_RJc6QBTv0GmUiKzTZ5JhfeEDsLCA50iY_ZXVbsLtFQMFB47mwCOfun5lv8oPvWba3R0FyuscjL_zGw04F7bkekhNWP2eF90pNQmjhGIPpHY6Yvg7G_-sTC9O3wuCyKqFYtL1PiMsMhvUKUae49osQ0hmaoq0jkiED8xQhZUaeGG2xbocyv55q0-hEXPuJiLvIlD27s1BXbgOS7HTtfKYIAL0RUYixw47CqwDARP5_npx2t3t1jmB3g3q3jKKN0wpA-JKnJ6YoupstpSRdDeGMiH4Up-a2TyYntX8SDJR87LEZZeLa2sVZbd-TUwxMVuQmiNVWFQPP00AqR5Hcgy3FmNxTIbwRO_9zSUOTrd5XjBoLgeq1e8vxoP94V5WK39Xlvxh1TooDf4Wkc6vLcnHJXDXSduDMRbBO6kAalYinSuD03oX2p5sGmTlLVfULpF-vZ5rSwp1y73WbPEzgmp4pXStzG-CLBVvMwIkAmAm4PaQsbHW2PeiuKS0EHV2UjKhzyvMEBJxlLJPsNF6AiSvhOl5I-Kv-A; 1P_JAR=2024-01-10-06; __Secure-3PSIDTS=sidts-CjEBPVxjSn9ZEpQGozorCuuegjI1TEvgLwFI_4jlZbCKFSsgNJon2RWCTyjJJkn6Nf4FEAA; __Secure-3PSIDCC=ABTWhQGGHvfBcHRJ6j4YThxb56lovX4dCFXRG-P-FI58c642SdIHReVsJ_pgf2wNOz3PMDS7fk_6' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&filter_tag=undefined&kind=append&page=2' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/new-dot-loader.9a102258.gif?w=384&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/new-dot-loader.9a102258.gif?w=384&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4ad9-b7b7-2a0df8451eec&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4ad9-b7b7-2a0df8451eec&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-44e3-b5b7-575ddbbd4654&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-44e3-b5b7-575ddbbd4654&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-481b-a336-f7e24cab362c&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-481b-a336-f7e24cab362c&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4210-8fa0-8f4b512da29b&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4210-8fa0-8f4b512da29b&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-419a-af0b-e70b02959b5d&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-419a-af0b-e70b02959b5d&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4b30-be58-047f0f9a0750&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4b30-be58-047f0f9a0750&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4906-802e-e0546ab73bd6&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4906-802e-e0546ab73bd6&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4bee-85ba-d8641156f7e4&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4bee-85ba-d8641156f7e4&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&filter_tag=undefined&kind=append&page=3' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-468b-8121-be06461801a7&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-468b-8121-be06461801a7&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-46ba-969e-ea54d9910a32&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-46ba-969e-ea54d9910a32&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4b90-8f90-f01d4bc220bc&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4b90-8f90-f01d4bc220bc&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=e975a594-8c90-4084-82cd-e147b38b2023&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=e975a594-8c90-4084-82cd-e147b38b2023&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f2f05d6b-ef82-45b4-9359-d21882f0256a&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f2f05d6b-ef82-45b4-9359-d21882f0256a&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&filter_tag=undefined&kind=append&page=4' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=84568cbf-bf59-4895-9044-e82df2c47f52&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=84568cbf-bf59-4895-9044-e82df2c47f52&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4452-bde3-5fe720b595ab&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4452-bde3-5fe720b595ab&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-40a5-a171-f7fe0aa0c0cf&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-40a5-a171-f7fe0aa0c0cf&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d27593e4-7e34-4661-b2f9-ff4ee80188df&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d27593e4-7e34-4661-b2f9-ff4ee80188df&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4d2a-9eeb-fc3804ef69ee&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4d2a-9eeb-fc3804ef69ee&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-48cc-8e15-1560c67d1dbd&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-48cc-8e15-1560c67d1dbd&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&filter_tag=undefined&kind=append&page=5' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f85ace90-743b-49ba-b55a-9d007230c2b6&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f85ace90-743b-49ba-b55a-9d007230c2b6&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4aea-b018-e07d2317b91c&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4aea-b018-e07d2317b91c&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-47d8-a37e-a89a3860938c&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-47d8-a37e-a89a3860938c&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4db8-8342-658e1d086964&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4db8-8342-658e1d086964&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4595-bbdb-a138b913a4f0&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4595-bbdb-a138b913a4f0&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=31c53a1f-67d9-44ea-b5cb-1bb11ac80c03&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=31c53a1f-67d9-44ea-b5cb-1bb11ac80c03&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4edf-ba0a-7f7c88505759&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4edf-ba0a-7f7c88505759&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4b16-ad73-7a900f834e6f&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4b16-ad73-7a900f834e6f&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4f20-bffe-0d1b5312ced6&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4f20-bffe-0d1b5312ced6&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-48a0-8326-53c33e4bdb7f&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-48a0-8326-53c33e4bdb7f&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-423a-8c88-01822d912e39&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-423a-8c88-01822d912e39&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4b46-b3e3-a6f41fee1b5c&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4b46-b3e3-a6f41fee1b5c&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-419a-b411-2bce0e038563&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-419a-b411-2bce0e038563&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-43b1-a210-a1997c17864e&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-43b1-a210-a1997c17864e&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4853-8b0f-3e75c0696db1&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4853-8b0f-3e75c0696db1&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4fe3-a521-2cfee47b1daf&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4fe3-a521-2cfee47b1daf&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4dd7-9196-5bdff87962cf&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4dd7-9196-5bdff87962cf&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4c82-9f7a-952642a9d0ee&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4c82-9f7a-952642a9d0ee&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4ecb-a174-3eb3bc42e1e1&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4ecb-a174-3eb3bc42e1e1&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=42338bdb-3842-4586-99a3-fde767c9479c&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=42338bdb-3842-4586-99a3-fde767c9479c&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2f91fdcd-2d62-4801-b7fb-a57e1056b935&sample=true&max_count=100' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2f91fdcd-2d62-4801-b7fb-a57e1056b935&sample=true&max_count=100' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed;
+  curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27500%27%20height=%27500%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"2e608313-69b8-47e9-8a61-dc24b11676f6","view":"/scanner/2-green-heikin-ashi"}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/open_screener/?slug=2-green-heikin-ashi' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/scanners' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/open_screener/?slug=2-green-heikin-ashi' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"e9a67c8187ff43929f523ecb34ac426a","sent_at":"2024-01-10T10:58:38.019Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/home/scanners","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"f907a5c971984d3ea0c97fd6a3051ab9","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"navigation","span_id":"9725203eea632aad","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"f907a5c971984d3ea0c97fd6a3051ab9"}},"spans":[],"start_timestamp":1704884316.6337,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1704884317.6471002,"transaction":"/home/scanners","type":"transaction","platform":"javascript","event_id":"e9a67c8187ff43929f523ecb34ac426a","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1704880188.381,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883200.458,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883203.154,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883204.876,"category":"ui.click","message":"div.jss553 > div.jss554 > div.jss556 > div.jss559 > p.jss563"},{"timestamp":1704883204.889,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883204.906,"category":"navigation","data":{"from":"/home/strategies","to":"/strategy/bullish-trending-momentum"}},{"timestamp":1704883205.935,"category":"sentry.transaction","event_id":"c0275d0ed6df45fa964e8ac41de8baa6","message":"c0275d0ed6df45fa964e8ac41de8baa6"},{"timestamp":1704883206.674,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883207.367,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704883208.228,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/backtest/?slug=bullish-trending-momentum&resp=json&max_count=-2","status_code":200},"type":"http"},{"timestamp":1704883210.113,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/backtest/?slug=bullish-trending-momentum&resp=json&max_count=-2","status_code":200},"type":"http"},{"timestamp":1704883217.493,"category":"ui.click","message":"div.jss905 > div > div > div > p"},{"timestamp":1704883219.274,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4aea-b018-e07d2317b91c&sample=true&seg_sym=NSE_ASIANPAINT&tl=true&max_count=-1","status_code":200},"type":"http"},{"timestamp":1704883227.546,"category":"ui.click","message":"div#logoSection.jss40 > div.jss41 > span > img.jss41[alt=\\"no image\\"]"},{"timestamp":1704883227.57,"category":"navigation","data":{"from":"/strategy/bullish-trending-momentum","to":"/home"}},{"timestamp":1704883228.454,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883228.573,"category":"sentry.transaction","event_id":"40a8cdd7017d4914893d4734c2fa1970","message":"40a8cdd7017d4914893d4734c2fa1970"},{"timestamp":1704883228.591,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704883228.597,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704883228.998,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883229.419,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883229.794,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883230.023,"category":"ui.click","message":"section.jss1046 > div.jss1047 > div.jss1048 > a > p"},{"timestamp":1704883230.03,"category":"navigation","data":{"from":"/home","to":"/scanner/nr4-day"}},{"timestamp":1704883230.735,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883230.893,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704883231.041,"category":"sentry.transaction","event_id":"15235ff1893e4ded9bdbe59c3ce257cb","message":"15235ff1893e4ded9bdbe59c3ce257cb"},{"timestamp":1704883231.061,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/open_screener/?slug=nr4-day","status_code":200},"type":"http"},{"timestamp":1704883266.438,"category":"navigation","data":{"from":"/scanner/nr4-day","to":"/home"}},{"timestamp":1704883266.455,"category":"navigation","data":{"from":"/home","to":"/home"}},{"timestamp":1704883266.457,"category":"sentry.transaction","event_id":"f63c993f00714b2896ceb1ae3475997c","message":"f63c993f00714b2896ceb1ae3475997c"},{"timestamp":1704883267.462,"category":"sentry.transaction","event_id":"24cfb93d64044bf18cc12e0b6a2daffa","message":"24cfb93d64044bf18cc12e0b6a2daffa"},{"timestamp":1704883267.708,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704883267.812,"category":"ui.click","message":"div.jss43 > a > button.jss122.jss52[type=\\"button\\"] > p.jss122"},{"timestamp":1704883267.829,"category":"navigation","data":{"from":"/home","to":"/home/scanners"}},{"timestamp":1704883267.846,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883267.887,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883267.918,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.449,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883268.451,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883268.452,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704883268.452,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883268.455,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704883268.456,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704883268.457,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.474,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.65,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883268.83,"category":"xhr","data":{"method":"POST","url":"https://s-op.streak.tech/screeners/multi_search","status_code":200},"type":"http"},{"timestamp":1704883268.832,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.838,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704883268.84,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.844,"category":"sentry.transaction","event_id":"e5d80eadfd3d48058996169010b6362d","message":"e5d80eadfd3d48058996169010b6362d"},{"timestamp":1704883268.889,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak","status_code":200},"type":"http"},{"timestamp":1704883268.895,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.924,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883268.958,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/deployed_count2/","status_code":200},"type":"http"},{"timestamp":1704883268.989,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_order_book/?platform=All","status_code":200},"type":"http"},{"timestamp":1704883269.118,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883269.379,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883269.482,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883269.635,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883269.798,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704883269.838,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883269.843,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883270.052,"category":"ui.click","message":"section.jss1505 > div.jss1507 > div.jss1508 > div.jss1511 > p.jss1515"},{"timestamp":1704883270.055,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704883270.06,"category":"navigation","data":{"from":"/home/scanners","to":"/scanner/2-green-heikin-ashi"}},{"timestamp":1704883270.728,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704883270.82,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704883270.886,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/open_screener/?slug=2-green-heikin-ashi","status_code":200},"type":"http"},{"timestamp":1704883271.069,"category":"sentry.transaction","event_id":"d6fc7a8dee614992a9c007973e611b93","message":"d6fc7a8dee614992a9c007973e611b93"},{"timestamp":1704884307.402,"category":"ui.click","message":"div.jss1715 > div.jss1557 > button[type=\\"button\\"]"},{"timestamp":1704884307.421,"category":"navigation","data":{"from":"/scanner/2-green-heikin-ashi","to":"/home/scanners"}},{"timestamp":1704884307.447,"category":"navigation","data":{"from":"/home/scanners","to":"/home/scanners"}},{"timestamp":1704884307.456,"category":"sentry.transaction","event_id":"badf40c4dc2a4136aad5b1f66aa38d63","message":"badf40c4dc2a4136aad5b1f66aa38d63"},{"timestamp":1704884307.52,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884307.786,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884307.887,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884308.465,"category":"sentry.transaction","event_id":"a8141f2b1a274401a8e6d947ea687032","message":"a8141f2b1a274401a8e6d947ea687032"},{"timestamp":1704884308.816,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884308.907,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884309.436,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704884309.438,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884309.49,"category":"xhr","data":{"method":"POST","url":"https://s-op.streak.tech/screeners/multi_search","status_code":200},"type":"http"},{"timestamp":1704884309.491,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884309.493,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884309.499,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704884309.5,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/deployed_count2/","status_code":200},"type":"http"},{"timestamp":1704884309.502,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak","status_code":200},"type":"http"},{"timestamp":1704884309.505,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_order_book/?platform=All","status_code":200},"type":"http"},{"timestamp":1704884309.774,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704884309.775,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884309.799,"category":"xhr","data":{"method":"GET","url":"https://s-op.streak.tech/screeners/discover?pageNumber=1","status_code":200},"type":"http"},{"timestamp":1704884314.179,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884316.991,"category":"ui.click","message":"section.jss1951 > div.jss1953 > div.jss1954 > div.jss1957 > p.jss1961"},{"timestamp":1704884316.995,"category":"console","data":{"arguments":[{"scannerRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884317.002,"category":"navigation","data":{"from":"/home/scanners","to":"/scanner/2-green-heikin-ashi"}},{"timestamp":1704884317.86,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/open_screener/?slug=2-green-heikin-ashi","status_code":200},"type":"http"},{"timestamp":1704884317.938,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704884317.939,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"}],"request":{"url":"https://open-v2.streak.ninja/scanner/2-green-heikin-ashi","headers":{"Referer":"https://kite.zerodha.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=11&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fscanner%2F2-green-heikin-ashi&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fscanners&sid=1704883205&sct=15&seg=1&dt=2%20Green%20Heikin%20Ashi%20%7C%20Scanner%20by%20Streak&en=page_view&_et=5802&tfd=10671597' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=UVX8s6pTtkqFFliIrcJX3012Xe4MQb_EV-wroLQOtuO_y_8oSQsrYYqAuy5R5THaNNVv5dcJT0O1CzYRnkx--EjGRCCp2Jq1dxgTccyfryuJjbJmTLdgItR-HAo-ZCzBHmDiEGxC91r-ulSXsyDkJycQeNIgtB78p6qMA_-7FTeOP0LI1p7ZYzpAFeYMNo9d6D7ryiikRfeDycJtGVN6527cIEMnswX9_jAkynUgiHbZGgoZCQmXXmNqFqFsn0nnuC1Q4_bftbuzGSDQeXlvQ4C8mjvEt3lI04w05olnFV-V-TUoM5Ws58FP5hzGOSdFyuine5QDINPsrbuVJvMqO4q_WK8QwXXJChDjKslt1f3nTgPZBExDxSWwb5_4qYmzQxIEnGARrHR-o8PBHuUlo2XVDcRBRUBnVJhCQK0lLIlwtUZIOLMLUcsVdgkjafs7gw7ESvrhKRChWFIAsFIQyIhc2NU_5QGhR0Fv2n28Jwnbae3I2Q3ntrxYj1MxRbMDGT5rRPiQy50Fk2J3dQm5rj1ZNIVDVKU1fDkso0Ru_zWFBmbyamVdiRbH4eo_7QMjilnnVf6kk6pzV90oUHL7CsfGYgRLL6PZKS8yQ6ayKsxMWD86l0JVtNFlywhHouttEkqbivbVBSptzEk7cCJN4oYYLI-vwoJNjmKb4ugBttOFm6sm0f5HC97MZojsOtKzuW5AFuMkRlRaTbeAATTFFB2w0iNVwjCD8hsqmQ; 1P_JAR=2024-01-10-09; __Secure-3PSIDTS=sidts-CjEBPVxjSnMJSqfm7cqSCne5W59xzjhcyE7kuHE3iJPemONK2fJOkFV2HoGS_2sBpi0BEAA; __Secure-3PSIDCC=ABTWhQGlwEe93fKQbbEKoq-qFS1Zu6C7_NzNebWC0VZ5MeSjjAJOFq-HdatIEe9J6NQ87v6e1Bnn' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/css/main.ea33d90d.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/1.82811477.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/main.5eeab80a.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/logo.1a5ba514.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/bar.33409d62.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/pointer.92788e3e.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":100,"page_number":1,"include_fields":[],"sort":{"symbol_count":"desc"},"search":{"sample":[true],"time_frame":["5min","10min","15min","30min","hour","day"]}}' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=hour&stock=NSE%3A360ONE&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=3min&stock=NSE%3A360ONE&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=5min&stock=NSE%3A360ONE&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=10min&stock=NSE%3A360ONE&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=15min&stock=NSE%3A360ONE&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:360ONE&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/css/main.ea33d90d.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/1.82811477.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/main.5eeab80a.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/logo.1a5ba514.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/bar.33409d62.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/pointer.92788e3e.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":100,"page_number":1,"include_fields":[],"sort":{"symbol_count":"desc"},"search":{"sample":[true],"time_frame":["5min","10min","15min","30min","hour","day"]}}' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=hour&stock=NSE%3AABBOTINDIA&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=15min&stock=NSE%3AABBOTINDIA&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:ABBOTINDIA&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%27120%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27512%27%20height=%27513%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/whatsapp.d217ceef.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/Facebook_Logo.c2babeef.png?w=640&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/LinkedIn.58a99d07.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/twitterIcon.834e9538.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/whatsapp.d217ceef.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/LinkedIn.58a99d07.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/twitterIcon.834e9538.png?w=128&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/Facebook_Logo.c2babeef.png?w=640&q=75' \
+  -H 'authority: open-v2.streak.ninja' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga_8JBTN2LPRC=GS1.1.1686305925.2.1.1686305927.0.0.0; _clck=119sc2r|2|fcb|0|1255; _ga_87D1MGT1MW=GS1.1.1686552785.5.0.1686552785.0.0.0; _ga=GA1.1.401567090.1678097946; handlePostUUID=2e608313-69b8-47e9-8a61-dc24b11676f6; broker=zerodha; token=QjhvR2F4aGU4RnpwbEtDamE5anpxSFJDaGgzNEJSQnpsbUtlekxMV1RMWmNDMjBNcFNMUU95aUV0TjNZVzdPcg==; id=SlNBM3NtVk9MN2ZpNWFpNkVaRUZTN2N3Qmk3SnpUcTQ=; authToken=RVFUa3l0aWJVUEx6ZFNEdmJVSWJERG1nTlp6T1pKeng=; _ga_KMP9CG4JFM=GS1.1.1704883205.15.1.1704884318.50.0.0' \
+  -H 'referer: https://open-v2.streak.ninja/scanner/2-green-heikin-ashi' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'Referer: https://open-v2.streak.ninja/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/css/main.ea33d90d.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/1.82811477.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/js/main.5eeab80a.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -X 'OPTIONS' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://mo.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/logo.1a5ba514.png' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/bar.33409d62.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://mo.streak.tech/static/media/pointer.92788e3e.svg' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://s-op.streak.tech/screeners/multi_search' \
+  -H 'authority: s-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: https://mo.streak.tech' \
+  -H 'referer: https://mo.streak.tech/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":100,"page_number":1,"include_fields":[],"sort":{"symbol_count":"desc"},"search":{"sample":[true],"time_frame":["5min","10min","15min","30min","hour","day"]}}' \
+  --compressed ;
+curl 'https://mo.streak.tech/api/tech_analysis/?timeFrame=hour&stock=NSE%3AAARTIDRUGS&user_id=' \
+  -H 'authority: mo.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://mo.streak.tech/?utm_source=context-menu&utm_medium=kite&stock=NSE:AARTIDRUGS&theme=default&open_streak=true' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed;
+  curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27500%27%20height=%27500%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja//_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"2e608313-69b8-47e9-8a61-dc24b11676f6","view":"/strategy/comparative-rs-breakout"}' \
+  --compressed ;
+curl 'https://api-op.streak.tech/backtest/?slug=comparative-rs-breakout&resp=json&max_count=-2' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/favorite_screener/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://open-v2.streak.ninja/_next/static/media/circle_loader.fbc38ae5.gif?w=640&q=75' \
+  -H 'Referer: https://open-v2.streak.ninja/home/strategies' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/backtest/?slug=comparative-rs-breakout&resp=json&max_count=-2' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"198267013196428b8677f2c19fec9bdc","sent_at":"2024-01-10T11:00:48.173Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/home/strategies","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"b50dae2906d8403db95b2e402c177800","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"navigation","span_id":"8bda2bd30ae4600e","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"b50dae2906d8403db95b2e402c177800"}},"spans":[],"start_timestamp":1704884446.7986002,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1704884447.8015,"transaction":"/home/strategies","type":"transaction","platform":"javascript","event_id":"198267013196428b8677f2c19fec9bdc","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1704884349.114,"category":"ui.click","message":"div > div > div > div > p"},{"timestamp":1704884352.426,"category":"ui.click","message":"div#__next > main#main.jss1 > div.jss26. > button[type=\\"button\\"] > div.jss31"},{"timestamp":1704884353.23,"category":"ui.click","message":"div.jss2086.jss2148 > div.jss2110 > button.jss109.jss117.jss2095[type=\\"button\\"]"},{"timestamp":1704884354.455,"category":"ui.click","message":"div#__next > main#main.jss1 > div.jss26. > button[type=\\"button\\"] > div.jss31"},{"timestamp":1704884355.585,"category":"ui.click","message":"tr#tableRow.jss2121 > td > div.jss2123 > button.jss108.jss2117[type=\\"button\\"]"},{"timestamp":1704884356.845,"category":"ui.click","message":"div#__next > main#main.jss1 > div.jss26. > button[type=\\"button\\"] > div.jss31"},{"timestamp":1704884357.528,"category":"ui.click","message":"tr#tableRow.jss2121 > td > div.jss2123 > button.jss108.jss2117[type=\\"button\\"]"},{"timestamp":1704884435.163,"category":"ui.click","message":"div.jss43 > a > button.jss122.jss52[type=\\"button\\"] > p.jss122"},{"timestamp":1704884435.181,"category":"navigation","data":{"from":"/scanner/2-green-heikin-ashi","to":"/home/strategies"}},{"timestamp":1704884435.242,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884435.372,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884435.571,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884435.664,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884435.78,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.191,"category":"sentry.transaction","event_id":"0b4b2f94f2fb44d285340906dd253114","message":"0b4b2f94f2fb44d285340906dd253114"},{"timestamp":1704884436.263,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"},{"timestamp":1704884436.264,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.274,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/deployed_count2/","status_code":200},"type":"http"},{"timestamp":1704884436.293,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_positions/?filter=All&days=7&platform=open-streak","status_code":200},"type":"http"},{"timestamp":1704884436.326,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_order_book/?platform=All","status_code":200},"type":"http"},{"timestamp":1704884436.33,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/algos/","status_code":200},"type":"http"},{"timestamp":1704884436.584,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884436.586,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.593,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704884436.622,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.672,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.787,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.799,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704884436.802,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.807,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884436.845,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.039,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.041,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.077,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4d16-ac4c-70b29aace721&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.079,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.247,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.268,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.323,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.326,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.354,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6fc06f07-66ac-43f0-9193-c236ac98f13b&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.442,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.56,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.564,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.596,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.659,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4de6-ab57-920ce6f1dcc4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884437.661,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884437.902,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.009,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.125,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-40b0-9ad8-6bf59d51e942&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884438.128,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.597,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6fc06f07-66ac-43f0-9193-c236ac98f13b&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884438.606,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-42ed-a973-2c11ab6fbf5b&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884438.609,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.616,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=38c0ad36-296f-4d02-8124-6ee06a6e9365&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884438.665,"category":"xhr","data":{"method":"POST","url":"https://api-op.streak.tech/marketplace/","status_code":200},"type":"http"},{"timestamp":1704884438.666,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.671,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.713,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884438.931,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4ad9-b7b7-2a0df8451eec&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884438.938,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884439.099,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4025-9cba-506d40ae3875&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.105,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884439.259,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-44e3-b5b7-575ddbbd4654&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.264,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884439.591,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4642-ac5f-f7568416e7e6&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.598,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884439.719,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-481b-a336-f7e24cab362c&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.72,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884439.792,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=40b46e1d-7db2-4ecf-84a8-cc924a8a4108&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.815,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=38c0ad36-296f-4d02-8124-6ee06a6e9365&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.919,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4c2c-939c-ece724a73b78&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884439.922,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.188,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4210-8fa0-8f4b512da29b&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.196,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.26,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-44ee-9858-a89daf4757c3&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.262,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.369,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-419a-af0b-e70b02959b5d&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.372,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.683,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4b30-be58-047f0f9a0750&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.685,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.728,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4f46-8589-073109aa05b2&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.729,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884440.871,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=40b46e1d-7db2-4ecf-84a8-cc924a8a4108&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.947,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4906-802e-e0546ab73bd6&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884440.949,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884441.203,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4bee-85ba-d8641156f7e4&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884441.204,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884442.479,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-468b-8121-be06461801a7&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884442.481,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884442.714,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884442.805,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-46ba-969e-ea54d9910a32&sample=true&max_count=100","status_code":200},"type":"http"},{"timestamp":1704884442.807,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884442.87,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884443.472,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884443.65,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884447.129,"category":"ui.click","message":"div.jss2353 > div.jss2354 > div.jss2356 > div.jss2359 > p.jss2363"},{"timestamp":1704884447.153,"category":"console","data":{"arguments":[{"algoRoute":"[Object]"}],"logger":"console"},"level":"log","message":"[object Object]"},{"timestamp":1704884447.167,"category":"navigation","data":{"from":"/home/strategies","to":"/strategy/comparative-rs-breakout"}},{"timestamp":1704884447.972,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"},{"timestamp":1704884447.974,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/favorite_screener/","status_code":200},"type":"http"}],"request":{"url":"https://open-v2.streak.ninja/strategy/comparative-rs-breakout","headers":{"Referer":"https://kite.zerodha.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_s=13&sid=1704883205&sct=15&seg=1&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fstrategy%2Fcomparative-rs-breakout&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fscanner%2F2-green-heikin-ashi&dt=Scanner%20by%20Streak&en=strategy%20page&_ee=1&ep.event_label=AB_TESTING_CREATEPAGE&epn.value=1&_et=5358&tfd=10796746' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=UVX8s6pTtkqFFliIrcJX3012Xe4MQb_EV-wroLQOtuO_y_8oSQsrYYqAuy5R5THaNNVv5dcJT0O1CzYRnkx--EjGRCCp2Jq1dxgTccyfryuJjbJmTLdgItR-HAo-ZCzBHmDiEGxC91r-ulSXsyDkJycQeNIgtB78p6qMA_-7FTeOP0LI1p7ZYzpAFeYMNo9d6D7ryiikRfeDycJtGVN6527cIEMnswX9_jAkynUgiHbZGgoZCQmXXmNqFqFsn0nnuC1Q4_bftbuzGSDQeXlvQ4C8mjvEt3lI04w05olnFV-V-TUoM5Ws58FP5hzGOSdFyuine5QDINPsrbuVJvMqO4q_WK8QwXXJChDjKslt1f3nTgPZBExDxSWwb5_4qYmzQxIEnGARrHR-o8PBHuUlo2XVDcRBRUBnVJhCQK0lLIlwtUZIOLMLUcsVdgkjafs7gw7ESvrhKRChWFIAsFIQyIhc2NU_5QGhR0Fv2n28Jwnbae3I2Q3ntrxYj1MxRbMDGT5rRPiQy50Fk2J3dQm5rj1ZNIVDVKU1fDkso0Ru_zWFBmbyamVdiRbH4eo_7QMjilnnVf6kk6pzV90oUHL7CsfGYgRLL6PZKS8yQ6ayKsxMWD86l0JVtNFlywhHouttEkqbivbVBSptzEk7cCJN4oYYLI-vwoJNjmKb4ugBttOFm6sm0f5HC97MZojsOtKzuW5AFuMkRlRaTbeAATTFFB2w0iNVwjCD8hsqmQ; 1P_JAR=2024-01-10-09; __Secure-3PSIDTS=sidts-CjEBPVxjSnMJSqfm7cqSCne5W59xzjhcyE7kuHE3iJPemONK2fJOkFV2HoGS_2sBpi0BEAA; __Secure-3PSIDCC=ABTWhQGlwEe93fKQbbEKoq-qFS1Zu6C7_NzNebWC0VZ5MeSjjAJOFq-HdatIEe9J6NQ87v6e1Bnn' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'https://api-op.streak.tech/backtest/?slug=comparative-rs-breakout&resp=json&max_count=-2' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/backtest/?slug=comparative-rs-breakout&resp=json&max_count=-2' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=14&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fstrategy%2Fcomparative-rs-breakout&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fstrategies&sid=1704883205&sct=15&seg=1&dt=Comparative%20Rs%20Breakout%20%7C%20Strategy%20by%20Streak&en=page_view&_et=930&tfd=10801749' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=UVX8s6pTtkqFFliIrcJX3012Xe4MQb_EV-wroLQOtuO_y_8oSQsrYYqAuy5R5THaNNVv5dcJT0O1CzYRnkx--EjGRCCp2Jq1dxgTccyfryuJjbJmTLdgItR-HAo-ZCzBHmDiEGxC91r-ulSXsyDkJycQeNIgtB78p6qMA_-7FTeOP0LI1p7ZYzpAFeYMNo9d6D7ryiikRfeDycJtGVN6527cIEMnswX9_jAkynUgiHbZGgoZCQmXXmNqFqFsn0nnuC1Q4_bftbuzGSDQeXlvQ4C8mjvEt3lI04w05olnFV-V-TUoM5Ws58FP5hzGOSdFyuine5QDINPsrbuVJvMqO4q_WK8QwXXJChDjKslt1f3nTgPZBExDxSWwb5_4qYmzQxIEnGARrHR-o8PBHuUlo2XVDcRBRUBnVJhCQK0lLIlwtUZIOLMLUcsVdgkjafs7gw7ESvrhKRChWFIAsFIQyIhc2NU_5QGhR0Fv2n28Jwnbae3I2Q3ntrxYj1MxRbMDGT5rRPiQy50Fk2J3dQm5rj1ZNIVDVKU1fDkso0Ru_zWFBmbyamVdiRbH4eo_7QMjilnnVf6kk6pzV90oUHL7CsfGYgRLL6PZKS8yQ6ayKsxMWD86l0JVtNFlywhHouttEkqbivbVBSptzEk7cCJN4oYYLI-vwoJNjmKb4ugBttOFm6sm0f5HC97MZojsOtKzuW5AFuMkRlRaTbeAATTFFB2w0iNVwjCD8hsqmQ; 1P_JAR=2024-01-10-09; __Secure-3PSIDTS=sidts-CjEBPVxjSnMJSqfm7cqSCne5W59xzjhcyE7kuHE3iJPemONK2fJOkFV2HoGS_2sBpi0BEAA; __Secure-3PSIDCC=ABTWhQGlwEe93fKQbbEKoq-qFS1Zu6C7_NzNebWC0VZ5MeSjjAJOFq-HdatIEe9J6NQ87v6e1Bnn' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704873651449&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&sid=1704883205&sct=15&seg=1&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fstrategy%2Fcomparative-rs-breakout&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fstrategies&dt=Comparative%20Rs%20Breakout%20%7C%20Strategy%20by%20Streak&_s=15&tfd=10807439' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'cookie: __Secure-3PAPISID=Pe6_gVOFMzgJAiEk/ANZsuCsXYnJakny-y; __Secure-3PSID=fAi98C255hVszkCfJ0r63bcoyzrE8J--GQw0b4MlPij6hwwyqAMMeotLCA1lwMWi3BclWw.; NID=511=UVX8s6pTtkqFFliIrcJX3012Xe4MQb_EV-wroLQOtuO_y_8oSQsrYYqAuy5R5THaNNVv5dcJT0O1CzYRnkx--EjGRCCp2Jq1dxgTccyfryuJjbJmTLdgItR-HAo-ZCzBHmDiEGxC91r-ulSXsyDkJycQeNIgtB78p6qMA_-7FTeOP0LI1p7ZYzpAFeYMNo9d6D7ryiikRfeDycJtGVN6527cIEMnswX9_jAkynUgiHbZGgoZCQmXXmNqFqFsn0nnuC1Q4_bftbuzGSDQeXlvQ4C8mjvEt3lI04w05olnFV-V-TUoM5Ws58FP5hzGOSdFyuine5QDINPsrbuVJvMqO4q_WK8QwXXJChDjKslt1f3nTgPZBExDxSWwb5_4qYmzQxIEnGARrHR-o8PBHuUlo2XVDcRBRUBnVJhCQK0lLIlwtUZIOLMLUcsVdgkjafs7gw7ESvrhKRChWFIAsFIQyIhc2NU_5QGhR0Fv2n28Jwnbae3I2Q3ntrxYj1MxRbMDGT5rRPiQy50Fk2J3dQm5rj1ZNIVDVKU1fDkso0Ru_zWFBmbyamVdiRbH4eo_7QMjilnnVf6kk6pzV90oUHL7CsfGYgRLL6PZKS8yQ6ayKsxMWD86l0JVtNFlywhHouttEkqbivbVBSptzEk7cCJN4oYYLI-vwoJNjmKb4ugBttOFm6sm0f5HC97MZojsOtKzuW5AFuMkRlRaTbeAATTFFB2w0iNVwjCD8hsqmQ; 1P_JAR=2024-01-10-09; __Secure-3PSIDTS=sidts-CjEBPVxjSnMJSqfm7cqSCne5W59xzjhcyE7kuHE3iJPemONK2fJOkFV2HoGS_2sBpi0BEAA; __Secure-3PSIDCC=ABTWhQGlwEe93fKQbbEKoq-qFS1Zu6C7_NzNebWC0VZ5MeSjjAJOFq-HdatIEe9J6NQ87v6e1Bnn' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJe2yQEIprbJAQipncoBCOLsygEIkqHLAQiFoM0BCLvIzQEIou7NAQiD8M0BGPXJzQEYp+rNARiw780B' \
+  --data-raw $'en=Brokerage&_ee=1&ep.event_category=Backtest%20result&ep.event_label=Cumulative&epn.value=1&_et=5685\r\nen=Brokerage&_ee=1&ep.event_category=Backtest%20result&ep.event_label=Cumulative&epn.value=0&_et=3377' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&seg_sym=NSE_BAJAJ-AUTO&tl=true&max_count=-1' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&seg_sym=NSE_BAJAJ-AUTO&tl=true&max_count=-1' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'authority: wv-charts-streak.web.app' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/' \
+  -H 'Origin: https://wv-charts-streak.web.app' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/css/main.93202ba1.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/2.9a99d1ad.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/main.298659fe.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/5.1d6c1452.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization,x-csrftoken' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-csrftoken: 6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/web.worker.99bf2916.worker.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/6.64bca927.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/css/3.563beb99.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/3.771b57de.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'wss://ss.streak.tech/' \
+  -H 'Pragma: no-cache' \
+  -H 'Origin: https://wv-charts-streak.web.app' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Sec-WebSocket-Key: Gg28sleRbK4vqoIp7IbiMA==' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'Upgrade: websocket' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: Upgrade' \
+  -H 'Sec-WebSocket-Version: 13' \
+  -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/lightweight-charts.standalone.development.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_BAJAJ-AUTO&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?resp=json&max_count=-2&seg_sym=NSE_BAJAJ-AUTO&shared=undefined&platform=OPENSTREAK&algoId=43318457-7cbc-440b-9a77-3dc7e528ce5a&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?resp=json&max_count=-2&seg_sym=NSE_BAJAJ-AUTO&shared=undefined&platform=OPENSTREAK&algoId=43318457-7cbc-440b-9a77-3dc7e528ce5a&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://datastore-op.streak.tech/candles/fetch/' \
+  -H 'authority: datastore-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"exchange":"NSE","symbol":"BAJAJ-AUTO","start_time":1671129000,"end_time":1702578600,"time_period":"hour","source":"charts","csrf":"CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS","session_id":"6QbNrZMpIySsXmqpymGqO20DTG4mvC9n"}' \
+  --compressed ;
+curl 'https://datastore-op.streak.tech/candles/fetch/' \
+  -X 'OPTIONS' \
+  -H 'authority: datastore-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&seg_sym=NSE_LTIM&tl=true&max_count=-1' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true&seg_sym=NSE_LTIM&tl=true&max_count=-1' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'authority: wv-charts-streak.web.app' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/' \
+  -H 'Origin: https://wv-charts-streak.web.app' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/css/main.93202ba1.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/2.9a99d1ad.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/main.298659fe.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/5.1d6c1452.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-csrftoken: 6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_session_status/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization,x-csrftoken' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/web.worker.99bf2916.worker.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/6.64bca927.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/css/3.563beb99.chunk.css' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/static/js/3.771b57de.chunk.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://wv-charts-streak.web.app/lightweight-charts.standalone.development.js' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'Referer: https://wv-charts-streak.web.app/lite?mode=CANDLE_WITH_LOG&platform=OPENSTREAK&csrf=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS&sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n&seg_sym=NSE_LTIM&startTime=1671129000&endTime=1702578600&timeFrame=hour&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&isDiscover=true&theme=&shared=undefined' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?resp=json&max_count=-2&seg_sym=NSE_LTIM&shared=undefined&platform=OPENSTREAK&algoId=43318457-7cbc-440b-9a77-3dc7e528ce5a&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;csrfmiddlewaretoken=CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS;sessionid=6QbNrZMpIySsXmqpymGqO20DTG4mvC9n' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/fetch_backtest_chart/?resp=json&max_count=-2&seg_sym=NSE_LTIM&shared=undefined&platform=OPENSTREAK&algoId=43318457-7cbc-440b-9a77-3dc7e528ce5a&algo_uuid=43318457-7cbc-440b-9a77-3dc7e528ce5a&sample=true' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'wss://ss.streak.tech/' \
+  -H 'Pragma: no-cache' \
+  -H 'Origin: https://wv-charts-streak.web.app' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Sec-WebSocket-Key: OYHGCqYGWnpnZXZ8sb9okQ==' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'Upgrade: websocket' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: Upgrade' \
+  -H 'Sec-WebSocket-Version: 13' \
+  -H 'Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits' \
+  --compressed ;
+curl 'https://datastore-op.streak.tech/candles/fetch/' \
+  -H 'authority: datastore-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"exchange":"NSE","symbol":"LTIM","start_time":1671129000,"end_time":1702578600,"time_period":"hour","source":"charts","csrf":"CJFqbIMb5uQ0TkvFbsycQbKLaTJpRvgnpd0yGasamHXc1yXb8jzpnxhHmCV2RZeS","session_id":"6QbNrZMpIySsXmqpymGqO20DTG4mvC9n"}' \
+  --compressed ;
+curl 'https://datastore-op.streak.tech/candles/fetch/' \
+  -X 'OPTIONS' \
+  -H 'authority: datastore-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://wv-charts-streak.web.app' \
+  -H 'referer: https://wv-charts-streak.web.app/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --compressed;

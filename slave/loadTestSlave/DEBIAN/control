@@ -1,0 +1,8 @@
+Package: loadTestSlave
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: sankalp.kumar@streak.tech
+Description: Load Test slave
+

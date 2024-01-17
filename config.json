@@ -1,0 +1,1 @@
+{"master_path": "rch.streak.tech:6379", "master_redis_auth": "b626aaa7a231aabf6aa3df5fc5caa847c202dc3bd0d361a1291bb2f855afe8ba7727d3e4273e9d2a4ad5020c8695bbaf9b8d051c5bf43b868795a130d482acae", "slave_port": "9014", "slave_ip": "0.0.0.0"}
