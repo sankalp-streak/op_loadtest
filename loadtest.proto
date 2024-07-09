@@ -6,12 +6,15 @@ option go_package = "./loadtestPB";
 
 message Request {
     string TestName = 1;
+    int32 TimeOut = 2;
 }
 
 message Response {
     float Success = 1;
     float Fails=2;
     float Total=3;
+    float Timeout=4;
+    float AvgTime=5;
 }
 
 // protoc --go_out=. --go-grpc_out=. loadtest.proto

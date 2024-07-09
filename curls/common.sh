@@ -449,7 +449,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -460,7 +460,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&page=1' \
+  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&page=1' \
   --compressed ;
 curl 'https://streak-public-assets.s3.ap-south-1.amazonaws.com/bt_dist_open/lib.wasm.gz' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -516,7 +516,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -589,7 +589,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -625,7 +625,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -804,7 +804,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
   -H 'Accept: application/json, text/plain, */*' \
   -H 'Referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua-mobile: ?0' \
-  -H 'Authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'Authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
   -H 'sec-ch-ua-platform: "Windows"' \
   --compressed ;
@@ -861,7 +861,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
   -H 'Accept: application/json, text/plain, */*' \
   -H 'Referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua-mobile: ?0' \
-  -H 'Authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'Authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
   -H 'sec-ch-ua-platform: "Windows"' \
   --compressed ;
@@ -949,7 +949,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=2' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'if-modified-since: Wed, 10 Jan 2024 05:31:22 GMT' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1135,7 +1135,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=3' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -1255,7 +1255,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1331,7 +1331,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1382,7 +1382,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1456,7 +1456,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1578,7 +1578,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1623,7 +1623,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1699,7 +1699,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1765,7 +1765,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1813,7 +1813,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1864,7 +1864,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -1952,7 +1952,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2018,7 +2018,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2070,7 +2070,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2115,7 +2115,7 @@ curl 'https://s-op.streak.tech/screeners/multi_search' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/json' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2146,7 +2146,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'if-modified-since: Wed, 10 Jan 2024 05:45:56 GMT' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2237,7 +2237,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=1' \
   -H 'Accept: application/json, text/plain, */*' \
   -H 'Referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua-mobile: ?0' \
-  -H 'Authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'Authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
   -H 'sec-ch-ua-platform: "Windows"' \
   --compressed ;
@@ -2322,7 +2322,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=2' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'if-modified-since: Wed, 10 Jan 2024 05:31:22 GMT' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -2352,7 +2352,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=3' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -2381,7 +2381,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=4' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -2431,7 +2431,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=5' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -2481,7 +2481,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=6' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -2531,7 +2531,7 @@ curl 'https://s-op.streak.tech/screeners/discover?pageNumber=7' \
   -H 'authority: s-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3013,7 +3013,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -3024,7 +3024,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&page=1' \
   --compressed ;
 curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
   -H 'Referer;' \
@@ -3071,7 +3071,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3086,7 +3086,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3129,7 +3129,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3158,7 +3158,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3187,7 +3187,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3223,7 +3223,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3259,7 +3259,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3288,7 +3288,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3317,7 +3317,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3346,7 +3346,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -3357,7 +3357,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -3381,7 +3381,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3421,7 +3421,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3468,7 +3468,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -3479,7 +3479,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -3513,7 +3513,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3528,7 +3528,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3557,7 +3557,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3586,7 +3586,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3615,7 +3615,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=e975a594-8c90-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3658,7 +3658,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3673,7 +3673,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f2f05d6b-ef82-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3702,7 +3702,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3731,7 +3731,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=84568cbf-bf59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3760,7 +3760,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3789,7 +3789,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3818,7 +3818,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3861,7 +3861,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d27593e4-7e34-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3876,7 +3876,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3905,7 +3905,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3934,7 +3934,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3963,7 +3963,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -3992,7 +3992,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4021,7 +4021,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4050,7 +4050,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -4061,7 +4061,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=4' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=4' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -4081,7 +4081,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4110,7 +4110,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4139,7 +4139,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f85ace90-743b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4168,7 +4168,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4197,7 +4197,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4226,7 +4226,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4255,7 +4255,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4298,7 +4298,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4313,7 +4313,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4342,7 +4342,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -4353,7 +4353,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=5' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=5' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -4373,7 +4373,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=31c53a1f-67d9-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4402,7 +4402,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4431,7 +4431,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4460,7 +4460,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4489,7 +4489,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4518,7 +4518,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4547,7 +4547,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4576,7 +4576,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4605,7 +4605,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4634,7 +4634,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=42338bdb-3842-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4677,7 +4677,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2f91fdcd-2d62-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4692,7 +4692,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -4703,7 +4703,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=6' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=6' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -4723,7 +4723,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=302983d3-8efb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4752,7 +4752,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ae22ff1e-dc0d-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4781,7 +4781,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -4792,7 +4792,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=7' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=7' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -4812,7 +4812,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2f8907e7-0eb2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4841,7 +4841,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4bba2c38-528b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4870,7 +4870,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b82782f7-76bf-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4899,7 +4899,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=98f3e883-b2e2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4928,7 +4928,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=09872ff7-c03c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4957,7 +4957,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4378fef0-6c53-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -4986,7 +4986,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=10c5bea5-3814-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5015,7 +5015,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c3c73b4-66b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5044,7 +5044,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c4c42ad1-368b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5073,7 +5073,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7b7e1d27-10e2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5102,7 +5102,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8debd13-5cfb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5131,7 +5131,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9a668277-6bb4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5174,7 +5174,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1a389f3a-994a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5189,7 +5189,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f5506b3d-f3f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5218,7 +5218,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=67007e4d-c0df-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5247,7 +5247,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed2d5fe9-b48b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5276,7 +5276,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -5287,7 +5287,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=8' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=8' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -5307,7 +5307,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=74a51ded-208c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5336,7 +5336,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c9f375eb-378c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5379,7 +5379,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=beb794a7-8f57-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5394,7 +5394,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=470b89f0-2b68-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5423,7 +5423,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=99c34045-1137-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5452,7 +5452,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2585ac3d-4146-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5481,7 +5481,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2bffb328-3062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5510,7 +5510,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -5521,7 +5521,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=9' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=9' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -5541,7 +5541,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9f082154-9ca7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5570,7 +5570,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=864c7d48-f1b0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5599,7 +5599,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=005c5662-84a2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5628,7 +5628,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=981c4d9f-17b3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5657,7 +5657,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=e261036f-c3f9-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5686,7 +5686,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2eea3ba1-e800-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5715,7 +5715,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=a4156fa6-ffb0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5744,7 +5744,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -5755,7 +5755,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=10' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=10' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -5775,7 +5775,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4a0f5743-c14f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5804,7 +5804,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=73c269af-b616-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5833,7 +5833,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=34eca4a6-b143-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5862,7 +5862,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8af3db57-03b4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5891,7 +5891,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=121e0614-e562-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5920,7 +5920,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=412e1392-c542-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5949,7 +5949,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6b0a02b6-7a40-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -5978,7 +5978,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=49d1e5fd-3583-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6007,7 +6007,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=221b1488-245b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6050,7 +6050,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=56659039-5448-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6065,7 +6065,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c3903050-5df4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6094,7 +6094,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3ccbc9df-6814-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6123,7 +6123,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8f55399c-709c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6190,7 +6190,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -6201,7 +6201,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -6270,7 +6270,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6299,7 +6299,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6328,7 +6328,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6357,7 +6357,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6386,7 +6386,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -6397,7 +6397,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -6431,7 +6431,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6446,7 +6446,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6475,7 +6475,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6504,7 +6504,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6533,7 +6533,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6562,7 +6562,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6591,7 +6591,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6620,7 +6620,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6649,7 +6649,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6678,7 +6678,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6707,7 +6707,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6736,7 +6736,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6779,7 +6779,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6794,7 +6794,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6823,7 +6823,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -6834,7 +6834,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -6869,7 +6869,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6912,7 +6912,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6927,7 +6927,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6970,7 +6970,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -6985,7 +6985,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -6996,7 +6996,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -7016,7 +7016,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7045,7 +7045,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7088,7 +7088,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7103,7 +7103,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7132,7 +7132,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=302983d3-8efb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7161,7 +7161,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7190,7 +7190,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4378fef0-6c53-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7219,7 +7219,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7248,7 +7248,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9a668277-6bb4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7277,7 +7277,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7324,7 +7324,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1a389f3a-994a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7367,7 +7367,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7396,7 +7396,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=74a51ded-208c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7411,7 +7411,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7440,7 +7440,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -7451,7 +7451,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -7471,7 +7471,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2bffb328-3062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7500,7 +7500,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=005c5662-84a2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7529,7 +7529,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8af3db57-03b4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7558,7 +7558,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=981c4d9f-17b3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7587,7 +7587,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3ccbc9df-6814-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7616,7 +7616,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8f55399c-709c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7645,7 +7645,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=73c269af-b616-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7674,7 +7674,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=121e0614-e562-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7741,7 +7741,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -7752,7 +7752,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -7787,7 +7787,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7850,7 +7850,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7879,7 +7879,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7922,7 +7922,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7937,7 +7937,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -7966,7 +7966,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -7977,7 +7977,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -7997,7 +7997,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8026,7 +8026,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8055,7 +8055,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8084,7 +8084,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8113,7 +8113,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8142,7 +8142,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8171,7 +8171,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8200,7 +8200,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8229,7 +8229,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8258,7 +8258,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8287,7 +8287,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8316,7 +8316,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8345,7 +8345,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -8356,7 +8356,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -8391,7 +8391,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8434,7 +8434,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8449,7 +8449,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8478,7 +8478,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8507,7 +8507,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8536,7 +8536,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -8547,7 +8547,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -8567,7 +8567,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8596,7 +8596,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8625,7 +8625,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8654,7 +8654,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8683,7 +8683,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8712,7 +8712,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=302983d3-8efb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8741,7 +8741,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8784,7 +8784,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -8795,7 +8795,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
   --compressed ;
 curl 'https://analytics.google.com/g/collect?v=2&tid=G-KMP9CG4JFM&gtm=45je4180v9165247784&_p=1704870863475&gcd=11l1l1l1l1&dma=0&cid=401567090.1678097946&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.130%7CGoogle%2520Chrome%3B120.0.6099.130&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&pae=1&_eu=AEA&_s=6&dl=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fstrategies%3Ftime_frame%3Dmin%2C3min%2C5min%2C10min%26chart_type%3DCandlestick%2CHeikin-Ashi&dr=https%3A%2F%2Fopen-v2.streak.ninja%2Fhome%2Fstrategies%3Ftime_frame%3Dmin%2C3min%2C5min%2C10min&sid=1704870634&sct=13&seg=1&dt=Scanner%20by%20Streak&en=page_view&_et=1038&tfd=51075' \
   -X 'POST' \
@@ -8819,7 +8819,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4378fef0-6c53-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8862,7 +8862,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8877,7 +8877,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8906,7 +8906,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8af3db57-03b4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8935,7 +8935,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8964,7 +8964,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3ccbc9df-6814-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -8993,7 +8993,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8f55399c-709c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9022,7 +9022,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=121e0614-e562-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9051,7 +9051,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9a668277-6bb4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9094,7 +9094,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1a389f3a-994a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9109,7 +9109,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=74a51ded-208c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9138,7 +9138,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2bffb328-3062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9167,7 +9167,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=005c5662-84a2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9196,7 +9196,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=981c4d9f-17b3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9225,7 +9225,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=73c269af-b616-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9325,7 +9325,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -9336,7 +9336,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -9356,7 +9356,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9401,7 +9401,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9430,7 +9430,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9459,7 +9459,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9488,7 +9488,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -9499,7 +9499,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -9519,7 +9519,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9548,7 +9548,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9577,7 +9577,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9606,7 +9606,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9649,7 +9649,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9664,7 +9664,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9693,7 +9693,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9722,7 +9722,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9751,7 +9751,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9780,7 +9780,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9809,7 +9809,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9838,7 +9838,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9867,7 +9867,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9896,7 +9896,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9925,7 +9925,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -9954,7 +9954,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10001,7 +10001,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -10012,7 +10012,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -10032,7 +10032,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10061,7 +10061,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10104,7 +10104,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10119,7 +10119,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10148,7 +10148,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10177,7 +10177,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10206,7 +10206,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10249,7 +10249,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10264,7 +10264,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10293,7 +10293,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10322,7 +10322,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -10333,7 +10333,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=4' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -10367,7 +10367,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2a7773b6-abf4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10382,7 +10382,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=302983d3-8efb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10411,7 +10411,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -10422,7 +10422,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=5' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -10442,7 +10442,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4378fef0-6c53-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10485,7 +10485,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8af3db57-03b4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10500,7 +10500,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9a668277-6bb4-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10529,7 +10529,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3ccbc9df-6814-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10558,7 +10558,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1a389f3a-994a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10587,7 +10587,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8f55399c-709c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10630,7 +10630,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=121e0614-e562-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10645,7 +10645,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=74a51ded-208c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10674,7 +10674,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=2bffb328-3062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10703,7 +10703,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=005c5662-84a2-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10746,7 +10746,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=981c4d9f-17b3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10761,7 +10761,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=73c269af-b616-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10828,7 +10828,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -10839,7 +10839,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -10874,7 +10874,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10937,7 +10937,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10966,7 +10966,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -10995,7 +10995,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11024,7 +11024,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11053,7 +11053,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11082,7 +11082,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11111,7 +11111,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11140,7 +11140,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -11151,7 +11151,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -11171,7 +11171,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11200,7 +11200,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11243,7 +11243,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11272,7 +11272,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11287,7 +11287,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11316,7 +11316,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11345,7 +11345,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11374,7 +11374,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -11385,7 +11385,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%22min%22%2C%223min%22%2C%225min%22%2C%2210min%22%5D%2C%22chart_type%22%3A%5B%22candlestick%22%2C%22heikin-ashi%22%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%22overlays%22%2C%22momentum%22%2C%22volume%22%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -11420,7 +11420,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11449,7 +11449,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11478,7 +11478,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11507,7 +11507,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11550,7 +11550,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11565,7 +11565,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11594,7 +11594,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11623,7 +11623,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11652,7 +11652,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11681,7 +11681,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=83934dfd-6f97-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11742,7 +11742,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=8985bf69-3e47-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11757,7 +11757,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=606d4c12-0066-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11786,7 +11786,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b8c45850-b66f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11815,7 +11815,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ab20a993-e61c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11858,7 +11858,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=ed65ae7d-3d59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -11911,7 +11911,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -11922,7 +11922,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -11957,7 +11957,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12020,7 +12020,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12049,7 +12049,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12078,7 +12078,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -12089,7 +12089,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&filter=%7B%22time_frame%22%3A%5B%5D%2C%22chart_type%22%3A%5B%5D%2C%22position%22%3A%5B%22bearish%22%5D%2C%22indicators%22%3A%5B%5D%2C%22favourite%22%3Afalse%7D&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -12109,7 +12109,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12138,7 +12138,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12167,7 +12167,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12196,7 +12196,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12225,7 +12225,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12254,7 +12254,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12283,7 +12283,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12312,7 +12312,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12355,7 +12355,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12370,7 +12370,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12399,7 +12399,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12428,7 +12428,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12457,7 +12457,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12486,7 +12486,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12533,7 +12533,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12600,7 +12600,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -12611,7 +12611,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&page=1' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&page=1' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -12631,7 +12631,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12660,7 +12660,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=7f0769a1-38af-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12689,7 +12689,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12734,7 +12734,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=43318457-7cbc-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12763,7 +12763,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=91c66c5d-e899-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12792,7 +12792,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -12803,7 +12803,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=2' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=2' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -12823,7 +12823,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=287a5d20-17c8-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12852,7 +12852,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c2b45271-be30-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12881,7 +12881,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=4b714f30-d18a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12910,7 +12910,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3bf5b8ef-9b3f-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12953,7 +12953,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=9235f9d0-53b6-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12968,7 +12968,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f92ceafd-b2e3-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -12997,7 +12997,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03942ba7-a063-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13026,7 +13026,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=736181ec-eb3c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13055,7 +13055,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -13066,7 +13066,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=3' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=3' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -13086,7 +13086,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0a0c40f7-8133-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13115,7 +13115,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=0c0589e7-9844-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13144,7 +13144,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=15631982-6920-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13173,7 +13173,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b9567104-fc71-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13216,7 +13216,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f757eb04-65fe-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13245,7 +13245,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=64f6e152-5387-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13260,7 +13260,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=e975a594-8c90-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13289,7 +13289,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6d89ca0c-1c9d-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13318,7 +13318,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f2f05d6b-ef82-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13347,7 +13347,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=1411a6bd-8062-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13376,7 +13376,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=84568cbf-bf59-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13405,7 +13405,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3fde0025-c9f0-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13434,7 +13434,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=b0b9fc53-ef3b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13463,7 +13463,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=eb494620-5673-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13510,7 +13510,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'content-type: application/x-www-form-urlencoded' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
@@ -13521,7 +13521,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&filter_tag=undefined&kind=append&page=4' \
+  --data-raw 'page_limit=10&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&filter_tag=undefined&kind=append&page=4' \
   --compressed ;
 curl 'https://api-op.streak.tech/marketplace/' \
   -X 'OPTIONS' \
@@ -13552,7 +13552,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d27593e4-7e34-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13585,7 +13585,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=438ca773-e4fb-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13614,7 +13614,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=03b39a30-76a7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13643,7 +13643,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=755ec93b-3602-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13672,7 +13672,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=d2aef5ce-a27c-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13701,7 +13701,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=fae188da-592b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13744,7 +13744,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f45f3d63-c113-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13759,7 +13759,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=f85ace90-743b-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13802,7 +13802,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=c7af3e62-4ce7-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13817,7 +13817,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=590b47c1-c25e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13846,7 +13846,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=3664aa32-7d7e-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13875,7 +13875,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=6e8dc5f0-4395-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13904,7 +13904,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=78a02e7b-7874-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13933,7 +13933,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=59e9a96c-e686-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -13962,7 +13962,7 @@ curl 'https://api-op.streak.tech/fetch_backtest_chart/?algo_uuid=dbb76a08-998a-4
   -H 'authority: api-op.streak.tech' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-US,en;q=0.9' \
-  -H 'authorization: csrftoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf;sessionid=GbHyVyk0WjmZwlKP6JFFNe8v61Zbl5Ix' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
   -H 'origin: https://open-v2.streak.ninja' \
   -H 'referer: https://open-v2.streak.ninja/' \
   -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
@@ -15403,3 +15403,754 @@ curl 'https://datastore-op.streak.tech/candles/fetch/' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
   --compressed;
+
+  curl "https://os-analytics.streak.tech/event" ^
+  -H "authority: os-analytics.streak.tech" ^
+  -H "accept: application/json, text/plain, */*" ^
+  -H "accept-language: en-US,en;q=0.9" ^
+  -H "content-type: application/json" ^
+  -H "origin: https://www.streak.tech" ^
+  -H "referer: https://www.streak.tech/" ^
+  -H "sec-ch-ua: ^\^"Not A(Brand^\^";v=^\^"99^\^", ^\^"Google Chrome^\^";v=^\^"121^\^", ^\^"Chromium^\^";v=^\^"121^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "sec-fetch-dest: empty" ^
+  -H "sec-fetch-mode: cors" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" ^
+  --data-raw "^{^\^"user_uuid^\^":^\^"07490c8e-eb5e-4cb7-8578-9c7a2b07d8a0^\^",^\^"view^\^":^\^"/scanner/bearish-sma-and-rsi-nifty-options^\^"^}" ^
+  --compressed
+
+  curl 'https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'authority: www.streak.tech' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: handlePostUUID=07490c8e-eb5e-4cb7-8578-9c7a2b07d8a0; _pk_id.4.e8fc=e2455b5e0ac44785.1705561183.; _ga=GA1.1.2013506926.1705561183; _ga_D30ZJP85K3=GS1.1.1707304882.5.1.1707304934.0.0.0; _clck=17m2z0p%7C2%7Cfj3%7C0%7C1485; _pk_ref.4.e8fc=%5B%22%22%2C%22%22%2C1707378969%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D; _pk_ses.4.e8fc=1; pathname=/home; _clsk=1egdz1%7C1707378982260%7C5%7C1%7Co.clarity.ms%2Fcollect; _ga_5LJDYS3ZB0=GS1.1.1707378968.28.1.1707378982.0.0.0' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-5LJDYS3ZB0' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://analytics-op.streak.ninja/js/script.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/webpack-738a8c7251b9e45e.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/framework-540f1b10bbe8b420.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/main-86461a59998d1af7.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/_app-6f4105f1f845acda.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/scanner/%5Bname%5D-817636fc92980515.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/ocbB_prghrgmQgUtxj_05/_buildManifest.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/ocbB_prghrgmQgUtxj_05/_ssgManifest.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/ocbB_prghrgmQgUtxj_05/_middlewareManifest.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Lato&display=swap' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.clarity.ms/tag/kr82l30mjm' \
+  -H 'authority: www.clarity.ms' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: MUID=351A4D2F07A4677108335F50065C664E; CLID=88cba648019547979a6c9a66a8d7e1c3.20221221.20250207' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://track.streak.ninja/matomo.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://analytics-op.streak.ninja/api/event' \
+  -H 'authority: analytics-op.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw '{"n":"pageview","u":"https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options","d":"streak.tech","r":null}' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/29107295.4a69275373f23f88.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/3fff1979.612c6162f1b345ff.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/ea88be26.43b75960b55a0567.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/11e07bb4.5707a93598069430.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/7083.9c63fdc4eec7f340.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/5488.978ae6403be09fd0.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/1892.f427591a24079d36.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/9319.29d5e1171b4f1efa.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/6125.3dec7996ee419c7c.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/1591.d84ed173c24bcdac.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/5633.24647aebe425a4d3.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/8779.53814537c97c0119.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/4602.3cf6b5f4d1738cd6.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/3970.88fe0d3008da1738.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/9008.82b0c32e2aed33f0.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/8114.bbf0ba275238a4cf.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/3340.8fb02e806f87ab26.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/9706.fb45455eedeb4f33.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/430.8b61574b24f33788.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/1867.2f62c0cedeac245c.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/7236.dad4227a23f66dfe.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/6296.3a88b4f0f1f38e93.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/4617.76f7ffec818ae2db.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://track.streak.ninja/matomo.php?action_name=&idsite=4&rec=1&r=855271&h=13&m=26&s=36&url=https%3A%2F%2Fwww.streak.tech%2Fscanner%2Fbearish-sma-and-rsi-nifty-options&_id=e2455b5e0ac44785&_idn=0&send_image=0&_refts=1707378969&_ref=https%3A%2F%2Fwww.google.com%2F&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=1536x864&pv_id=fddwAo&pf_net=20&pf_srv=87&pf_tfr=2&pf_dm1=43&uadata=%7B%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%20A(Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22121.0.6167.140%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22121.0.6167.140%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2215.0.0%22%7D' \
+  -X 'POST' \
+  -H 'authority: track.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=utf-8' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/g/collect?v=2&tid=G-5LJDYS3ZB0&gtm=45je4250p1v9175102544za200&_p=1707378996203&gcd=13l3l3l3l1&npa=0&dma=0&cid=2013506926.1705561183&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B121.0.6167.140%7CChromium%3B121.0.6167.140&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&are=1&pscdl=noapi&_s=1&sid=1707378968&sct=28&seg=1&dl=https%3A%2F%2Fwww.streak.tech%2Fscanner%2Fbearish-sma-and-rsi-nifty-options&dt=&en=page_view&_ee=1&_et=1&tfd=558' \
+  -X 'POST' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: ar_debug=1' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.clarity.ms/s/0.7.20/clarity.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/3949.60b4074a67224698.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/2860.114b9d411dbd8faa.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27500%27%20height=%27500%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Book.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'If-None-Match: "O0qEMh7+oA1ckgB5O2uwzyYyhiA="' \
+  -H 'If-Modified-Since: Tue, 01 Jan 1980 00:00:00 GMT' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_version_web/' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: headers,type' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -X 'OPTIONS' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: content-type' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271580%27%20height=%27522%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%2716%27/%3e' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/get_version_web/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'headers: undefined' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'type: APP_VERSION' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://os-analytics.streak.tech/event' \
+  -H 'authority: os-analytics.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw '{"user_uuid":"07490c8e-eb5e-4cb7-8578-9c7a2b07d8a0","view":"/scanner/bearish-sma-and-rsi-nifty-options"}' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\nÔ½\u000b\u0093ãÆ\u0091ïûUpxbîj|À\u0016ßÍî\u008eÙkË\u0096W\u008eõcÃÒ^ï\u0086Fá`7Ñ=ô\u0080\u008fC°5lÍ\u0099óÙo\u0014PY\u0095õBe\u0016\u0088\u0091¼^ËjTþ³Þ\u0085D¡øÃÇA1¸ý~0ºº¾\u009a\u008c\u0006ù8\u001få\u0093é(\u001f¼?.\'åt´ýÇv\u0090\u000fÆ×ÛÉO£\u0083ø·âiýÓx\u0090/òQ>ú\u0021\u001f¬\u0006·ß\u007f?Ë\u0097ùx>]äãùè\u0087üûë|<6ÿ\u009e,óÁ\u008f\u009bjs_\u0016\u0083\u001fòï\'\u0093\u009b|:Ë\u0007¿ýû\u001f¾\u001däß\u000fF\u0083\u001fÄÕé¨ÎþûÁ\u009fö?mÊrõåüj\u0094}ñ·Ín½ÿPe\u007fþ.\u001b\u008f®FwÙß6»Åì.;/f¯³ß\u001c\u000eeñ·âþß7§/çÓë«é"ûâß¿ùîO\u007fÌ³ró¾Èþ­xx¿\u007f\u009dýöÝq¿-¾\u001cOÆW#ñ\u009fìÛÕãê¸\u0091\u0092Á\u000fù8ÿ~ðît:T·_~ùáÃ\u0087«êt,Vï¯NÅÃ»/«\u0087ÕnW\u001c¿¼/VÇMõnXmWÃÕn=<V\u009bánóxz\u0019î\u000f§Í~W\r~Èoòï\u0007Ånø\u009fß\n\u009fóüûÁxýÓôÃøzðC>\u00115û¶ö\u009bý\u009fì÷Ç¢È¾}©NÅvuÚ<|w\\­7»§ìP®N\u008fûãöín\u0090\u000f¢\u0019fÿ\'\u0093\u000e\u0087ÈW&\u009d\u0089<\'ù÷\u0003Ù\u0080âÏ©(Ñ\\´\u0080øk\u0096\u007f?xÞ­\u008bÇÍ®Xÿß\u009b\u009bA\u008eþ\u001cOÆÂf\u0021\u0014W\u0093¹ø÷ëüûÁ¬v»\u0014WgËúª¨òDu øÏøzt=½^ÞÜ\\\u008f¦ã\\üg\u009aOGùLä?Ïoòñ\u000cFG¾\\ÌòñB\u0014e2ÏÇ#\u0091ßHd4Êkåt"þm\u009a/ÅpYæÓ¹\u0018su>ÓE¾È¿\u009f\u008fóù4\u001f/¯óÙä\u0087\u001f~È\u0007\u0087f8Îóq>øÕï\u0006ù`·Ú\u0016oÞ\u009d¶å \u001f\u001c\u009eïËÍÃ\u001fÖo\u0006ù ª\u009b«þ÷\u00890\u0016cf\u0090OóI>øæëß\u0008å¯¾zÓ}D\u0088JçÓ|ðÕ_~÷ß\u0083|°^\u009dVÃ]ñaøt\u001c>\u000c«áÃ»âáý°Ü¯ÖÅúÍxv5\u001eÏgW#0|:\u000e\u008bói¸ÙU§UY\u0016¢¬ó|\u0092ÏòÁ¿ýõ7\u007fúÓoþúÇÿ\u001eþîëoÿý»¿üÇð\u000f\u007fþîë\u007fûëo¾ûÃ_þ¬å«ívu,_\u0086Õ»ÕzÿaxÜïOoNÇçBLßi>øã\u001fþüï\u0083|p,Ê7\u009b\u0087½\u0018qï\u008eÅã\u009b/ËýÓ~zµyØ\u000fòë|*ÚyrýCc·\u0012ómxÚ??¼\u001b\u001a\u009a¦yþ>¾\u0099\\\u001dvO\u0003ÑYù5\u0012nW»ÍcQ\u009d@\u0000\u007f_ý£\u0012^nrÑÉßOê¥bróC>8½\u001c\u008a7\u009bíê©øò,³\u001a\u008fò©\u0098aÊiuz)\u008bê]Q\u009c Îµoè¶ÇýîT]=í÷Oe±:lª«\u0087ýöË\u0087ª\u009aü¿\u008f«í¦|yó\u001fûÃa³«n?<½;ýz6\u001aÝÍG£»Åhôÿ¬7Õ¡\\½¼©>¬\u000e\u0003±\u009aMEæ¢xóñ\u000fIYýquÚÛnÅÈ\u0018\u008fQ}\u000eÇB\u008c\u0005Õ¨\u007fß\u0015çÓ\u0097ÕIÌjáíËÅõõÃÃbr³x|\u0098L\u001eæ÷W\u000fU5È\u0007«ªi\u008aA>\u009e\n\u009f\u0013YÔ|1\u0085Òî\u0086Oo\u0006bæM\u0085\u008dªI?í5\u0017¹ÌRsñ5\u0095\u0018¯b=\u0005\u008fõè8\u0089ÖiZ Ð^777×Óùõx¹\u009e\u008d®§\u0093EÓ^c1ªÇ\u008b|ðíwÿýÇ¯aèü£ªÞÀ¿o\u008bÓê\u008d¸ñ]ý£ª&\u0093ìc&Ës\u009b=\u0096Åù.;¬Öb\u0089½Í\u0096\u0087s6\u009e\u001cÎõ¿LF\u0087ó]¶Ýì\u0086\u001f6ëÓ»Ûl²¬¯\u009c\u008e«]µ\u0011+Âm¶*Ël\\e?®\u008e_\u000c\u0087«Ýf;||Þ=\u000cï÷Ï»\u0087\u0097×wÙªÜ<í\u0086\u009bS±­n³\u0087bw*\u008ewÙýþ¸.\u008eC±®?W·Ù¢Îfu|Úì\u0086÷ûÓi¿½ÍÆsqñ\u001fÏÕióø2|ØïNÅît\u009bU\u0087ÕC1¼/N\u001f\u008abw\u0097}ª+4Í>f²\u0084Óº\u0080ï\u008aÍÓ»\u0013üeÕÕ["\u0099{Y<\u009en³q-³\n9\u001f½ò\u0094\u0007ô² ·ïö?\u0016Çìcv¿zxÿtÜ?ïÖÃ\u0087}¹?ÞfÇ§ûÕ\u0017£<\u0093ÿ\u007f5º~}\u0097}\u001aäc±´\u008c¯óï\u00977ùÍè\u0007£ÇVï\u008boë5\u0001ºn\u0091}ÌNûÃmV\u0097°)mý¯²úã\u0091(%T¿ùËªþOÃÍn]\u009co³\u009b\u009b\u009b\u009b»ì°\u0087\u009e|Ü\u009c\u008b5ÔäZ7éR8iÚç6[=\u009föwÙþ°zØ\u009c^n³\u0011\u001a:\u0093\u0099\u001a2¢\u0011\u001eËý\u0007°ß®Î0\u0084æ#Ù¸g¹\u008cË\u0096\u0099Lòl6Í³ñx\u0021ZgòZÔ+\u001bk\u009fÂ\u0007T¬.\u0092Õ?M§5¥_f\u001f\u008d2ÚåáçÞø½É>fÇ¦\u0008¸Õ\'ËW\u009e\u0086Dóf6rªÐô\u008dU\u0007\u009dÕt\u0094}ÔM+êæÎÆç]U\u009c`<WEùØtñ°Ø­=Í%\u0084z^\u0004òFÃ(û\u001f\u009bía\u007f<­v\'£\u0003ë\\\u008dÄ¦Àã\u0084¡é´\u0099;m\u009a\u0085E\\_\u001f÷\u0087¯\u009eÄ¤ùõ¶XoVÙ~W¾dÕÃ±(vÙj·Î¾@¥¼^.\u000eç×ÙÇ·»,S]g\u0094ä\u0093J\u0012£\u0005Æw3|}ÃÛ?°\u009dÞ\u0008µ Ê®îYXåj§º\u0015V÷Õ¾|>\u0015îà^\u0088á(þ1jþ[;\u0014«\u0087\u00884ÆKßêñï\u0003\u0011£O\u0085I\u0093\u009aß\u0088\u001bs]å9\u001e]jlÂh\u009døÖ?qWHlûù%k<\u0011Ñ\u008bxøpküS\u0021×I1\u0016ÑHûñ\u001dî¹w\u009bõZ\u0094ºî@]\u0092cQ®N\u009b\u001f\u008bð lªÛ\u000cÁº\'Ñmg2WSwf-\u009djýÝìÊÍ®\u0018Þ\u0097û\u0087÷îMtt5\u009d»÷ÑbU\u0015\u0090\u009fhF<\u008b\u001fVåÃ\u0017õ@\u001bfóÙá\u000cv\u000bóþS\u0007\u009d·Ùó±üâíÀ\u008c)ê¾\u0014ññf÷÷û§«Ù´(Æ«Å£\u0008yß\u000e^\u001b-¡\u001bª¹å\u0099w>t»À¥\u009aN\u009bbÉ»«\\:gz\u0099[úucqãnÓ¹³¹îö\u0011¬Aã\u0091±>ßÌ\u008c8Àì\u00085ÛÇx8T§ÍÃû\u0017ÙMâ\u0011ö¶ù×ru*¾\u0018\u001dÎyf\u0014±Îuê\u008d\u008e¦óÑ6Ø±VÔ3]\n\u000f?\u0016ÇÓæaU\u000eë¥ýVT\u0009j¨VÙù\u000cUðfD¬\u001f¾ù/ÿ\u0009ª;±nä¾\u0085£Þ\u0088Ù\u0094µI3·A=5nI\u0089\u0021\u0092/FÒó\u0002â\u0087ÙM\u009eé\u007f\u008c®\u0016\u0093PìÛ\u001eB\u008egj\u0008Ïë%E\u008eýÉ\u008f\u001fÂ=é+b¨#_\u009b=¦Ì²Y[¿5e\u009b·<84·\u0007J´ß\u001eH{\u0003ç/æ\u0013\u0011\u009b\u008dEóNUq\u0016ÖàðV¹^\u0009`ô6ºk\u001dÅÁ\u009d\u000e\u000fGçYÈllÒÝk®×¤%¾ÕNì{í5ZÔÆ7®i\u0013w\u008eì\u0004Ï={\u008cã\u0093áÙ\u009a\u000b\u0093_Bx¦\u0083¥ñHÜ0_;¡Ãxº0c\u0007ûÆr=\u0017÷\u0087\u0089ï¶2\u0099É ¡QÖ7\u0003¸\u0001ÌqÀ§çØr\u000eq\u0005¡Ì2¬q\u008a<ªKã-rÓ\u008cf1GÑ,Ã\u0091\u0014Ñµ\u000c»F\u0086µX@\u0088ÙÎ\u0017K#Ûz\u000c\u009bC\u0003ÅËè\u0019\u000fld,,\u0003¶z\u008bïw\u007føÿ\u0006ù`³~ó÷:\u0002\u0019\u0088ÍÓ\u0099H\u001büê»A>\u0010\u001bÄ\u0093Y³§:øó×ÿõÝð¯\u007fùÏï¾\u001eþæÏ\u007fþË\u007fþù·_ÿu vTgõ&ïx,âØÍúM¹ßo\u0087\u000fûíaµÛìwÃí\u008fÓA>¨·\u0018×oÊMñp¿^oßo6\u009bw»b½¿ß\u0096ÛMY¾Û¯ÿñ~½½\u001f\u0088½Ùy>øÕ·b÷T<d\u008b­Óëz\u008b¹Î@lÜÍòÁ\u007f\u0088ý¨ãf5,7?\u0016oVU%nV?\u0016¸.ÃãþùT\u000cW»\u009dØô(\u008e\u007fÿ»Ø\u0085Ü\u0097Å\u009bUY\u001cOÊ\u007f³FÈnz(7\u0007\u0011t>\u009cÔíUÿã5\u009a\u0089zoä6\u001b\u001a\u0093\\Oq3\u0094÷­O0\u000eê\u0019ÿns*\u0086õNÊm¶Û\u007f8®\u000ehå\u0010\u007f\u008aËÇíª¼\u001b\u0088ýðÉ<\u001f|ûõoå^ìfýFî¿¾ÛW\'Ýü\u0003±\'.ö×\u0097b»s½ùñJoØ®\u008bêýi\u007f\u0018nv§âé¸\u0012\u0085kFWó\u007f\u009e\u0002ëDTr}\u0011·\u000eò£\u009a\u0001]4ÚN_v\u001aQ\'á®Qû5¯q\u0091<\r¨SU7£kÃíþ§ásU\u001cÅszñp\u0012²\u001d®åðCqÿ~sj·ÙVFº\u0095\u001cLúôv\u0007ÿ\u001aí\u0096Ûûâq\u007f,pï¨[ôêt:~Q?mÉKºM>\rÄ\u000b\u008eÉB\u008c\u00019?\u009bI³º/Ê7:G\u0094\u0013Ì\u0011q?\u0011oâN«ûú&ûf8\u001eä\u0083\u0087rUUoZ\u008b\n\u009b\u009b²0o>¾\u001dl÷ëâíàöíàñ¹,ß\u000eò·\u0083Mõ\u009b\u00071_ß\u000enÅ\u009b\u0082úÊ\u007fVÅñw\u009bju_\u0016ë·\u0083ÛÇUY\u0015¢\u0002\u0093úåÏX¼É\u0099^\u008b\u0017@bÇY¼®\u0099\u008a\u0087Nµ»jïÕþZì\u0000\u000f\u001fW\u000f²Õê??\u0014ðÌÒ\u000c\u0083úb½\u000cÜf0¹Ôõf£ø6{Ø\u001c\u001f\u009eËÕñ®é°êøÐ<¶ýËCý¾O¼=)v\u0095è¥/¿\u008c­oÍ¾ô\u0097¿\u0095.ÿë¿þVÜ\u000f¿Úïß_}Ø?>Nþåu&"¥Õé\u008b\u007f\u0091\u007fß½ÝÕ\u0003¥µ:×¿°ê\u0094ë¶ê\u0088w³ó\u0089èÃ\u0099è]}\u000fÚ\u0088×]ð\u001a\u0009¯`saúýì\u0007\u0018\u0080§wÅ¶\u0018®WÇ÷ÙCU\rG\u008dü´ß\u0097§Ía¸Ý?ïNÃrõR\u001c\r/M\u0086skC¾ØîÅ°}£oXOåþ~%ÞäÝ\u008aWYÙGÙ¬\u009b\u009f\nõX{¿_¿@\u0082Ý®y6lÞ_5/ÿòì«r³{ÿ§ÕCóîô÷ûÝ)ÏÞ\u000e¾-\u009eöEö\u009f\u007fx;È³jµ«\u0086UqÜ<ÞeF\u0004Wîª&¤\u001b\u008a\u001c_ßá¢h\u000bqñÛÍOÅPÄ\u0010ÏÛ×wYý \u0009«±6\u0014\u0097¿©¯jÓ¦\u000eÅêô|,\u0086Uq:mvOÕmövPU£åÛ\u0001TöWyVÿï­\\\u008aÔ\u009f«ÇS³µ.6o7?Õ\u000b½\u000c»ï÷g%Ï>ªÅ´©Ãv¿?½«­W»ÓfUnV\u0095\u0088eËât\u0012\u0083@<@\u0088Ä:¼\u001c\u008e®Fób\u009bý/ñ\u0008×<2Ô}\u0093gWÍP(E\u009dòìûºGËbW\rëëoÞ\u000eê\u0094·\u0083\u001fDþ¨9\u000fÇÍvu|Á\u008dS+þX7\u008eaóúÎ§üFÜ©(òÚÐï£Y\u0003)N\u001aKË\u008bhØV±\u001c3¶æw\u009bí¶XG\u0095\u008d\u0099­G\u008fØmze\u0016ÔÇ\u001bÐ²\rz"4£m\u001côõmñ°ß­c#Ãc\u001f÷8áº\u009cX>E#ÔÏø-n¤\u008dÓëMìÓÚãÂÄÒ=î\u001f\u009e«¿Öó°Eª¬,õ±xØ\u001fÛÇIcâÕÅÇ\u0007²óz \u008c\u000blhùØì\u001e÷­Za`iªç\u0087\u0087¢ªZeÒÆR~X\u001dw±v\u00966\u0096r½Ú=E\u001aª1ñêâ­\u008cì¼\u001e\u0008­\u008c\r=óDlQDç\u00860\nh\u007f·:¾\'é\u0085aÀÇw\u001f6¥}·\u000cú\u0001c»=dðú[\u0088ÌÛ\u009aÄ´µ<½Û<½\u008b\u0017GY\u0005Êñ\u0015m­vÍ\u009dUà¸ýý¦(×_Å\u0097\u0011Ë6è\u0089V4\u008f½Ý\u007fÏ§Ó~G(\u00186´|<\u001f\u009e\u008e«uû\u0010\u00966~e|\u0012aC¿\u000fÂ42,-/§Õ=±M\rKwä<\u0088"¾Ð\u0087\u008em\u001fòXË¸n-QÈ÷w\u009bS\u0019Y\u0081\u000cÓ\u0090\u009foHÓÎ5¯·°õ3\u00897\u000e\u0015\u0009ô0T¬TéQ¨«æ\u0007¡®\u000fz\u000c\u008a´¼\u0010Ô\u0012r#P,O\r@½>\u0092âO¯§äðÓë­SôÙî\u0091\u001a|"/¬ØÓèjVè\u0089\u0094ÌÈ\u0013)Ù\u0081§£eÇ\u009d\u008e\u0007zØ\u0089¤\u008c¨\u0013©xA\'\u0012²bN¤c\u0087\u009c\u008e\u0096\u001dq:\u001ex\u0001§5\u001d¸ñ¦G\u009e\u0012nzÜ$F\u009b¸9\u0012\u0083Mä¢C¬é)Hr¨iÌý®\u0091¦×YR \u0089{\u008d\u001fg"uB\u0098éªùQ¦ë#\u0021ÈDNºÆ\u0098æ\u0090¹T\u0088éóÚ)Âô9L\u000c0}®\u008cø\u0012ö¢\u001b\u008dØBý[³\u0091{¿ß¿o^høÒÊuóv@¦=ï6â\u0085ôÕüXl±}½{\\mWe\u0009\'¾®æÙ¯P\u0021\u00850\u0017G/^«º¡Íd©\u001c_Í\u001d§"\u008e\u001bVÛ$·JësÜl`+¿×\u001cÇ \u001d_-ü\u0005Þ®Ó\u001c+±Ïs¹:\u008a\u0013\u007fµßÉÕ\u0084ãWJÇW³@\u000b\u0097Oi\u008e\u0095Øëú\u008c\u008b<e¸=«\u0002O]¯ï\u008aú\u0087czTp<c±×ûÙ(ô\u008cSh]êI°Ðjdp<c±ÏùÙ,ô\u0082Uh]êq¸­ÕøàøÆbì½9NeÍÀ\u0098_)2&\u0001QÃ\u001b\u0086R$Þ5KÉÍÍML$_:Ê\u0085lÔèFáÕ\nV\u0087ðdËÞUeóË\u0092Wò¿W£¹\u009d\u001f4aO\u0019\u008eíüdCªìÂ\u008b[¤±Û3«\u007f\rtÆ÷\u0093\u0096\u009a\u0099*ã&D\u0093\u0018ã0:¦\u001a\rkDÉú`\r±6æ¼^ÆDVLû7t:(lð{ñ\u0010|\u009bM<Vßà#é³x\u0017(á_å\u0081Iò-Eg¹?n~ÚïN«ò?àØ\u000f­_¬ª}+\u007f\u0007´©\u007f×2ªÿ\u0083ßx»íðÚyg\u001ezDðf%\u009b\u0091\u009e_-p3½/\u009f\u008f\u0087²x\u009dwð\u0011Þ×Xß63o<Î\u0097£Wùlþ*\u001f[F²\u0000\u007flº¾¶\u009eÌFùrz5}\u0095ßÌÅ?\u0003\u0092?É\u0089$5\u0093|9~\u0095/¯¯\u0016A\u0005¶]^Í^å\u008bE\u008bÿæÁY+jÏ\u008b\u0089k¿\u007f|ü\u009b8Ì%\u008dgó|º\u0010ÞoæW×^ïfmG\u008b|¾\u0014åXÎ¯nüöÈT\u001céÈ¯§\u0081r\u001b\u0085\u001e-òÉÍÕüU>\u009dú\u001cï\u008fbß\u0001\u0017Ez_ÞøÚ°1×\u001dZ\u009b.&W¾\u0006©MQQÆãüúF\u0094a1ó\u0095äT¬J\\\u008eñr\u0094O\u0084wog\nkd8\u001f\u008b¶\u009e\u008fC¦¸\u0018ËQ>^\u0088\u0012O&¾r¼\u0014e¹ÿ\u0080K2½\u0091Mr}µ\u000cÙKÓù¨1\u009d_ûú¦1Ee\u0001Ï\u000b\u008fß§cñ²¼\u0085\u009bÖèU>öx\u0014F×j|.òñâU>ñ´\u0081°[\u0080Ý|Rû\u009a\u0005ìæh\u0006^û\u0007»0\u009b)w7ùxò*¿öÌka7\u0005»Å(\u001f\u008bÉ\u0019°\u009bXv7\u0001»±Y¼\u001bÏìú\u0080&bÓt¢\u0091µUèÈJtih=0ã¨çD5ìpXòÙ<"o^d\u0084\u0006HË\u0001\u0099Ö\u0081ÐrÌ\u0083Ó¤ÎK\u000bg\u008câð+zúÅ«\u009fRôèý\u0084ÇÅhÆò1AËûìU~½\u0014>&a\u0017ê\u0015\u0004£áä~\u009dÓE­\u0019¡w\u000fÞ1<º\u009a\u0087Åðî¡uUo;ËbIç4©Ñ³ \u009dÅ´ÍÛ\u0086ö[aè\u0004Kô\u008e\u0011:ÀÒº^\u0007\u000e\u008f´\u0085=mGVLÝ\u0094\u0092\u0095Ý\u0092µp\u001c\u009d\u009fÍK\u0005s\u0001i\u001d(æë\u0004[x\u0013\u0017ê\u0097\u0008r\u0094ÎóÙLÜUg\u000bq/\u001e]-[ªj¿=\u0008ß¥ÂçN\u009cè\u0012¦Ç¸¥Ú¾7\u0006-÷ªØ\u0009\u0093Ö\u001b"å@\u0009k91^\u0002ø\u0016\u0095\u0096\u008a«í\u007fsºÝ´O6sïß\u0094F*kíù[³üºUkmõ{ª\u001aécw\u008f\u009fUíð¦¾å¦½\u001aö\u0006>ùþîÛ²w\u001bÐ¹kº§&\u008cç\u001d±¸:Ù\u0006NkÐ" Ð1\rZ\u0000d\u009d·h\u000b\u0006Ãç3¢k\u0087÷ A¤/ÂÇ0\u009cùê\u0084>-\u0007/<â\u0009Al\u0087=Xo\u0007=\u0091c\u0015:æ©§Ò¬½\u0008\u009e\u0090gâ.QÎY\nÏÓD[.ìxÇ9Ê@\u0009wü\'((ÑNàä\u0004%Ø±NN\u0090b\u001d÷Ü\u0004-Ôq\u008fMÄ#\u001dçÐB4Ðñ\u001f\u0094\u0088Æ9\u0081Ó\u0011Ñ0Çs \u0021\u001aå\u0004ÎBD\u0083\u009c\u0096Ã\u000fÔ\u0018\'|ê\u0081³Lñ#\u009cÖC\u000eÖýsÒ:ä\u0002ñMøñ²ý\u0018\u0003c\u009du\u0083\u001bc\u009d\u000c×Ø\u008dln&¯êÍÃpn\u0081¸F\u0008¯g\u0004¡\u0013Õ\u0008å¢õ\u0096å\u008bi\u008cÛHk\u009f¶\u00044ñÚFÂ\u0019Bïx#\u0019ò:Æ\u0009g>]=¼}{{,ÖÙÇÐ\u008fÑ\u008eõ©ÌÆ\u0010o7\u0087\u0015ØÊ\u00966ÛÎQí\u009fà\u0017k\u00868*³\u0005¢U¢"yt«\u0011ÂntX\u0005\u00168/B\u008b¸ÍÑ^\u001dÓ\u007f´"V-ôætKE´\u0091%\u008ci,óöÂi\u001b%S;Öa\u009521Díö\u0086i{¡ÀBIÐæuX\u0085\u008c,aLc\u0099·\u0017NÛ(Y½§\u001dVÔÉ\u0086ñu»ñµa¼h7^\u0018Æóvã¹a<k7\u009e\u0019ÆÓvã©a<i7\u009e\u0018Æãvã±2þÐ>÷?\u0018\u0013_>\u0084\u0085Íõq~Cð\u008d\u0004T¶«àd\u009f\u0021mî\u0084Q­:Ñ\'W\u0090æ\u0017Ì¡Õ£9¶¯M\u009bG½v\u0081:®/eê.×"Ã\'ïlY¤MÜãù¶\u0083XËx\u008eåÛ.Ô\u0083\u001bÅ\u000b>\u008e\u001ftÔ2H\u0003ÇðåºÚ<\n¶,ªêø=t\u009b\u0088äÚºL¾\u0014oÌÕC`X\u0081_KC\u0094 \u001eÇÚ\u0002\u0005yÌ\u001e\u009bGúÕ<^\u008f\u0085±þ´\u008eÕ7RñØ\u0017\u0096Èãô\u008d©|Ú\u000b[ëcôrih\u001eóZ\u0016\u0007u|¾\u00114\u008f^a{ul\u001e\u009bGÚË<.\u008f\u0085±ö²\u008eÉë\u0021+\u009e¼Ú\u0087©<\u001eoJ"\u0011\u0089y,Þ\u0094Âs^\\\u008e\u008eÃËº\u009aÏy-Õu\u008eÁ7\u000eÔÓ^XúÎø©\u0017Îõ+Â*ç=ö\u000e³ÎxÚk\u009b{öY\u0016Û\u0001¡ þcî²\'Ðã_K/\u0098ÇÛ\u001b©|$\u000b«ô±vC\u0010\u0019ØÖqvC\u001a\u001bÚö1v\u0019\u0004â\'À\u0096HÐ:¾®zÜ~\u0006lírÏ±uË\u0091õ0Hðæ\u001eW·\\ÖO\u0087\u0004GpLÝ\u0092\u007f\u0013\u009f\n\u0081\u009f?6\u0007\u000cÅ"*\u000eð\u0001\u000fD\u001eâÒ>ð9KS·\u0085§ÀVáV?\u0004*e}Ä.&¬\u008dj]s>ÔÌÑ \u0004j­qÐÕ\u0014ëLÛµ\u009e|ÏTíÙ#\u0016ÇZ\u0009RaV\u000bï\u009fôÓ|\u0088\u0013è>Ø7*ëÑ>.w\u009eò\r?ê9\u009fì\u0008=ò\u001b\u009e8>\\µ¼M\u0091=¨\u001bVã\u0005m\u0007Ä]\u0018;\u0003ª\u0014¼&õµ\'¹\u0009ì\u009c9\u0095wjnl\u0021\u0010*oí&`/\u000c\u0007\u008e\u0096\\\u0007k\u009f¡ñ\u0081w\u001aâ.ÌM\u0007í\u0081,¶tä²\u001bÛ\u0011\u008dÞÜ\u0090\u0088»°÷&°\u0017\u0086\u0003GK®\u0083µkÑø\u0080}\u008b¸\\oahå5Yym)\u0017dåÂRÎÉÊ¹¥\u009c\u0091\u00953K9%+§\u0096rBVN,å\u0098¬\u001c#å\u0007òbøÁZ\u0009õfI\\\u008b÷M\u000c5\u0004\u0091d\u0017:\u009e4ü¨\u0088\u0092ì\u0008\u0005\u0097r}möT\u0008k+l¯h\u009dÚ`¡©Ñ^\u008bô\u0081ÃH\u0082\u000f3\u0086´}Ð\u001bÕ·\u000bc{c4­wKÆö\u00877e8.Íý\u0099 WÚ\u0004\nnÖÈ;\u0095Ú®\u0021Ü¦ÐÎ\r\u008c\u0008ù\u0018F\u0019\rêY¬Ñâ\u008d\u009c¸ÜÜÓ\u0081hQîêP\u0002FµÁ\u0083µôñcïö`/\u008cqãlý4~äæO\\¯ö\u0081\u001a\u009dÞ\u0009\u008aKñ¦\u0090\\\u0011Õ¶\u0010aMD;D\u008dZí\u0011ÅÅh»\u0008ké­oï\u001da/\u008cÖw6\u0092ôÜ\u0092[I´ù¤v\u0095L==fµ·\u0098L?h\u0093\u0089îËØo\u0092íãì8\u0011\u009aÈ³ùÔxÃÛOq?æN\u0094Y\u009e¯x÷\u0080À¶\u0014¬"öÆ\u0014e-q÷¨lo¼"\u00866¬d¿\u009a[V\u0084>µw¯\u001a?zÿ*î\u0002oe\u0019jú¤söµ\u000c?\u008ciçnrÉç\u000ck\u009b\u008bð°áìx©\u0091åÙó"\r-ïö\u0097åÕÝ\u0000c¸öí\u0085Yþa7\u008cáUo\u008cY¾¾aMÓÀ.ÙöíÛÛ\u0091ý]«æ²Àõ£\u0094\u0086Þß$\u009daO\r\u0012Ñî\u0016ú©­Ê\u0021fnZ«m°\u00909ÚþÚ¢\u009d¯\u0090¹Þ´ÚâÍ®`Ù-û¸\u0000+NF\u0083\u000eõ§4d\u009aÑªM²jÙ\u0093Û´\u008dE[ó\u009e\u009cöõk,\u0089ÕÈ~\rnè\u0093ÓÒ~\u008dÕ\u0016g\u008aÆn@»Í\u0003*,»7ÛÝø\u008c\u0098L6\u009b\u001e,Tëß{Z\u001f\u008cÚ:àÞí\u0080\u0090ÌRÙ}\u0010\u0092án¸w»\u0021$³ZÇnÓ`Ýl\u001dY\u0088\u0095¥Ù\u001fèC22Ñì\u008d&]õEéé\u008bÆ¤­\'J·\'ü"Kc÷\u0083_\u0084{¡t{Á/²ZÄnÊ@\u009dl\u0015Q\u0086uG³ý\u008d/¿4©f\u0007H\u0003Õ\u0003GO\u000f\u001cmR\u0090Û\u0005G·\u000b\u0002*Kd÷A@\u0085;áèvB@eµ\u008bÝ\u009c¡zÙ2ª\u000e\u000bÏÁyàï\u0099sëÔ\u0008tÖ\u0099?]è]zæÎ*r¿\u009fùs\u008f>:ÎÜ)J\u001eBgþD¦\u000f´sÊ|g\u008cÇ\u0097P|\u0012¸q¾´Å,¡[é\u000b;\u0090aÜo_\u0098\u0001\u000fý\u009eüÂ\u008e\u008b\u00187î\u0017füD¿¹¿°Ã,F\u0004ð\u0092\u0010\u008e1â\u0084\u0083\u001c\u008eæ\u0097©\u009aëj\u0004©Ä\u0096aq@£"ho\u009a«®\u000eÚ£þ; î\u000bÚ\u009bõ:Gí­\u00868\u0013\u0014Xr2\u001bÏxØ8\u009c<-\u0018}\u009a8\u009cÜf\u008c=N\u001cN\u009e¶\u008c>O\u001cNn\u0083Æ\u001e(\u000e\'O«F\u009f(\u000e\'_ÓÆ\u001f)\u000e÷VóZKãáÞ×Â\u0084\u0015ìpïiäøòt¸÷µ3aé9Ü{\u009a:¾®\u001cî}­MX3\u000e÷Þ\u0006\'-\u0007¥ÕæÆsÃ¡ôµxô¹àPzÚ;ö`p(}­\u001d}28\u0094\u009e¶\u008e=\u001a\u001cJ_KG\u009f\r\u000e¥·\u009dã\u000f\u0007\u0087£ÕÊf\u000cz8ú\u009a9\u001e)\u001e\u008e\u009ev\u008eF\u0081\u0087£¯¡ã\u0001Þáèiéhðv8ú\u009a:\u001e\u0097\u001d\u008eÞ¶&D\\\u0087sxH\u0007Úÿ\u009c0Ì\u0019ÝtfO\u0007zg\u009e\u0013f\r£ÏÏìÙE\u001f\u0019ç\u0084IÈ\u0018@ç¤ÉÊ\u0019h/Áp t\u0007{áÇ\u0008\u009cûÜ\u000b7\u0098`Ü\u000c_øA\u0007ç\u0096ùÂ\u008dN\u0018÷Õ\u0017~\u0014Ã¹û¾¤\u0084;\u009c\u009b´ø¦%êÙö/\u0000B\u0097Å?\u0000¨;Wf iËÑ,¤\u001d)\u0013m«²Q£èò\u009f24«²]Óª²]Ó«²]ãl ÓÛ3\u0081\u009e\u008cgáô¹¤3ÓêQ>ÑëQ>álÎ´\u008a\u009cé5q\u0087¯æ6GóÑ¦¤¼\u000cs]\'j¥8µ\nW\u008b0Ø´)«Zæ\u0090;ÓëÅªX¸f\u0084á§MY5\u0093\u0083°ù\u0088m=Ú÷ï\u0021¯\u000f\u008e\u0003\u000byoKË5QZ®í\u0019ÖÓ2Á¨\u0087,ÌI¾®îc²ó\u009bf»Úì¾#\u0095¨ËÈæ\u0097KÄpÙÇLü5\\\u0095\u009b§Ým&.\u0021\u008b£|M\u008fMêkÈæ¡Ø5ß­ÅFÍÅúå¿:T"y\u0018ãÃ9«öåf\u008d\né\u001eÀ«ÿõ»æÄSó\u000b\u008d:\u0010`\u0088¿ª#\u0002­\u0087\u0008\u0081áâ\u008fM\u0003I\u0007MÈË\u0090ÿ\u0015\u000e9È\u009f\u0098là\u0093îq\u0007\u009b\u009dèæìc¶ÞT\u0087\u009a[Ô\\©\u009d\u0097û\u0087÷8©¾ R\u001eËâ\u008c\u0013ÄßÚÛW¶®¹<Tòæïß[N¤\u0015ø\u0012_^ÇÉõ\u0097ØeÞ\u007f;®D\u0087\u0089\u007f\u001d\u008a\u008fÆßfõ§ãeêï6â\u0093ó\u009býN\u000c\u009a}ù¼Ý\u0081í\u001aRn³&Á\'9ÖGímûãþC]ôS±\u0015?ê©NÇâôð\u000e}#Yü\u0096I\u000eJ\u0099x\u0097Õ\u007f\u000fk\rºª½¨\u0021íq\u0002#Ûð¡\u0087;¸¸_U\u0085ìB\u008f\u0013HµÜèËÚ\u0091¨ð·§ÕQ\u000c$Ã¸n\u0089J¤Øæ_×\u0007\u0080\\ãb·6Úª(\u001f½\u009eE\u0082ëY\\õx®\u008d¥ç\u007f<W§Íã\u008bUj\\ÿÃêá½hòÚ·4\u0087\u000fÜÛU2½5Y»¾ê¬ý\u009e\u009cRyûµq\u0003=èxÒ]«ýÔ\u008f\u0016_\u0015§\u000fE±óz\u0093¦\u001ewÍSÉ}£õxý\r\u009cß\n(WuºGøõ\u008fÅ®|\u0009\u000b\u008b:]\u0008\u009f\u008eõ\u008fýFVÉE\u0093Ýf£»¦í\u0084Qý\u0097²\u001f{íÇ\u0086ýø®þ9áq³{/shº´¾"Ý©ä±\u009dÜ¨\u008bòQ¿ºk\u0086\u009a¸¦ßÒI\u000bwb4fæ BÆxð"S9J¤¡\u001a"ØN\u008f\u0001i\u0085f7¶ÃóWZê\u0005\u0009\u001b¢5G\u009cm{,ë\u0016~·Y¯ë\u0001\u0005×n³æ\u0092e\'ÛF[AË\u001c\u008br%Ï<\u001eöÕF®\u0090ò¢0XÝWûòùd\u001aÀÅºÔ§ÍÃû\u0017#¹¹T¯È\u009bsýÃ\n\u009dV_©c\u0081=¼\u0010Ãïr\u009a«²¸Æ\u0091±&EmáÄ^ï4æ­Ö¶±z:\u008e½ÐiÌáY ò&G\u0096»Õúì\u0098Gì\u0091 \u0009RdSZ»^*M6¨ýöZ¥«f%ìu)QLã\u0091 \u009fýF7¦\u0094Hÿd7¶ß¤ë\u0013Óø\u001að\u001cW\u0021\u0099\u0088íd«\u001bonäuÙâæa/\u0099¦Z;ú>G\nÚí\u001dsÕÊÑw8R\u0000õ\u008e½½\u0081ò·Û»\u008dt\u008e)ð¯­åc¥hXóe\u0001¤È¦µN\u0006AªjÜøë\u0001\u0090D\u0014®@5p|\u001f\u001f$Ð\u0000ÑÍyU\u008f\u0088ÂÓdç¨\u0006\u0089>\u0088o èÖüÐ|ï\u0006Z\u0013RåOÞeª ÕáÔ\u0091N\u0082C4\u009bÝßPâv³\u001b\u009a\u0006ï\n³\u0017ái\u00152Vé2gH\u0087¬Uú\u0008%JßEYn\u000eÕ¦òÞ\u000fëgM}\u0019lï²ú\u0097\u0091M\u0003\u0089g\u0013xþ¨\u008e\u007fi¢#ßmï\u0003ú:\u0090*\u0021zý`\u001c4ºÍ\u0086u\u009a[¦\u0087rs\u0010·Û\u0087Ó\u0017£Ã9Ï\u008c\u007f¼\u000e\u0014M>\u001b\u001aÍúk1âVÙ\u0017¨½§ãbû:ûøv\u0097eWçjø@ä\nbû4¼ Ç\u0003\u009b2èñA\u0082\rzt,æ ÖóÐ\u0083VÎ,\u0002¡­\u008d\u0083\u0008m\u0005\u009dGhÔ0\u0001Kèê)tBWÅ\u0081\u0014b5\u0097UhkãÈB[A\'\u0017be\nÀÐÕS8\u0086®\u008a\u00833Äj*ÕÐÖPà\u0086¶\u0086Â8´5\u0014Ô¡­¡\u0010\u000fm\r\u0005|hk(üC[CÁ b\r\u0095\u0086\u00885\u001c(¢GÇd#z<°\u0011\u0089ÆÚF"%Ú\n\u001e0ÑP³¹\u0089~5\u001f\u009fè÷\u0093BQô{J\u0087)Fü%0\u0015\u008d»\u0001\u0003­hö3\u0095°\u0088U\\Ð¢\u0019=Qy\u008b®\u008a\u0087]tõ\\ú"ö@\u00830b\u0005\u0087Åh¬O\u000c$#ÖÑÉ\u008c®\u008a\u0007htõ\\N£=\u001bè¸F\u009f\u0092GmôyH\u00837\u001aíÐ\u0081á\u0088ýpQ\u008e¾2¤\u0013\u001dÍY\u009e\u000evôûIç;\u001a}\u0096\u0084yÄ\u001e8´G\u008f\u008e\u0009}ôx`³\u001f\u008dh:\u0011\u0001i\u008d\u0094Î$H¯¿\u008b\u0000\u0021½\u009eÙ\\H¯\u0097d<$xK¤D:r.,Òq wY)ÌH\u0090wAG:>t\u0011\u0088\u0004IÇC\u0002HÒñÁäI\u0082>\u0009+i\u008a;Ó%½îº@&½\u000e¹¬I¯\u0093Tä¤é,\u0099<é\u0094)\u0015@é:bq(]y\u0012\u008eÒj\u0095nTJ\u009f3&\u009cÒç"\u0091Qiºê\u0080ªt\u001d±\u0088\u0095®<\u0009\\iºéÈ¯ô9cb,}.\u0012i\u0096¦«\u0004¨¥ë\u0080É¶t\u001d0\u0011\u0097®\u0003&éÒuÀ\u0004^º\u000e\u0098ÜK×\u0001\u0013\u007fé:`R0M\u0007\u00090LÓA"\u0013Óë$\u001d\u008déu×\u0085\u0090i­ü\\P¦+OæeZ®º`3C®:Ñ3CN;B4Cn/ÂÒ\u008c:ï\u0086Ô´î¯idM{\u0008%\u00006M\u0017\u001d8\u009bv\u0014\u009d\u0080Ûô¹H¦nú\u009cu\u0080o\u009aîØ\u000cNS\u009e\u0088â´\u0096å4"§é$\u0009Ìés\u0091Ìçô9ë\u0080ét§m\u0012­Óï&\u0019Úéw×\u0099ÝiµÝe\u0010\u009e¦Ó\u000e$O\u007fé.\u0002ô´W­\u008bp=CN/\u0082÷´F@WÊ§é.\u0011öéu\u0092Îüôºë\u0082þ´\u001eØº\u0013@\u009d\u0011yI\u0010hÀù¥y \u0081lº`A\u0003./A\u0007\u0005×~H(Nõ³B±\u0005\u0003\u0019\u008aedr(\u00161\u0000¢XfB\u008e\\\u0095³gÉÄ\u0089\u001a2\u000eUT\u0009ÃpQÃ$Ì\u00185Ì\u0098¨QCË"\u008e\u001aJ&xÔÐrøYV]Y|,KË¥\u0091*u+\u0094Ô°je\u0093\u001a\u0096|D©\u0021ç\u0092J\r1\u001fXjÈ­f\u008c\u001e]7ëMT\u0007º\u0021\u0085bª\u001c´ÀL\r\u009b\u0016¦©aÇE\u009b\u001ab\u001eáÔ\u0090rA§\u0086\u0098\u0005S´êË£%Zb6ýTÉÛ ¨\u0086Q\u001b\u000bÕ0d#Q\r5\u0093\u008cjhÙ\u0080TCm5aìÀ½Yg\u009a8Ðþ\u0009ÔT¥çÁS\r\u0019\u0093¡jh{B©\u001ayôAT52è\u0009¬jäÁZ\u0012¸C¯GÌª\u0099Go´U\u0095\r\u000fºjÈ\u0098ìUCÛ\u0013\u0082ÕÈ£\u000f\u0012«\u0091AO@V#\u000fN\\É\u000e^zÄ³\u009ayôFi\u0085l\u0002°V\u009cÌa¶b\u001d\u001dÝ\u008aU\u001c\u0082+ÖYp,B/ry®\u0086\u008e\u0085uUÊ\u0016º«aÃ\u0085¼\u001ab\u001eëÕ\u0090r\u0091¯\u0086\u0098ÅV³êËC§Yb6\u0007VÉÛq°\u0086Y\u0002\u0015ÖÐ³á°\u0086:\u0081\u0011kèí\u0016"/u©ÄXS\u009f\u0002\u008eU\u001eÚø±\u0086\u0011\u001b#k¨\u00994YCË\u0086Ê\u001aj\u001eýÒª3\u0093ni©ù¤Y¥o\u0005Î\u001aV|î¬\u0021çâg\r1\u009fBkÈíæ¡Fº\u0089LZS\u009e\u0080¦U\u000e¸\u0084ZCØ\u001b¨ÖÈ¥\u001f^­\u0091EoØZ#\u0017Þüe\u000f¥^\u0021¶f.=²lUF\\¤­\u0021ì\u008dlkäÒ\u000fàÖÈ¢7Î­\u0091\u000b+$ãÇ\u0006½RoÍ\\z\u0084ßBF}3p­|zFáZ¹õIÄõU¬?0®\u0095\u001b\u008c\u008b\u008bóq}µê\u000f\u0093kåÖ\'-×ÊêsAsí\u001aöËÎ\rT²o\u0084®SÉ¾Iº\u0081zö\rÔ\u0085lÓ¹º\u001e\u000fL¼®g\u0082þì\u0094]«L¿\u000cØ®}+ø\u00851wí\u0005=\u0088Þµ\u000cÛ\u0008¼\u0096i;\u0088W\u001d·Iáñ\u009aâ4,¯é£\u000b\u009d×ô\u0094\né5½¤³zÁO\u000b²We\u0015"÷\u0082A\u0000àkf\u0011ãø\u009aÖí8_°\rP}q¹\u0082p_lÄcü\u0086\u0094m¨_U»K\u0010\u007fmgéà_ÛSWþ¯í\u008f\u0086\u0001ö©ÚiÀNs\u0092 À>U;\u001b\u0018\u0014\u0017E\u0004û\u009d&\u0093\u0082]w\u009d\u0080Á®»ú©ì2Üà\u0080s2>8 \'S\u0084AÏ\u0084\u0009[2*S\u0018díhaÇÊK\u0018VV1Ð°eHâ\r{4­ØaË¾\u009d>l\u0019Ç\u0021Ä\u0096 Æ"\u0006s"\u0092Øc\u001e"\u0013\u0083i\u000cP\u000cv1N±ªX\u000b®XÝ\\\u0082Ôb\u0015?ùàÅf¢\u0087al\u001aPQÆ¦\u008aF465T°±©\u0082\'4ÚûJ\u001eæØR\u0091iÇ:\u0002\u000bB\u008f\u001d\u0013?ûØ1c \u0090\u001d-\u0099\u0084ì(\u0019@dG«\u0009\u0014Ä\u008dÉ\u0014<²«åP\u0092A\u001d\u0080%[É>f²eBF\'[:"AÙR\u0091AÊ\u0096\u000eZ\u0088øÆ\u0092\u008bU¶utº²ZU7\u0001È²màe-ÛFtä²­¤\u0092\u0097m\u001d\u001dÀl+¡©¨¯\u0099ø8fGÉ 2«Ý\u009f68³mäe4ÛF\u000eª\u0019\u000cbÄf°\u008b\u0080\u009b\u001d3?¿Ù1s1Î`rI\u009a³ºûÿ3A\u009dßî|\\çÙRs\u009d«-\u008fë,í;p\u009dM\u000fi\\gÓ\u0007\u009dëlêø\\g©Oà:ë\u009cù\\g¤%r\u009d\u0091\u0082Éu\u0086\u001a¦r\u009d\r=\u0099ël¨Ø\\g©Nâ:#-\u0091ë\u008c\u0014L®³T&s\u009d\r=\u0099ël¨Ø\\g©fq\u009d\u0091\u0086ÌuF\u001a2×\u0019iÈ\\g¤\u0021s\u009d\u0091\u0086ÌuF\u001a2×\u0019iÈ\\g©aq\u009d¥\u0086Íu6u)\\gÓC\u001a×\u0019Ö6:×\u0019)\u0012¸Î Nã:;êD®³ã\'\u0099ëìxêÈu\u000eûKå:ÃÝ\u0080ËuVýÌâ:KU\u0012×YEO,®³¡Jà:\u001bú$®³ôÀà:K\u0005\u009bë\u000cë\u0013\u0097ë,uL®³¡Jà:\u001bú$®3\u009a\rL®³¥Là:[\u001e:p\u009d¡\u001dºr\u009d¥\u009f$®³U\u0086\u008e\\g5Ë;r\u009d\u001d?\u001d¹ÎÐgé\\gé\u0081Íu6u)\\gÓC\u001a×\u0019¢é.\\g=R.Ãu¶ý]\u008eël{Nã:Û^ºq\u009d«m\'®3\u0096\'q\u009d±\u0003½/Læ:WÛî\\gìC\u0017\u0081ÃuÆ\u001eR¹ÎØG\n×¹Úvà:+ñe¸Î¶»Î\\gÛa\u0012×ÙvÒ\u0089ë¬\u009cuã:ã2uâ:\u001b\u008eø\\gC\u009eÎuÖ­r\u0001®³å,\u0085ël¹èÂuV®ºr\u009d\rG|®³\u0021Oç:+7\u0097à:[ÎR¸Î\u0096\u008b.\\gå*\u0095ël8Há:\u001b\u000eR¸Î\u0086\u0083\u0014®³á \u0085ël8Há:\u001b\u000eR¸Î\u0086\u0083\u0014®³r\u0090ÊuV\u000eºp\u009dm\'\u001d¹Î¶»Î\\g½ò\'q\u009d\ry7®³vÕ\u0099ëìqÕ\u009dëìqz\u0009®³Çíå¸ÎmÎ/ÀuÖ÷×\u000e\\g4\u0084R¹ÎÊEW®3\u008a¢S¹Î\u0096\u008bn\\gËYW®³r\u0097ÆuVò.\\g½,wà:+\'é\\gËE7®³å¬+×Ù\u0098¶é\\gÇM7®³ãî2\\gÝv\u0017ä:+§]¹ÎNé.ÇuF«Öå¸Î\u001e§\u0097ã:ë\u0011p\u0011®³r×\u0085ël;éÈu¶Ýuæ:ë\u0007¶\u000bq\u009dñ\u0088¼8×ÙuÞ\u000b×ÙÍ¦3×Ùuy1®sµmã:ËÔ\u0016®³´àr\u009d¥\u008cÇu\u0096".×YÊL,\u009a«rö,S¸Î cs\u009d\u00850Âu\u0006\u0093\u0008×\u0019ÌR¸Î ås\u009dA\u0099Âu\u0006-\u0087¿gÕ\u0095\u0005Ö³´I\\g¡\u008es\u009dÁ*Îu\u0006ËD®3È\u0093¸Î Nä:\u0083ÜjFÚÑ{Uo¢:Ð\rÉ\\gá Æu\u0006\u009b\u0018×\u0019ì\u0092¸Î Nà:\u00834\u0089ë\u000cb\u0016ÄÕª/\u000fÏj\u0089Ó¸ÎB\u001eå:\u0083Q\u0094ë\u000c\u0086i\\gP§p\u009dA\u009bÆu\u0006µÕ\u0084¤\u0003üªÎ4q ýS¹ÎB\u009fÀu\u0006Y\n×\u0019´}r\u009d\u0021\u008fÞ¸Î\u0090A\u009f\\gÈ\u0083µ$p\u0087^ß\\g\u0095G¿\\g\u0091M\u0002×\u0019d)\\gÐöÉu\u0086<zã:C\u0006}r\u009d\u0021\u000fN\\É\u000e^úæ:«<úå:WÛV®³Lfs\u009d¥\u008eÉu\u0096*6×Yê,î\u001b¡\u0017\u0093¸Î ãs\u009d\u00852Æu\u0006\u009b$®3\u0088\u0013¸Î Mâ:\u0083\u0098\u0005\u0011´êË\u0083\u0003Zâ4®³\u0090\u0013¸Î`\u0096Êu\u0006}\u001a×\u0019Ô©\\gÐÛ-D^ê:q\u009d\u0095>\u0099ë,<D¹Î`\u0094Æu\u0006u\n×\u0019´i\\gPó¸°V\u009d\u0099ÀWK\u009dÈu\u0016ú8×\u0019¬\u0012¹Î Oâ:\u00838\u0091ë\u000cr»y¨\u0091n\u0017®³\u0092§r\u009d\u0085\u0083$®3\u0008ûå:C.=r\u009d\u0021\u008b~¹Î\u0090\u000boþ²\u0087Rÿ\\g\u0095Kß\\g\u0091Q\u0012×\u0019\u0084ýr\u009d\u0021\u0097\u001e¹Î\u0090E¿\\gÈ\u0085\u0015\u0092ñc\u0083þ¹Î*\u0097¾¹ÎÕöóp\u009du>\u009f\u0083ë¬së\u009dëlU¬g®³Î\rÆE?\\g«V=s\u009dun½s\u009duV\u009f\u0095ë\u008cjø\u0019¸În%?\u000b×\u0019Wò³p\u009dÝz~\u0016®sµíÊu6=¤p\u009dÍ\u0009úËà:ë2ý\u0082¸ÎèVðKä:£\u0005½\u009dë¬\r£\\gmJà:\u008bã6É\\g%îÀuV>:s\u009d\u0095§N\\gå¥#×¹ÚF¹Î"«V®sµmå:«,H\\geMà:WÛV®³,W;×Y\u001a%p\u009d=Ê(×YÔîb\\gä¬#×\u0019yº\u0008×\u0019ùcp\u009d-\u0015\u0081ë\u008c\u009b\u0093Îu¶T\u0004®sµí\u0081ëì8íÆu6Üuç:\u001bîê§²\u000br\u009d]ç<®³«çq\u009d«m\u0012×YËX\\çúWçQ®3¶\ns\u009d\u0085\u0015\u0089ë¬\ré\\gS\u0013ç:k{\u0002×Y\u001b\u0013¹ÎZ@â:W[\u0016×Ù4oå:\u008b\u001fËS¸ÎÕ\u0096Æu\u0016\u0015\u008bq\u009dÅÍ¥\u009dë,â§ ×Y%\u0086¸ÎÊ\u0080ÅuV*\u0006×YiX\\g¥\u0082\'4ÚûÊ\u0004®³Vñ¸Îu\u0004ÖÎuÆ&-\\glÆå:c-\u008fë\u008c\u0095\\®3Öj\u0002\u0005qc2\u0099ëlhÙ\\çjÛÊuÖÉA®³6áq\u009dµ\u008eÃuÖ*\u001e×Yë \u0085\u0088o,\u0093¸ÎHÇä:\u008bUuÓÆuF\u0006a®32br\u009d\u0091\u0092ÅuF:&×\u0019)¡©¨¯\u0099\u0012¹ÎXÉå:\u008bÝ\u009f(×\u0019\u0019\u0085¹ÎÈÈÏu\u0016\u0007ª(\\çjKâ:c³\u0016®36\u000bp\u009d«íå¹ÎâîÿÏÏu^Ì4×y»æq\u009d¥}\u0007®³é\u0021\u008dëlú s\u009dM\u001d\u009fë,õ\u0009\\g\u009d3\u009fë\u008c´D®3R0¹ÎPÃT®³¡\'s\u009d\r\u0015\u009bë,ÕI\\g¤%r\u009d\u0091\u0082Éu\u0096Êd®³¡\'s\u009d\r\u0015\u009bë,Õ,®3Ò\u0090¹ÎHCæ:#\r\u0099ë\u008c4d®3Ò\u0090¹ÎHCæ:#\r\u0099ë,5,®³Ô°¹Î¦.\u0085ëlzHã:ÃÚFç:#E\u0002×\u0019Ôi\\gG\u009dÈuvü$s\u009d\u001dO\u001d¹Îa\u007f©\\g¸\u001bp¹Îª\u009fY\\g©Jâ:«è\u0089Åu6T\u0009\\gC\u009fÄu\u0096\u001e\u0018\\g©`s\u009da}âr\u009d¥\u008eÉu6T\u0009\\gC\u009fÄuF³\u0081Éu¶\u0094\u0009\\gËC\u0007®3´CW®³ô\u0093Äu¶ÊÐ\u0091ë¬fyG®³ã§#×\u0019ú,\u009dë,=°¹Î¦.\u0085ëlzHã:C4Ý\u0085ë¬GÊe¸Î¶¿Ëq\u009dmÏi\\gÛK7®óvÝ\u0089ë\u008cåI\\gì@ï\u000b\u0093¹ÎÛuw®3ö¡\u008bÀá:c\u000f©\\gì#\u0085ë¼]wà:+ñe¸Î¶»Î\\gÛa\u0012×ÙvÒ\u0089ë¬\u009cuã:ã2uâ:\u001b\u008eø\\gC\u009eÎuÖ­r\u0001®³å,\u0085ël¹èÂuV®ºr\u009d\rG|®³\u0021Oç:+7\u0097à:[ÎR¸Î\u0096\u008b.\\gå*\u0095ël8Há:\u001b\u000eR¸Î\u0086\u0083\u0014®³á \u0085ël8Há:\u001b\u000eR¸Î\u0086\u0083\u0014®³r\u0090ÊuV\u000eºp\u009dm\'\u001d¹Î¶»Î\\g½ò\'q\u009d\ry7®³vÕ\u0099ëìqÕ\u009dëìqz\u0009®³Çíå¸ÎmÎ/ÀuÖ÷×\u000e\\g4\u0084R¹ÎÊEW®3\u008a¢S¹Î\u0096\u008bn\\gËYW®³r\u0097ÆuVò.\\g½,wà:+\'é\\gËE7®³å¬+×Ù\u0098¶é\\gÇM7®³ãî2\\gÝv\u0017ä:+§]¹ÎNé.ÇuF«Öå¸Î\u001e§\u0097ã:ë\u0011p\u0011®³r×\u0085ël;éÈu¶Ýuæ:ë\u0007¶\u000bq\u009dñ\u0088¼8×ÙuÞ\u000b×ÙÍ¦3×Ùuy1®óvÝÆu\u0096©-\\giÁå:K\u0019\u008fë,E\\®³\u0094\u0099X4WåìY¦p\u009dAÆæ:\u000ba\u0084ë\u000c&\u0011®3\u0098¥p\u009dAËç:\u00832\u0085ë\u000cZ\u000e\u007fÏª+\u000b¬gi\u0093¸ÎB\u001dç:\u0083U\u009cë\u000c\u0096\u0089\\g\u0090\'q\u009dA\u009cÈu\u0006¹Õ\u008c´£÷ªÞDu \u001b\u0092¹ÎÂA\u008cë\u000c61®3Ø%q\u009dA\u009cÀu\u0006i\u0012×\u0019Ä,\u0088«U_\u001e\u009eÕ\u0012§q\u009d\u0085<Êu\u0006£(×\u0019\u000cÓ¸Î Ná:\u00836\u008dë\u000cj«\u0009I\u0007øU\u009diâ@û§r\u009d\u0085>\u0081ë\u000c²\u0014®3hûä:C\u001e½q\u009d\u0021\u0083>¹Î\u0090\u0007kIà\u000e½¾¹Î*\u008f~¹Î"\u009b\u0004®3ÈR¸Î í\u0093ë\u000cyôÆu\u0086\u000cúä:C\u001e\u009c¸\u0092\u001d¼ôÍuVyôËuÞ®[¹Î2\u0099Íu\u0096:&×YªØ\\g©³¸o\u0084^Lâ:\u0083\u008eÏu\u0016Ê\u0018×\u0019l\u0092¸Î Nà:\u00834\u0089ë\u000cb\u0016DÐª/\u000f\u000eh\u0089Ó¸ÎBNà:\u0083Y*×\u0019ôi\\gP§r\u009dAo·\u0010y©ëÄuVúd®³ð\u0010å:\u0083Q\u001a×\u0019Ô)\\gÐ¦q\u009dAÍãÂZuf\u0002_-u"×Yèã\\g°Jä:\u0083<\u0089ë\u000câD®3Èíæ¡Fº]¸ÎJ\u009eÊu\u0016\u000e\u0092¸Î ì\u0097ë\u000c¹ôÈu\u0086,úå:C.¼ùË\u001eJýs\u009dU.}s\u009dEFI\\g\u0010öËu\u0086\\zä:C\u0016ýr\u009d\u0021\u0017VHÆ\u008f\rúç:«\\úæ:o×\u009f\u0087ë¬óù\u001c\\g\u009d[ï\\g«b=s\u009dun0.úá:[µê\u0099ë¬së\u009dë¬³ú¬\\gTÃÏÀuv+ùY¸Î¸\u0092\u009f\u0085ëìÖó³p\u009d·ë®\\gÓC\n×Ù\u009c ¿\u000c®³.Ó/\u0088ë\u008cn\u0005¿D®3ZÐÛ¹ÎÚ0ÊuÖ¦\u0004®³8n\u0093ÌuVâ\u000e\\gå£3×YyêÄuV^:r\u009d·ë(×YdÕÊuÞ®[¹Î*\u000b\u0012×YY\u0013¸ÎÛu+×Y\u0096«\u009dë,\u008d\u0012¸Î\u001ee\u0094ë,jw1®3rÖ\u0091ë\u008c<]\u0084ë\u008cü1¸Î\u0096\u008aÀuÆÍIç:[*\u0002×y»î\u0081ëì8íÆu6Üuç:\u001bîê§²\u000br\u009d]ç<®³«çq\u009d·ë$®³\u0096±¸Îõ¯Î£\\gl\u0015æ:\u000b+\u0012×Y\u001bÒ¹Î¦&ÎuÖö\u0004®³6&r\u009dµ\u0080ÄuÞ®Y\\gÓ¼\u0095ë,~,Oá:o×4®³¨X\u008cë,n.í\\g\u0011?\u0005¹Î*1ÄuV\u0006,®³R1¸ÎJÃâ:+\u0015<¡ÑÞW&p\u009dµ\u008aÇu®#°v®36iá:c3.×\u0019ky\\g¬är\u009d±V\u0013(\u0088\u001b\u0093É\\gCËæ:o×­\\g\u009d\u001cä:k\u0013\u001e×Yë8\\g­âq\u009dµ\u000eZ\u0088øÆ2\u0089ë\u008ctL®³XU7m\\gd\u0010æ:##&×\u0019)Y\\g¤cr\u009d\u0091\u0012\u009a\u008aú\u009a)\u0091ë\u008c\u0095\\®³Øý\u0089r\u009d\u0091Q\u0098ë\u008c\u008cü\\gq \u008aÂuÞ®I\\glÖÂuÆf\u0001®óv}y®³¸ûÿós\u009d¯ç\u009aë\\>ñ¸ÎÒ¾\u0003×Ùô\u0090Æu6}Ð¹Î¦\u008eÏu\u0096ú\u0004®³Î\u0099ÏuFZ"×\u0019)\u0098\\g¨a*×ÙÐ\u0093¹Î\u0086\u008aÍu\u0096ê$®3Ò\u0012¹ÎHÁä:Ke2×ÙÐ\u0093¹Î\u0086\u008aÍu\u0096j\u0016×\u0019iÈ\\g¤\u0021s\u009d\u0091\u0086ÌuF\u001a2×\u0019iÈ\\g¤\u0021s\u009d\u0091\u0086Ìu\u0096\u001a\u0016×YjØ\\gS\u0097Âu6=¤q\u009dam£s\u009d\u0091"\u0081ë\u000cê4®³£Nä:;~\u0092¹Î\u008e§\u008e\\ç°¿T®3Ü\r¸\\gÕÏ,®³T%q\u009dUôÄâ:\u001bª\u0004®³¡Oâ:K\u000f\u000c®³T°¹Î°>q¹ÎRÇä:\u001bª\u0004®³¡Oâ:£ÙÀä:[Ê\u0004®³å¡\u0003×\u0019Ú¡+×YúIâ:[eèÈuV³¼#×ÙñÓ\u0091ë\u000c}\u0096Îu\u0096\u001eØ\\gS\u0097Âu6=¤q\u009d\u0021\u009aîÂuÖ#å2\\gÛßå¸Î¶ç4®³í¥\u001b×¹|êÄuÆò$®3v ÷\u0085É\\çò©;×\u0019ûÐEàp\u009d±\u0087T®3ö\u0091Âu.\u009f:p\u009d\u0095ø2\\gÛ]g®³í0\u0089ël;éÄuVÎºq\u009dq\u0099:q\u009d\rG|®³\u0021Oç:ëV¹\u0000×Ùr\u0096Âu¶\\tá:+W]¹Î\u0086#>×Ù\u0090§s\u009d\u0095\u009bKp\u009d-g)\\gËE\u0017®³r\u0095Êu6\u001c¤p\u009d\r\u0007)\\gÃA\n×Ùp\u0090Âu6\u001c¤p\u009d\r\u0007)\\gÃA\n×Y9Hå:+\u0007]¸Î¶\u0093\u008e\\gÛ]g®³^ù\u0093¸Î\u0086¼\u001b×Y»êÌuö¸êÎuö8½\u0004×Ùãör\\ç6ç\u0017à:ëûk\u0007®3\u001aB©\\gå¢+×\u0019EÑ©\\gËE7®³å¬+×Y¹Kã:+y\u0017®³^\u0096;p\u009d\u0095\u0093t®³å¢\u001b×ÙrÖ\u0095ëlLÛt®³ã¦\u001b×Ùqw\u0019®³n»\u000br\u009d\u0095Ó®\\g§t\u0097ã:£Uër\\g\u008fÓËq\u009dõ\u0008¸\u0008×Y¹ëÂu¶\u009dtä:Ûî:s\u009dõ\u0003Û\u0085¸ÎxD^\u009cëì:ï\u0085ëìfÓ\u0099ëìº¼\u0018×¹|jã:ËÔ\u0016®³´àr\u009d¥\u008cÇu\u0096".×YÊL,\u009a«rö,S¸Î cs\u009d\u00850Âu\u0006\u0093\u0008×\u0019ÌR¸Î ås\u009dA\u0099Âu\u0006-\u0087¿gÕ\u0095\u0005Ö³´I\\g¡\u008es\u009dÁ*Îu\u0006ËD®3È\u0093¸Î Nä:\u0083ÜjFÚÑ{Uo¢:Ð\rÉ\\gá Æu\u0006\u009b\u0018×\u0019ì\u0092¸Î Nà:\u00834\u0089ë\u000cb\u0016ÄÕª/\u000fÏj\u0089Ó¸ÎB\u001eå:\u0083Q\u0094ë\u000c\u0086i\\gP§p\u009dA\u009bÆu\u0006µÕ\u0084¤\u0003üªÎ4q ýS¹ÎB\u009fÀu\u0006Y\n×\u0019´}r\u009d\u0021\u008fÞ¸Î\u0090A\u009f\\gÈ\u0083µ$p\u0087^ß\\g\u0095G¿\\g\u0091M\u0002×\u0019d)\\gÐöÉu\u0086<zã:C\u0006}r\u009d\u0021\u000fN\\É\u000e^úæ:«<úå:\u0097O­\\g\u0099Ìæ:K\u001d\u0093ë,Ul®³ÔYÜ7B/&q\u009dAÇç:\u000be\u008cë\u000c6I\\g\u0010\'p\u009dA\u009aÄu\u00061\u000b"hÕ\u0097\u0007\u0007´Äi\\g\u0021\'p\u009dÁ,\u0095ë\u000cú4®3¨S¹Î ·[\u0088¼Ôuâ:+}2×Yx\u0088r\u009dÁ(\u008dë\u000cê\u0014®3hÓ¸Î æqa­:3\u0081¯\u0096:\u0091ë,ôq®3X%r\u009dA\u009eÄu\u0006q"×\u0019ävóP#Ý.\\g%Oå:\u000b\u0007I\\g\u0010öËu\u0086\\zä:C\u0016ýr\u009d\u0021\u0017Þüe\u000f¥þ¹Î*\u0097¾¹Î"£$®3\u0008ûå:C.=r\u009d\u0021\u008b~¹Î\u0090\u000b+$ãÇ\u0006ýs\u009dU.}s\u009dË§ÏÃuÖù|\u000e®³Î­w®³U±\u009e¹Î:7\u0018\u0017ýp\u009d­ZõÌuÖ¹õÎuÖY}V®3ªágà:»\u0095ü,\\g\\ÉÏÂuvëùY¸ÎåSW®³é\u0021\u0085ëlNÐ_\u0006×Y\u0097é\u0017ÄuF·\u0082_"×\u0019-èí\\gm\u0018å:kS\u0002×Y\u001c·Iæ:+q\u0007®³òÑ\u0099ë¬<uâ:+/\u001d¹ÎåS\u0094ë,²jå:\u0097O­\\g\u0095\u0005\u0089ë¬¬\u0009\\çò©\u0095ë,ËÕÎu\u0096F\u0009\\g\u008f2Êu\u0016µ»\u0018×\u00199ëÈuF\u009e.ÂuFþ\u0018\\gKEà:ãæ¤s\u009d-\u0015\u0081ë\\>õÀuv\u009cvã:\u001bîºs\u009d\rwõSÙ\u0005¹Î®s\u001e×ÙÕó¸ÎåS\u0012×YËX\\çúWçQ®3¶\ns\u009d\u0085\u0015\u0089ë¬\ré\\gS\u0013ç:k{\u0002×Y\u001b\u0013¹ÎZ@â:\u0097O,®³iÞÊu\u0016?\u0096§p\u009dË\'\u001a×YT,Æu\u00167\u0097v®sùÔÂuV\u0089\u0021®³2`q\u009d\u0095\u008aÁuV\u001a\u0016×Y©à\u0009\u008dö¾2\u0081ë¬U<®sù¤)Ã\u0001®36iá:c3.×\u0019ky\\g¬är\u009d±V\u0013(\u0088\u001b\u0093É\\gCËæ:\u0097O­\\g\u009d\u001cä:k\u0013\u001e×Yë8\\g­âq\u009dµ\u000eZ\u0088øÆ2\u0089ë\u008ctL®sù\u0014á:#\u00830×\u0019\u00191¹ÎHÉâ:#\u001d\u0093ë\u008c\u0094ÐTÔ×L\u0089\\g¬är\u009dÅîO\u0094ë\u008c\u008cÂ\\gdäç:\u008b\u0003U\u0014®sùDâ:c³\u0016®36\u000bp\u009dË§Ës\u009dÅÝÿ\u009f\u008cë<È§×ùt\u0096O\u0017ù÷ãÙ\u000fù`½:­\u0086Åv/Êþæa¿=¬v\u009býn \u0013ª7\u0083|p¥.\u000fÇ÷\u008bã\u0087ê\u007fÃ\u0086Öãj»)_n³\u0087Íñá¹\\\u001dóì\u009b¢ü±8m\u001eVyV­Ä\u0080,\u008e\u009bÇ»ì\u0093Ç\u0007º´>®\u009e\u0086â7\u009eW«ÝÃ»=lÅ`\u0093&\u0021Ï\u0098\u008eNû\u0083ëÅü9V6\u009e]ÍEûÈ¶\u009a\\ãþZÖ-×¹øOÇÍ¡ká\u0085\u000f\u0011Ò\u001cW»JüØRlG\u009cV§â\u008bÑºxrÎÖ\u008e\u0097è\u0090¬Ü\u0092JªL½OØ½\'\u009a]Ä¶¾hú¡\u0019«²/\u0096¸+\u009a\u008eéZü¤\u009ep\n\u001fì\u008b\u001b³3\u009a­É¥ç¼rZgXCB<\u001a¯6»fËU=8\u00047».4ytN\u0016ilÔt\u009fè¶´\u0089sÚ\u001f®Nû\u0083ÛÞ¸¢¡}¤Î\u0093\u0014gb<\u0003ø\u001btx,~,\u008eUq¹åÍÎ×j^Ù¬ÐÌ©ù^5ÿóY\u001aÙ\u009e}8\u000b\u0014¸û÷Y/²P\u0099\u0019y\u0006,jU~\u009e­m\u0088\u0003aO\rÓÇOx-ÅYzF\u000f\u009a \u008c\\Å\u008c\u000cw$ºø¸º¿}Wÿ\u008cÞ¼8,W÷EI_uå\u0000½@\u009eÖóáç©q¹oÞÏm\u001eö»ÏXé´l»Uõ3WQdgÜ\u0080>Oçþ|\u0083º}hS\u008fQ\u009a§\u000cç\u000bvsµ,sfÑ.ÓFÝ²³· z¯h§ùþ\u0019sL®àç«\u0098\u009càF\u0014Ô\u007fg^r~_"Swj7s\u0096ú«\u0007j\u0091Å¿=\u0009\u0094\u0096\u0013J\u000c\u001f\u008f«má;\'ÐÅ·ñ¸"\u001e\u009dä\u0096Iýê\u007fTeÅª\u0012ÿ{\u0087\u001fÏíÝ\u0092çª8\u008a×FÅÃ\u0009Î\u0008È\u0087EÑFÙÿØl\u000fûãiµ;é\u0007G\'áB\u0095p\u009f\u0007­Ã\u000bûÃêasz©_\râ\u009d\u0018s\u007fêâ\u0085\u0011sêcöð|¬\u0004¯æé¸º¿ßì\u009eúÊÉ\u001aÀÛb÷ì9ÆÑwÖ\u0010\u0019è\u0007òêaU\u0016_\u008c¯ÆË®S\u0082\u009c¿õ÷p·\u001f¾\u0093T©\u009f¥=ìò@aV»ÍvÕL½ÑÕ´ª\u008f\u009c­\u008eb\u0006nv\u008f\u009b\u009d \u009eîöÇíªlfæñyW\u0003÷\u0094l8;^ÏÊò3\u008d(X\u0012\u0013\u009b°eqsÞÇþ4ÜìÖâýÿd<»\u009e-\'\u008bÙì.Ûìª\u0002&«U\u00068À¶\u000c\u001eÒÂ¨È\u009aO¿ù©^ËÔ\u00993Æ\n\u0010¬\u0089ïIÐ©\u001b\u001f\u001c\u009bP,¼ÂÓZ7x\u0092È»\'`\u001dKÃ7\u0011ñâ§\u001eÍê.\u0002_1<\u001c7\u0082\nøVìÙw«\u0092Ñýæ-åí®S{]mv?nªÍ}é;\u0003×©Ôî]\u008a{²,´\u009f\u0098p")Ø\u007fÃÓf+B\u009bÇç\u009dÌEt£a±~>¢EËH:\u001c÷\u0087â(î´õm6\u0097wX½§oÜv\'fX1\u0085Í\u001f¸c\u001eö\u001byÜå\u0092\r/ã½ê°ÚÑ¿\u007fvÑ\u009e\u0097Ys»¿{7CÃ×\u001bøqþõ¥*ÝÄA¾S>82ôô»\'Æ¼h¡\u0002Orî§;\u009aò¡øÖ.º^ÔÝ\u0016Eß±ø\u001c\u0085ÿ×ìWÞ\u0093Ç=å-\u001bìs\u000eæ§ãfmÞsT¸©ï<ÃÍn¸\u007f>Õ7 \u007f®Þ\u000c\u0087\u008cä\u0087àKGÍ\u008c¶\u0016\u009d3\\\u001d\u008bÕm6Î¾\u0014Ç,Ek>\u008a\u0007ãúÆº)ë\'1utðgª\u0091\u008a\u0081ÆwîÛÃÿ\u0082W¹\u009f¿\u008b}/3ÿë\u008bñ²ç\u0002%md%.\u0015Þc\u009c=eilåxòUÃ`(Æ\u0081ÚÎþü·fÏI\u0098\u008bÇdõ\u0002\u00967\u000bß\u001dí+]é+güû\u001aÄ_æ\u0092\u007fXÅ;\n#\u008bW7Ôau,ÄÃ\u0083uøH\u001cø\u0009\u001d<ºàx\r¼^\u0009-^\u0017\u009d\u009e·«\u0006\u008fÍ½\u0017|\u0086å\u0089Ø,?_\u009b´4HÏ«u½¿·\u0012\u0087Xj*ûpµ[7«\\Ç\u0017\u0083=\u0096ã³Ü`\u0018åÁ7\u0086Ï¼#\u0013\u001bæ¸hptq1G\u008flõ\u008a\u0014-EóÔåÝë\u0009m$´ìêÔ¯K­m\u009dxþvß4{Ò±c<x»\u009e³E\u001fÊÑs­¾\u0081\'<¶ØwmTRgË{ôÚ·16A-hÞ;/]»PÂð´ß\u0097§¤\u001d(kCÌ8Õ8ó\u009cuY\u0018\u001b<×â\u0090ç$ö\u0080\u0005ßrCáA#\u008a}4ìs5_³¸\u0004v4>\u007fä\u0008ïè|í?\u009b¡xmfl¾5\u007f±¾\u0087öy\u001bø\u0016î¯\u0097^\u009e/]Ð+y·\u0089\u007f¸õô®Ø6\u001fÉt>iô³\u0015\u0099ÔÌ\u0081\u0082÷Ôàþ[¢oýb¾\u0015\u000fÞní\u0097¥Öê>F¿\u001b\u0098O\u009aµÚwz\u0089\u009be\u009eùÏG$\u0014ÝÁ2Óh¨¡ÓP\u00095\u0009\u009d»H¯\u008cqú\u0084\u008c\u001dë\u0092õ\u0005#\u0005<xÜ·á¡\u0082úFÕãêÞ\u001f1\u0007ú®\u0009üÂd\u0080P¾NÏÅ2ö\u0009\u0098G\u0096\u0003õ\u00851Å()m"\u0084\u000fÜòK\u0012n~(K°\u000fÜÀ\u0089Õ+ñBµµP \u007fÌ\u009f­$\u0016*8\u0083\u0012KÛ2\u0021[OrÛØ\u0094\u0084þKn__XX\u000f¾¡ºy|\u0096\u0099\u0010,\u0087|Üø5,iï\u008b\u0097úüBå\u009c,É>fowY6zÕö{§úGx\u0093¹ßf<GF×\u0001£¡a%~Q\u0018ÉïÓ¯ÿ\u0009Ë<È§Ëú7\u007f×ò7\u007fÿs³Û\u0089\u0017\u009cÍ\u0096«êÃæ\u0084\u0084ø?ü\u0008$~fÙ\\ÿÔü\u000fMíî\u0087\u000eW\u0087CY\u000c«\u0097ª\u009e\u0096_\u0095\u009bÝû?­\u001e¾­ÿþý~wÊ³o\u008b§}\u0091ýç\u001frp\u0095á­S¸Øúya0\u0012ÿKÛè\u0015\u0096t\nãÛÝ\u009dYÏbuz>\u0016Ãª8\u009d6»§ê6û\u0097ª\u001a-ÿ%Ûït³µ7Ü¯òHúí}ñ¸?\u0016Q³ÕcMî\u0080ò\u0005\u008e\u001bQK¥\u001dÁ|mÚs»ß\u009fÞÕNW»ÓfUnVU±V\u008d2Üî\u007f\u001aî«³cüt\\½ÔA\u00882-\u008bÓIä,\u0002\u0016añ°*\u001f¾\u0018]\u0089Ã\u009aÃlt5\u009a\u0017Û×vi[Ë,\u001bèª~j\u0018Ö\u009fâ\u0093\u0097¾¯\u007fÍZ\u0016ðHñæí N~;ø\u0001UÓ}²k}\u0016QO¨¡GB\u008aZ>Êx\\4\u009f\u0083¤ø\u0080\u000fGÚ³¡UÛL\u0017[Ò|Z;*\u0084/p\u001brïÞ\u008a+G\u001fuôËãmç|iÛï\u0088Ð\u0082î×µý®Ô7¬\u0089ÞÐ\u0017µ#\u000e\'\\\u008f\u0013Ó¥ü*v«\u0017õål\u0017\u001f\u0017éê\u00860ç=ÐØªDÇ\u001e±¸ù¸t«\u0012¾\u008aíÊâãÂø\u0012¶ë\u00800\u001eÌ¯_c\u0017â\u0083Ö­Òæ\u008b×X"¿`ÝªR_¹ÆBùÕêV¡ú²5\u00166Û#¤­\u001fW\u0016o_c÷Åu@h_ó«ÕöÔ\u0010ï.¢Ó¡ùRµO*>:M\u00927_§ö¹\u0080\u008fL\u0093Üè/R\u001bma~Yº½9ì¯PcGê\u009bÒ­.Ð\u0097§}¥ø\u008a¶*û¾6mÎzã«Ñ\u0091¹o}aÚï\u0088V0ïW¥\u008d\u009eC\u001f\u0088nï5ãKÒØ\u0085üþr«Z}=Ú#\u008cO\u001có\u008bÑ\u001e\u0017\u0084©c}%\u001a;1¾÷ÜêÄú2´5bì¯;Ç\u0086\u008cû5h¯CëcÎ4¯Î\u0017 ½®k¾.Í¡üê³×Í7¤©æûÒ³\u0015\u009fÊØs½:¾\u000f\u0087\u009e"\u0095\u001dy\u008a5+9ðtÅì¸ÓuA\u000e;\u0091\u0094\u0015uZ:fÐ\u0089Õ\u00891§×EJÈéu\u0094\u001aqz\u009du\u00098Û\u001d\u0012ãMä\u0084\u0013n\u001a}Ì\u00896\u0091\u0090\u0017l"\u00217Öt¤ÜPÓq@\u008e4\u0091\u0092\u001eh"\u0011+ÎD:N\u0098\u0089dÜ(Ó\u0091r\u0083LÇ\u0001+Æ´f\u00003Äô¨\u0013"L\u008f\u0097´\u0000\u00137EZ|\u0089<¤\u0087\u0097\u009eb¤F\u0097Æ\\ï\u0018\\z}¥Ä\u0096¸¿Ø¡%\u0012ó#KWÌ\u000e,]\u0017ü¸\u0012ùè\u0018V\u009aCåBQ¥Ïi\u0097 Òç/-¦ôyò\u0085\u0094b»\u0093°íiÇ\u0091Öç2ng£Ñ\u009d\'¥\\ß^«\u0094çÝæt;º\u009a\u001f\u008b-²Õ_`º­7gÇWóìW¨6B\u0095\u008bw\u009b¯¡\rìï1Ý\u008e¯æ¶Cùñ¤\u0004\u0097 ô8möçÁç5Ã©T\u008e¯\u0016Þ\u0082n×)NAêñZ\u001fqo|N®&\u000c\u009f\u008dp|5ó·hù\u0094â\u0014¤>·gTÔ)Ýå\u0019\n:u<ê/\u0015±½"©Ïó\u0019\u0017vÆ(¬*í$TX\u0018\u0001\u000c¯Hêq|6\n»à\u0014V\u0095v\u001cl[\u0018\u0007\u000c¿H\u008a<7\u0087ùÌ\u0099\u0015ñ)%x\u0088Ó\u0014\u009c¡&%\u0082\u0007Û\u0008nnn"\u0012¹d6KÒ\u0008Þ4\u0005§I&g|x"eïªrõÅ(ÏF¯ä\u007f¯Fs+7Ùp=e7¶rk\u001aPe\u0016^¬²öFnÍ\nÑ\u0097ocµ24ø&B\u0012àQ\u0017\u001bC\u0088´L\u001bA\u0098°Ü(hµ0æí2"±"Õ\u009a\u0089|+\u0010¿áäß\u008b\u0007ÙÛ\u0089kÓÌS¹\u000cE\u009b\\ÉþÚ\u001cÇ¥Þ\u0016tvûãæ\'ñ»\u0081ò?ä\u0019jR?XUú¶ù\u0091W\u0013\u009cÔ\u0010\u008dlTÿ\u0007¿\u008cw\u001báµófß\u008eù\u0085Ç¶,\u009bfäæ[«ÜÌáw·r;¯\u0083\'½M\u0081*\u0000\u009b\u0001ëÛzÞ\u008dÇùrô*\u009fÍ_åc3®\u0094å¨#ØÆv2\u001båËéÕôU~3\u0017ÿô\u000bþÔL$©\u0098äËñ«|y}µ\u0008Ù#ËåÕìU¾X\u0084}×OÃÚ¾öº\u00988ÖûÇÇ¿\u0089\u009f\u008e4¦³y>]\u0008Ï7ó«k\u009fg£\u008e£E>_\u008a\u0012,çW7^km(Îªä×S\u007fyqaG\u008b|rs5\u007f\u0095O§\u001e§û£Ø@@\u0085\u0090\u009e\u00977\u009eVk\u008cUçÕ\u0086\u008bÉ\u0095§\u0011jC]\u0088ñ8¿¾\u0011¹/f\u009e2\u009c\u008aU\u0089J0^\u008eò\u0089ðìë8a«ÍæcÑ¶óqÀ\u0010\u0015`9ÊÇ\u000bQÒÉÄS\u0082\u0097¢,÷\u001fP\u0019¦7²\u0019®¯\u0096\u0001ëÆp>j\u000cç×\u009e\u009eh\u000cu)ÀëÂõYÿ ãVÞ\u008eF¯ò±ëM\u0098\\Ã\u0008\\äãÅ«|âÖ[X-¤Õ|Rû\u0099ù­æzf]{\u0087²0\u009a\u0081«\u009b|<y\u0095_»sUXM¥Õb\u0094\u008fÅ\u0094ó[ML«\u001b¿ÕØ(Ö\u008d;k>èéÕ4\u0095hRe\u0013:7\u0012\u0099ê­GVlí\u009c¦\u0095Û\u0011\u0096x6o\u0017×o\u0015\u0002\u0003¡å|JK\u0097·\u001c´ 7£ýúÀ\u0019\u0087(t\u008a\u009e<ñ©§\u0004µ~Oàq0\u009aq<Lô\u0002={\u0095_/\u0085\u0087IÐ\u0001¼\u0008 7W³\u008fætJ[&zÿß;VGWó Tnÿ·­Ìm\u0007HLá\u009c$Ä=\u0009ÊYDYïö·ÞÂBgF"k~èÄHËº\u001b8®\u0011\u000eMÚN\u0088\u0018ª)\u0021\u001b«õjÙ86ÿêí|sih\u001b\u0014Æ>¾-»\u0089ÊÔæ½\u001c\u008dó|6\u0013wÃÙBÜAGWËp\u0015­Mûà}&|ÀÃ\u008eú`\n\u008cÃÕõlÓ\u0087ï7±\u0083\u001c-74Ê±\rÆB\u0081·Ý}ËE¸Â°ßnN¨\u009bÖédìµ\u009bÂöJ\u009a[ìÖ\u001c¾nS\u009a\u001bë\u009e*¶÷©³¡Î©np\u0003ÝrÒZ\u0001k¯\u009czoöl\u008e»Ífß÷Ü\u0093\u0007ø\u0099C,\u0097v\u0096\u0081ã\u000e\u0094\u0098%tÌ\u0081\u0012²Xç\u0015ÂA[øtCd]ð¾©omýð\u0011\u0006{>ÚÁJË\u0099\u0005W:\u0089K­@\u0005«­0%r\u001eAE)õt\u0099µfï\u0006)\u0013géq\u008e ¸ñ}K\u000eÌ\u0008Å9\u0001\u0010\u000fPü§\u000eâñIà°A<<±Î\u001a\u0010¢\u0013÷ \u0001%8q\u008f\u0019Äb\u0013ç-\u007f$4ñ\u001f+\u0088D&\u0081£\u0004\u0091ÀÄóú>\u0012\u0097\u0004\u008e\rDÂ\u0092\u0096c\u0002´¨$|<\u0080¾øpc\u0092Ö³\u0000æýoÒ6¸ü\u0011Ið\u0001¯ý]?yÝtÂ\u0011cå\u000bÖÔ\u0089En&¯êí·`NþHDÈ®gq\u0099\u001d\u0087\u0008Ý¢í¶ã\u0089B\u008cÛA[\u001f\u0086C\u0090h-Û\u0003\u0090x\u007føb\u000fêêD\u000f@<oá¯\u001eÄ\u0087á\u008bõÇÚ×­½¿{,Ö¯?Õ6x¯6`\u008cMLU³aÛ.klL]»Â´\u0015-Òn_\u001f`j4°}\u001b\u0010@²Î\u0021Vq»Ö-EÇ^Û\u000bm\u0094Xïà\u0086\n­-\u000cM«¹aÙR\u001am \u0015j77 PéÈ¾Å\u0014Yµ\u0094\u0002\u0092¥5ÚÏ\r\u0008\u0090\u0085¡i57,[J£\r¤¢ÞÝ\r\u00187(\u001emwÝbw\u008dì\u0016-v\u000bd7o±\u009b#»Y\u008bÝ\u000cÙM[ì¦ÈnÒb7Avã\u0016»±´ûÐ2%? ù(\u009fb\u0002\u0096p\u0094Ü°­ï?í\u0082æÀ\u0099¡jn?í2yÈLÎéý:T¬ú\u0098¸¶j\u009e\u008dZlåÑp©Pw\u0094\u0090B\u001f\u0000³\u0015mU·\u008f\u0080ÛÚÖ\u0006p\u008e}Ûjõ|\u0013u \u008fz\u0007}\u0084\u0006\u009a÷x·\\Õ\u009a\'¥Ð\u0092&\u008ftC\u009f\u0088X(Ø\u001fõKÚÆR=\u001d\u0005\u008cõ;ÑOòî*\u001eT\u00827Øú¸6¶lë/|D\u001bkZûÉ8\u0096Ý¨Ä3PÀº>\u008aÝXÉç\u009e\u0080\u0021\u001c¿\u0096s·yÚ\u0009Í^yäº±m\u001eA\u0002¦ò\u00985¶lk\u0011|´\u001akZ[Ä8N­G\u009cxðh\u0019eõ\u0011jÓºíþ\u008d\u008fM\u009b*x¸\u0089(ÕQiY/óÉ&T5ëxt£U\u000f7\u0001\u0095>\u0012mæõUlÝñ\u001c\u0083\u0086Yb<Ö\u0004ç\u008ay\u000cÂÖÆ²÷\u001dw\u0096m\u008d\u009epBí\u008c\u008f87*ùØ\u0011\u0010À±fÃ¶mp\u001aG\u0099\rUëð4\u008f/ËÈ\u0008?Ø\u0084Â#ãÈ²êIû¹&Ü\u0095Î1eË\u0087õt\u0013sd\u001fM¶¼ÕÏ:1\u001fÍqdKùMd8{\u008e \u007fºj\u000e\u0095\u0089eM\u001cÜú\u0088\u0098ÍZ\u008e\u000fÕaIst«U³\u0085ç\u0017%ª\u000fVµj\u001a4ô§«æø\u001fÎ\u0007£\u0007µÌ8¾\u0088u\u0090U«ÌÉíL\u0092\u009d\u001d\u009d8¦\u0018S\u0009\u009b×\u009f®î\u009fà\u0001Óaâù\u009f5\u001b\u0081ñ´\u0019UZ\u000f\u009e\u0086\u000bùèIõ¡\u009eB\r\'d¹-¬ï\u000fT±¼S4\u000eÔ\u0013jT\u008d\u001eVUÞ\u008c\u0096s\u009b\u008dV]3?rE­Z¢§ÚxE\u008d\u0007\\ì\u0080ªµd´B\u001b\u008f¾\u008d\\?üFÕø9X\u008bi:CB+,zBn¤ø\u00199ª6\u001f\u0097±\u0003ªÖ\u0092Ñ\nm<H7òæQ:ª\u0084§j-º¦\u0089®\rÑ\u0082&Z\u0018¢9M47D3\u009ahf\u0088¦4ÑÔ\u0010Mh¢\u0089\u0021\u001aÓDc%ú@[£>\u0018\u000b\u0014<¿GeúQÞ\u00106\u0021\u0017U\rÑ\u0097áBÆ_T\u001f*\u0014\u0093+\u009exÌ\u008f¯vÍ\u0013¿\u0096Èg~\u0092P=þK¹\u000eºâr\u001cqÙrbÛ¹\u001b\u0003¶#j\u000bzv\u0009lWz\u009f\u0080á\ro\u0019\u0004\u001d\u0012&A`ÿ@Þ\'ä\u000eBü&¡6\u0013 »ë\u0007\u000fBWË§\u008fF¦÷\u0016¢J¼Í\u0000QV½Ñ@\u0008´ä\u009e\u0003\u0096\u0011Ç\u0085¹\u0001\u0081\u001dPÇ\u0083µ\u001bÑ¸¨÷#¢R¹5ÑH`s"ªÒû\u0014rÉ\u0092;\u0015ñEKmZ4B¹m\u0011Õ©\u001d\u000c,#¶¯¹\u009d\u0081\u001dPÛ×ÚÛÐS£ÞÝ M\u0007¹ÑaJ\u0089\u0011\u009e¹ëaºPû\u001ed7h\u000bD¶\u0085µ\u0009\u0012o\u000eg?¤q¤wD¢.ðæ\u0088Y\u008a¯\u0018«²w§\u0004f½¹WB\u0098ûö¶\u0089í\u0088Q0ÿ\u001e\u008aì9¼\u008b\u0012ï5sC¥q\u0001[*QµÞ]1\u0084Ä\u0089cmµ\u0018.¨SÇÞw\u0091Á·±ó\u0012\u008fÀ­M\u00185b\u009cm\u0018Ê\u0090ñìÈX\u000eí=\u0019ºWw{ÆrÝlÐÐ\u001dÂ^\u008dåæ\u001búTónÜlß¾½\u001d}\u0094ßf\u00185\u007f¯\u009eO{¸$þ½¹Úü\u008c\u000f®£í\u0016ô#?é°Õ\u0012\u001bÊ-\u0099\u0080¥Ú\u008aÙª]\u0098\u0080%ì¢lõÆK¨\u009c\u0086iÄV\u001b\u009fP3Õ\u0084î\u0091¼\u0088Úª¾.Ûëd7X\u009d\u0018n´\u0093Õj^sÃÚh:¯¹n¾\u0093Õ~^s£®ç¨¹Ù6g\u0082@+îqkJPþH^Ç\r*\u0093d\u009bÞ;m*ÓÃÍzo7k@a\u0008Ì\u0096\r(tãÞÛ\u008d\u001bP\u0018µ?S\u0014f\u0083\u009di\u001a-*q+×\u0008÷\u0091¼\u008aÛ¸N\u0090-\\:-\\§\u0086Û·´Û×ko\u0098\u009b­ëµ×m[Úmëµ7j|\u008eÛ\u009bMt¦(´ä\u0088[µ\u0081Ð\u008fäeÜ¬M\u008al×£Ó®Mr¸a\u008fvÃú\u0005\u0086½Ù²~\u0081nÚ£Ý´~\u0081Qï3A`¶Ô\u0099$Ñ\u009a³;fï\u009c¶>\u0087\u0086ð\u009d¯ñÏ¬A}Gì 3cä·û4\\ÒgG»SÝÏgÆ\u0014j÷it\u0012}\u009aEZÔôÊ\u0098\u008b\u0011¿Úñ\u008bsï\u0006)ºõ¼\u0004îå\u0096©\u001cS/\u009cÛ»å"<¦^èA@Ä§á\u0092\u001c)D\u009cê1õB\u008f\'">\u008dN"\u0007\u001d±\u00165½ÒC\u0093\u0098_åøP\u000f)ø`Ü¨¹ \u0007\u0004\\\röóAusÈ\u0014[ÊÞ\u000b\u0099ªN9¨>\u0009\u0099âÂ\u009fÛM\u008d\u008a\u009ecÆÚú\u0084Û\u0005âäÃÉi\u009cöhøp²[¨5\u001c>\u009c\u009cfj\u008f\u0087\u000f\'»­Z\u0003âÃÉi°ö\u0088øpr[-\u0012\u0012\u001fî\u008d\u0096Ó\u000bÓáÞm¼ØBr¸wÚ/²N\u001cîÝ&\u008c­\u0002\u0087{§\u0015#\u0093üpï6dl\n\u001fî=m\u0019\u009f\u009f¥Ñ\u009c\u0010ü\u001eJ·1Û#ÜCé4ek\u0088{(Ý\u0086l\u008fq\u000f¥Ó\u008c­Aî¡t\u001b±=Ê=\u0094\u009e&\u008c\u0084¹\u0087£Ñ\u0080*ö:\u001cÝ\u0016\u008c\u0084J\u0087£Ó\u0084í\u0081Ðáè¶a$Ê9\u001c\u009dFl\u008fa\u000eG·\u0015#\u0001ÊáèiÆXðq8{\u0006â\u009dÛ¬gÞÀ¼£¶ý\u00993|#^\r§\u008c1\u001eq«;ñÌ\u0099\u0009\u0011¯F\u00070¦K¬eM¿\u009cI\u0015ó¬]¿¸wÑ;ké\u001bI3úmÕö\u0010\u001e3/\u008c»oÌ«á\u0094~\u008f\u008e¹Õcæ\u0085q+\u008fy5:\u0080~Ã\u008f¶¬é\u0097\u0011\u0017D=+×§â¬\u0083&ý\u001d+-0ñ\u009c¯ïð\u0017¬´\u0095\u008dãÔ\u009e%J³Ý·4"x\u0007Kå_\u008e\u008dV÷08¢ÞÕðÀ\u0085ß®\u0009\u0085ß®©\u0085ß®µÿ¦G[½Ë\u000e\u008dú¶:Tâ6\u0009%/\u009f¨%/\u009f´ÿ3¡ègjÙíÑ¨\u0011\u009cí\u0019h;B&ÈX×\u0082T\rz=B\u0015\u0089\r\u0021mÇ¨\u0008\u001eHgbM\u0018U\u0009Õ%6¨´\u001d£.õÐúP_«\u0007ïþ}\u0093É\u0007[k1\u0087MU¹¦¨Êµ9M.=»ï¨%\u0097e8Õ/ô.<Q)\u0085À\r±]mvßÅ\u000b\u0092:P¹Å\u0011\u0001ÑGñïòSÄâo\u0095XÇA8µ¾ \u0092\u009b\u000f\u0014ãôæ\u008aø\u0016tóÊ¼ù\u0085õøpÎª}¹Y{¾ð\u0008/Ëë\u007fùN\u001cÑh\u000eV\u008b\u009b.Y÷U}óý¨>\u0089Xß\u008aÉê?\u008a&\u0090Ú:>$+ÿÚ¼Ö\u0095GÁë&\'h7;Ñu\u001fáÃ²Í\u009f\u009f®ê\u000f\u008f««õ_\u009f®ÄGgÕ5ñ\u0007È¿2¬\u009bkC)jþú=\u0096J\u0083ÆÃn\u008f²\u0017\u007f4ùüí¸:|¬¿\u0085ûá¸:Ü\u008a\u007f4\u0009¿\u0083Oã\u008a>ß\u0097ÏÛÝGë\u0093¹ÍU×ú¸ÿ`\u009b\u001e÷\u001f>]Õ\u009f\u000c\u0016ÑÐéX\u009c\u001eÞ}Ä\u001f\u0012\u0096×´\u0091\u001cfØ\u0006Æ\u0019\u0098Ü¯ª¢nTl\u0004\u0017µ\u0099(Ê·â»É\u0086\u009dþ\u009c²iùõníÚ\u0015»5*~Q>ºþÄUÛ\u009f¸fû«íj\u007fÿx®N\u009bÇ\u0017£\u0084òÚðA\u0092\u001cp)M{á×kmù\u0096íh\u009bB[jÃ:týª8}(\u008a\u009dcÞÄµ÷Mª£úMs\nÃ/ZÕ\u0089\u008eæë\u001f\u008b]ù\u0012Ð\u0014uâ§«§cý£\u0092Q3\u009cÄ_â\u0009K^\u001d£«cñ\u0013\u0094ãf÷^[7\u007f\u000b{\u009526R\u0084¦(\u001fá\u0005CÓIâ\u008a|\u009b \u0013íáS[à~Avº³µUÝ\u001fÒÆ\u0018Ôµ\u0009ô\u00834°\u0086tm¢G´42çOm£¦\u008f8HòXÖíón³^\u0017»\u008fpEþm\u0098Ô\u0015W\u0006MµácÏ\u001fÕ÷\u009fáÊ§«Õ}µ/\u009fO(\r®|ºªN\u009b\u0087÷/:¥ùûÓÕãæ\\¬õåúÏOâãÓuWÉ½èæÏº8ú´FsQ>J·îL7\u0096aCÓN>Ó´îE7\u0096MÐ×¶\u0009-Ë\u00186<[\u0096m¦Ê¶¹\u0099Õ\r¤7\u0016ÔÅº\u0099\u008c\u0017_*é\u000c¿ójßKPö­æ\u008eµú¥VûÃ¿²\u0087\u009fZµ>Õë²·\u009a»ms\u008e\u0008\u0094BÜÞë¶\u0084ýfy¡nGtÎB^\u0096mØ¾\u0001-m[L-KÙví\u009bÎÒ¶©Wëv3\u0094µÅÔ®ÿ¹ÕXÿâMÆû£\u008fj\u001b\u0014.Õ\r\u0086_âC\u0082l²È®\'X·\u0019Û¶²Ù"[\u0094`ÝT°}çQ\u0095¹ÍØi\u008ds»¹²ÿ ÀáÐTõ\u001f²© ¡þ\u001da\u0093 @5:a$¯\u008a·Þ\u009bÝßÔÕíf7T)ï\nÜ\u0015òé É@%Õ9È¤&\u000b\u00954\u0082ë£OWEYn\u000eÕ¦²o\u0010wud¯.\u0082Ù]ýs\u0096¦¾·»}\u0013\'VÇ¿\u0088\u009b¸s7¸û (ùP\u0090Ã\u0019vÍÔ{þÛ¡¸jgÿPn\u000eâxý©þxAóÿ¯=¹ßÉ\u0008\u001cÚæ×b4¬¾ÐÍ5\u001d\u0017Û×\u001f¯ÎÕð\u0081Àû\u0091f|ä\u008f)dQ\u007fLi\u0014üc\u009a\u0093Ù?RFÇÿè|È\u0004 $i\u0087\u0000\u0021C\u001a\u0007\u0008JÏD\u0001\u0019²\u0018\rÈ0¦\u0002\u0081¤\u0088Ã\u0004B\u0092v,\u00102¤\u0091\u0081¤\u0080\u000b\u00072d1>\u0090aLE\u0004I\u0011\u0085\u0012\u0084Lc  d\u001ac\u0005\u0021Ó\u0018.\u0008\u0099Æ\u0088AÈ4\u0006\rB¦1n\u00102\u008d¡\u0083¤)\u0085\u001e$M©\u0000\u0021Ó\u009cÁ\u00102\u0085,\u008c\u0010¬\nQ\u0092\u00102¤Ã\u0084@Äâ\u00099"\u001eRÈ\u0091s©B\u008e\u00834°PØ\r\u0093-\u0004k$\u0011/¤:\u008aB\u0018\u0092Æ\u001cÈ\u0090º«S8C\u00861\u001d5dÈ8´\u0021)\u008c\u0003\u0087¤\u0021\u00959\u0004\u0093\u009e\u0088\u001d\u0092æ4ò\u0090aL\u0087\u000f\u00192\u000e\u007f\u0008\rL\u001a\u0082È\u0012Ð)D\u0096\u0090\u000f"\u0082:&²\u0088¤\u009c\u0083#²rL#\u0012©Y\u0095\u0006%räi\\"h}6\u009aH\n©t"Ó\u009c\u0001(2\u0085,F\u0011\u0084i\u0009\u0098"ÝÃ\u009dHE¶\u009bÎ°"Û\u0021\u008bWd\u008b\u0093\u0090Eg \u0005±¨EXÅ\u0001\u0017a\u001dl\'ÅÙEg@þðñEX\n\u0019\u0092\u0008FXÈ\u0084\u0018a)\u0083ct®\u0086l\u0094\u0091Òt¢\u0019Ù^R\u0081F¶\u001f\u000eÓÈÖ¦`\u008d\u0094\u008f$²\u0011.A\nÜÈÐ\u0093ùF\u0086\u008a\u008d8Ò5N§\u001cY>\u0018 #K\u0099À:R\u001e\u0012qG\u0086\u009eL<2Tlè\u0091Rwà\u001eY>\u0018è#K\u0099@?R\u001e\u0098\u0000$CÇ` \u0019:\u0006\u0006ÉÐ1HH\u0086\u008e\u0001C2t\u000c\u001e\u0092¡c \u0091\u000c\u001d\u0083\u008a¤tL0\u0092Ò%°\u0091lm\u001a\u001eÉö\u0092JHÒk&\u0007\u0092d¨\u00928IÚC**Éã\u0021\u0099\u0096äñÕ\u0001\u0098äñÖ\u0099\u0099Ôæ3\u001d\u009b¤ï:|r\u0012\u001a\u0003Lx\u0092R&ò\u0093PtÇD(YÊ$\u008a\u0092å#\u0011¤¤¼°XJJ\u0095\u0080SÒk\u001d\u009f¨¤´l¨\u0092¥Lâ*Y>\u0012ÑJÆ\u000cbÓ\u0095\u001cu\u0012`ÉñÒ\u0089±¤Û¥;fIùJ$-9eé\u000c[B«DgÞ\u0092ÇWgä\u0092îË.Ô%å%\u0001¼dkÓØK¶\u0097Tü\u0092~\u0012èF`Â#éR\u0010&×ç%9L®÷T\u0014\u0093ë©+\u008dé\\\rm \u0093¼ä2\u0099d\u0002\u0011Ë$­Id&iK\u00843Ikü#{Ç\u0018m\u00101\u0010M`M¥4\u0009{\u001f¨\u0009®ûYM\u0090ÊÀ5\u0081\u0084Ll\u0002\u0001\u0003Ú\u0004\u0012"g\u0001Õ\u0083JQ@\u0012\u000e½I\u0088\u0002\u0000\'H\n2\u009cÀ\u0080\u0087q\u0002\u0015\u0087ä\u0004\u001a\u001eÌ\u0009TFsDÎ\u0015ª:QDN+r©NBç\u0005;AB\u0080í\u0004É\u001c¼\u0013hè\u0084\'Pp O ¡BjP]È\u000c\u001a¤aÑ\u009e\u0084Ê\u000f|\u0082\u0094\u0010ó\u0009ÒYØ\'\u00101ÈO aÁ\u009f@d4EûiFU\u001f\u0082Æi>&\u0005JÈ( (°#³ @pq\u001c\u00148¾,\u0011\n¼^\u001c\n\u0005\u008e©S\u008eÆ\u0085R­K\u009e\u0096D4\u0094rÜ\u0003\u001dJø¦\u0000¢À\u008eÌ\u0088\u0002ÁÅ1Qàø²¤(ðzqX\u00148&Æ1D^\u0094j]j°CEF)Ç=P£ÎÕÐ\u0001GÉkTv\u00944§á£¤1\u0095 %Í\r<A[\u0007p8R`NFI\u0009\u0081\u0097&\u0005\u0009\u001c \u0014hèL)Pp°R ¡â(P]È¬\u0009¤añ¥\u0084*\u0084\u0098\u00824&e\nd,Ð\u0014\u0088\u0098¬)\u0090\u0099U\u008e¯\u0011)Ä)%ãB§\u0084ÐÏ\u009d\u0082\u0014\u0016z\nD\u000cú\u0014HX\u0000*\u0010\u0091É;¨>t®\u000e\u0012ñHTB\u0016\u0080QA\u0012\u008fG\u0005*\u000e\u0092\n4<*\u0015¨ÌúF\u0083¨\u00046\u0095R1ñTBG#T\u0081e\u000f\u0090*p}iN\u0015øí\u0001U\u0005®És\u0086H«R­L\u009fXT`\u0095rÝ\u000b³Jx§a«À²\u0007r\u0015¸¾4¼\nüöÀ¯\u0002×Ô\u0098\u0081\u008a°R­L\u008e,È\u0014+åº\u0017\u0090Õ¹\u001aöÇ²ÒÎ{ÃYé,ú\u0021ZYUè\u0003j¥³h:ø¢\\+«ü} ­t\u0016ýÐ­´ÿþ\u0001W¨.}1®Üêô\u0087¹ÂÕé\u008ftåÖ¨?ØÕ¹\u001a¦ñ®L\u0021\u0003yeÎ \u009f\u008dz¥\u008bñó\u0082¯Ð\u0082û\u000ba_¡õÓ\u008b¿Òé\u0021\u0002\u0096¶\u0008C°ÄËg.\u0007Kiø(,%M¥a)\u0007)@,%Ncb\u009d«a\u0000\u008b%\u001cûÈXçjè\u0081c)?m|,e\u0014Fd\u009d«¡\u0087\u0092%óô\u0082²d\u001a\u009d\u0095å\u0011\u0084pY¢À\u0014b\u0016²k\u0081f\u0021«\u00087\u000bYÆÑY\u0096q\u0098\u009e\u0085k\u0013\u0005hYÆa\u0086Ö¹\u001ar1Z\u008e¤\u009d¤e\u0098G`Z\u0086m\u001dA\u0013yZ®\u0090\u0084Ôre$ªÖ¹\u001aúÁZ:ÁbkÕ¿\u0092\náµp¢CØ\u0012\u0089m\u0090-\u009d\u001eål\u0099¦AÔ\u00966\u000bÓ¶´M;pKÛµ1·Î\u0095Â¥´`·L+\u001fyKüL«\u0005¾u®\u0086mü-QÖ\u0000\u0082K,:^\n\u0097¸¡\u0099 .uÅbq©ë\u0014\u001c\u00972\u008e\u0013¹\u0094)\u0005Ê¥\u008c\u009b\u00105²\u0085OGsic\u0012\u009d«¾ëy\u0000]øºËèÂ©DL\u0017\u0096\u0090H]X@\u0084ua\u0009üª0¶\u0085ÁEv\u0019\u0012*µë\\\r\u001dp\u0097¾f³»t\n\u0009ß¥Í\u0009\u0004/mL\u0082xió¦¦±-{\u000eÊ\u000b\u0099Óh^bMÙ8@/tÕaz¡4\u001aÖ\u000b\u0009(d/dN\u0083{\u0021ASåè^-\u000fñ\u0085\u0005DÊ\u0097xH\u000c\u0081¾P\u009aÃúBi\u0008÷%Þm\u0007\u0089_çjØ\u0002ýÂ©.÷\u000b§bô×¹\u001a^\u0082þ%î8¿ \u0000\u0098K\u0000\u009b-k\u0002Xµ%\u0011À¤\u0019\u009f\u0000f\nY\u00040S\u001a%\u0080\u0099æd\u0002\u0098\u0094Ñ\u0009`:\u001f2\u0001\u000cIÚ\u0009`È\u0090F\u0000\u0083Ò3\u0009`\u0086,F\u00003\u008c©\u00040)â\u0010À\u0090¤\u009d\u0000\u0086\u000ci\u00040)à\u0012À\u000cY\u008c\u0000f\u0018S\u0009`RD\u0021\u0080\u0021Ó\u0018\u0001\u000c\u0099Æ\u0008`È4F\u0000C¦1\u0002\u00182\u008d\u0011À\u0090i\u008c\u0000\u0086Lc\u00040iJ\u0021\u0080IS*\u0001Ì4g\u0010ÀL\u0021\u008b\u0000\u0006«B\u0094\u0000\u0086\u000cé\u00040\u0010±\u0008`\u008e\u0088G\u0000sä\\\u0002\u0098ã \u008d\u0000\u0016vÃ$\u0080Á\u001aI$\u0080©\u008e¢\u0010À¤1\u0087\u0000¦îê\u0014\u0002\u0098aL\'\u0080\u00192\u000e\u0001L\nã\u00040iH%\u0080Á¤\'\u0012À¤9\u008d\u0000f\u0018Ó\u0009`\u0086\u008cC\u0000C\u0003\u0093F\u0000³\u0004t\u0002\u0098%ä\u0013À \u008e\u0089\u00040)ç\u0010À¬\u001cÓ\u0008`jV¥\u0011À\u001cy\u001a\u0001\u000cZ\u009fM\u0000\u0093B*\u0001Ì4g\u0010ÀL\u0021\u008b\u0000\u0006aZ\u0002\u0001L÷p\'\u0002\u0098í¦3\u0001ÌvÈ"\u0080Ùâ$\u0002XµM\u0021\u0080a\u0015\u0087\u0000\u0086u°5\u0015\'\u0080UÛd\u0002\u0018\u0096B\u0086$\u0002\u0018\u00162\u0009`XÊ \u0080U[>\u0001Li:\u0011Àl/©\u00040Û\u000f\u0087\u0000fkS\u0008`ÊG\u0012\u0001\u000c\u0097 \u0085\u0000fèÉ\u00040CÅ&\u0080é\u001a§\u0013À,\u001f\u000c\u0002\u0098¥L \u0080)\u000f\u0089\u00040CO&\u0080\u0019*6\u0001L©;\u0010À,\u001f\u000c\u0002\u0098¥L \u0080)\u000fL\u0002\u0098¡c\u0010À\u000c\u001d\u0083\u0000fè\u0018\u00040CÇ \u0080\u0019:\u0006\u0001ÌÐ1\u0008`\u0086\u008eA\u0000S:&\u0001Lé\u0012\u0008`¶6\u008d\u0000f{I%\u0080é5\u0093C\u00003TI\u00040í\u0021\u0095\u0000æñ\u0090L\u0000óøê@\u0000óxëL\u0000kó\u0099N\u0000Ów\u001d>\u0001\u000c\u008d\u0001&\u0001L)\u0013\u0009`(ºc\u0012À,e\u0012\u0001Ìò\u0091H\u0000S^X\u00040¥J \u0080éµ\u008eO\u0000SZ6\u0001ÌR&\u0011À,\u001f\u0089\u00040c\u0006±\u0009`\u008e:\u0089\u0000æxéD\u0000ÓíÒ\u009d\u0000¦|%\u0012À\u009c²t&\u0080¡U¢3\u0001Ìã«3\u0001L÷e\u0017\u0002\u0098ò\u0092@\u0000³µi\u00040ÛK*\u0001L?\u0009t#\u0080á\u0091t)\u0002\u0098ëó\u0092\u00040×{*\u0001ÌõÔ\u0095\u0000Vm\u001d\u0002\u0098¼ä\u0012Àd\u0002\u0091\u0000&­I\u00040iK$\u0080Ik\u000cLp\u008cÑ\u0006\u0011\u0083\u0000\u0006ÖT\u0002\u0098°÷\u0011Ààº\u009f\u0000\u0006©\u000c\u0002\u0018HÈ\u00040\u00100\u0008` \u0021\u00923P=¨P\u000c$á\u0010À\u0084(@\u0000\u0083¤ \u0001\u000c\u000cx\u00040Pq\u0008` á\u0011À@e4Gä¤¢ª\u0013Eä´"\u0097\u0000&t^\u0002\u0018$\u0004\u0008`\u0090Ì\u0021\u0080\u0081\u0086N\u0000\u0003\u0005\u0087\u0000\u0006\u001a*\u008e\u0008Õ\u0085\u008c\u001aB\u001a\u0016\u0001L¨ü\u00040H\u0009\u0011À \u009dE\u0000\u0003\u0011\u0083\u0000\u0006\u0012\u0016\u0001\u000cDFS´\u009fwTõ\u0021h\u009cæc\u0012À\u0084\u008cB\u0000\u0003;2\u0001\u000c\u0004\u0017\'\u0080\u0081ãË\u0012ÀÀëÅ\u0009`à\u0098:åh\u00040ÕºäiI$\u0080)Ç=\u0010À\u0084o\n\u0001\u000cìÈ\u00040\u0010\\\u009c\u0000\u0006\u008e/K\u0000\u0003¯\u0017\'\u0080\u0081cb\u001cC$\u0080©Ö¥\u0006;T\u0002\u0098rÜ\u0003\u0001¬Úº\u00040y\u008dJ\u0000\u0093æ4\u0002\u00984¦\u0012À¤¹Áuhë\u0000\u000e\u0001\u000cÌÉ\u00040\u0021ð\u0012À \u0081C\u0000\u0003\r\u009d\u0000\u0006\n\u000e\u0001\u000c4T\u009a\u0007ª\u000b\u0099Ó\u00814,\u0002\u0098P\u0085\u0008`\u0090Æ$\u0080\u0081\u008cE\u0000\u0003\u0011\u0093\u0000\u00062³Êñ5"\u0085\u0000¦d\\\u0002\u0098\u0010ú\u0009`\u0090Â"\u0080\u0081\u0088A\u0000\u0003\u0009\u008b\u0000\u0006"2Í\u0008Õ\u0087\u000e*B"\u001e\u0001LÈ\u0002\u00040Hâ\u0011À@Å\u0021\u0080\u0081\u0086G\u0000\u0003\u0095Yßh\u0010\u0095@\u0000S*&\u0001Lèh\u00040°ì\u0081\u0000\u0006®/M\u0000\u0003¿=\u0010ÀÀ5yÎ\u0010\u0009`ª\u0095é\u0013\u008bJ\u0000S®{\u0021\u0080\u0009ï4\u0002\u0018Xö@\u0000\u0003×\u0097&\u0080\u0081ß\u001e\u0008`à\u009a\u001a3P\u0009`ª\u0095É\u0091\u0005\u0099\u0000¦\\÷B\u0000«¶=\u0012À´óÞ\u0008`:\u008b~\u0008`V\u0015ú \u0080é,\u009a\u000e¾(\u0001Ì*\u007f\u001f\u00040\u009dE?\u00040í¿\u007f\u0002\u0018ªK_\u00040·:ý\u0011Àpuú#\u0080¹5ê\u008f\u0000Vm\u0013\u0009`¦\u0090A\u00003gÐÏF\u0000ÓÅøy\u0009`hÁý\u0085\u0010ÀÐúé%\u0080éô\u0010\u0001L[\u0084\u0009`âå3\u0097\u0000¦4|\u0002\u0098\u0092¦\u0012À\u0094\u0083\u0014\u0002\u0098\u0012§\u0011Àªm\u0088\u0000&\u001cû\u0008`ÕÖG\u0000S~Ú\u0008`Ê(L\u0000«¶>\u0002\u0098ÌÓK\u0000\u0093it\u0002\u0098G\u0010"\u0080\u0089\u0002S\u0008`È®\u0085\u0000\u0086¬"\u00040d\u0019\'\u0080YÆa\u0002\u0018®M\u0094\u0000f\u0019\u0087\u0009`Õ\u0096M\u0000s$í\u00040Ã<B\u00003lë\u0008\u009aH\u0000s\u0085$\u0002\u0098+#\u0011Àªm\u0080\u0000¦\u0013,\u0002Xý+©\u0010\u0001\u000c\':\u00040\u0091ØF\u0000ÓéQ\u0002\u0098i\u001a$\u0080i³0\u0001LÛ´\u0013À´]\u001b\u0001¬ÚR\u0008`¦\u0095\u008f\u0000&~¦ÕB\u0000«¶­\u00040QÖ\u0000\u0001L,:^\u0002\u0098¸¡\u0099\u00040uÅ"\u0080©ë\u0014\u0002\u00982\u008e\u0013À\u0094)\u0085\u0000¦\u008c\u009b\u00105²\u0085O\'\u0080ic\u0012\u0001¬¾ëy\u0008`øºK\u0000Ã©D\u0002\u0018\u0096\u0090\u0008`X@$\u0080a\u0009üª0¶\u0085Á%\u0080\u0019\u0012*\u0001¬Úº\u00040}Í&\u0080é\u0014\u0012\u0001L\u009b\u0013\u0008`Ú\u0098D\u0000ÓæMMc[ö\u001c\u0002\u00182§\u0011ÀÄ\u009a²q\u0008`èªC\u0000Ci4\u0002\u0018\u0012P\u0008`È\u009cF\u0000C\u0082¦ÊÑ½Z\u001e\u0001\u000c\u000b\u0088\u00040ñ\u0090\u0018"\u0080¡4\u0087\u0000\u0086Ò\u0010\u0001L¼Û\u000e\u0012Àªm\u001b\u0001\u000c§º\u00040\u009c\u008a\u0009`Õö"\u00040qÇùE\u0013À\u0016³\u009a\u0000¶]\u0093\u0008`Ò\u008cO\u00003\u0085,\u0002\u0098)\u008d\u0012ÀLs2\u0001LÊè\u00040\u009d\u000f\u0099\u0000\u0086$í\u00040dH#\u0080Aé\u0099\u00040C\u0016#\u0080\u0019ÆT\u0002\u0098\u0014q\u0008`HÒN\u0000C\u00864\u0002\u0098\u0014p\u0009`\u0086,F\u00003\u008c©\u00040)¢\u0010À\u0090i\u008c\u0000\u0086Lc\u00040d\u001a#\u0080\u0021Ó\u0018\u0001\u000c\u0099Æ\u0008`È4F\u0000C¦1\u0002\u00984¥\u0010À¤)\u0095\u0000f\u009a3\u0008`¦\u0090E\u0000\u0083U\u0021J\u0000C\u0086t\u0002\u0018\u0088X\u00040GÄ#\u00809r.\u0001Ìq\u0090F\u0000\u000b»a\u0012À`\u008d$\u0012ÀTGQ\u0008`Ò\u0098C\u0000Swu\n\u0001Ì0¦\u0013À\u000c\u0019\u0087\u0000&\u0085q\u0002\u00984¤\u0012À`Ò\u0013\u0009`Ò\u009cF\u00003\u008cé\u00040CÆ\u0021\u0080¡\u0081I#\u0080Y\u0002:\u0001Ì\u0012ò\u0009`PÇD\u0002\u0098\u0094s\u0008`V\u008ei\u000405«Ò\u0008`\u008e<\u008d\u0000\u0006­Ï&\u0080I\u0021\u0095\u0000f\u009a3\u0008`¦\u0090E\u0000\u00830-\u0081\u0000¦{¸\u0013\u0001ÌvÓ\u0099\u0000f;d\u0011Àlq\u0012\u0001l»N\u0021\u0080a\u0015\u0087\u0000\u0086u°5\u0015\'\u0080m×É\u00040,\u0085\u000cI\u00040,d\u0012À°\u0094A\u0000Û®ù\u00040¥éD\u0000³½¤\u0012Àl?\u001c\u0002\u0098­M\u0021\u0080)\u001fI\u00040\\\u0082\u0014\u0002\u0098¡\'\u0013À\u000c\u0015\u009b\u0000¦k\u009cN\u0000³|0\u0008`\u00962\u0081\u0000¦<$\u0012À\u000c=\u0099\u0000f¨Ø\u00040¥î@\u0000³|0\u0008`\u00962\u0081\u0000¦<0\u0009`\u0086\u008eA\u00003t\u000c\u0002\u0098¡c\u0010À\u000c\u001d\u0083\u0000fè\u0018\u00040CÇ \u0080\u0019:\u0006\u0001Lé\u0098\u00040¥K \u0080ÙÚ4\u0002\u0098í%\u0095\u0000¦×L\u000e\u0001ÌP%\u0011À´\u0087T\u0002\u0098ÇC2\u0001Ìã«\u0003\u0001Ìã­3\u0001¬Íg:\u0001Lßuø\u000404\u0006\u0098\u00040¥L$\u0080¡è\u008eI\u0000³\u0094I\u00040ËG"\u0001Lya\u0011À\u0094*\u0081\u0000¦×:>\u0001LiÙ\u00040K\u0099D\u0000³|$\u0012À\u008c\u0019Ä&\u00809ê$\u0002\u0098ã¥\u0013\u0001L·Kw\u0002\u0098ò\u0095H\u0000sÊÒ\u0099\u0000\u0086V\u0089Î\u00040\u008f¯Î\u00040Ý\u0097]\u0008`ÊK\u0002\u0001ÌÖ¦\u0011Àl/©\u00040ý$Ð\u008d\u0000\u0086GÒ¥\u0008`®ÏK\u0012À\\ï©\u00040×SW\u0002Øví\u0010Àä%\u0097\u0000&\u0013\u0088\u00040iM"\u0080I["\u0001LZc`\u0082c\u008c6\u0088\u0018\u00040°¦\u0012À\u0084½\u008f\u0000\u0006×ý\u00040He\u0010À@B&\u0080\u0081\u0080A\u0000\u0003\u0009\u0091\u009c\u0081êA\u0085b \u0009\u0087\u0000&D\u0001\u0002\u0018$\u0005\u0009``À#\u0080\u0081\u008aC\u0000\u0003\r\u008f\u0000\u0006*£9"\'\u0015U\u009d("§\u0015¹\u00040¡ó\u0012À \u0021@\u0000\u0083d\u000e\u0001\u000c4t\u0002\u0018(8\u00040ÐPqD¨.dÔ\u0010Ò°\u0008`Bå\'\u0080AJ\u0088\u0000\u0006é,\u0002\u0018\u0088\u0018\u00040\u0090°\u0008` 2\u009a¢ý¼£ª\u000fAã4\u001f\u0093\u0000&d\u0014\u0002\u0018Ø\u0091\u0009` ¸8\u0001\u000c\u001c_\u0096\u0000\u0006^/N\u0000\u0003ÇÔ)G#\u0080©Ö%OK"\u0001L9î\u0081\u0000&|S\u0008``G&\u0080\u0081àâ\u00040p|Y\u0002\u0018x½8\u0001\u000c\u001c\u0013ã\u0018"\u0001Lµ.5Ø¡\u0012À\u0094ã\u001e\u0008`ÛµK\u0000\u0093×¨\u00040iN#\u0080Ic*\u0001L\u009a\u001b\\\u0087¶\u000eà\u0010ÀÀ\u009cL\u0000\u0013\u0002/\u0001\u000c\u00128\u00040ÐÐ\u0009` à\u0010À@C¥y º\u00909\u001dHÃ"\u0080\u0009U\u0088\u0000\u0006iL\u0002\u0018ÈX\u00040\u00101\u0009` 3«\u001c_#R\u0008`JÆ%\u0080\u0009¡\u009f\u0000\u0006),\u0002\u0018\u0088\u0018\u00040\u0090°\u0008` "Ó\u008cP}è "$â\u0011À\u0084,@\u0000\u0083$\u001e\u0001\u000cT\u001c\u0002\u0018hx\u00040P\u0099õ\u008d\u0006Q\u0009\u00040¥b\u0012À\u0084\u008eF\u0000\u0003Ë\u001e\u0008`àúÒ\u00040ðÛ\u0003\u0001\u000c\\\u0093ç\u000c\u0091\u0000¦Z\u0099>±¨\u00040åº\u0017\u0002\u0098ðN#\u0080\u0081e\u000f\u00040p}i\u0002\u0018øí\u0081\u0000\u0006®©1\u0003\u0095\u0000¦Z\u0099\u001cY\u0090\u0009`Êu/\u0004°íºG\u0002\u0098vÞ\u001b\u0001LgÑ\u000f\u0001ÌªB\u001f\u00040\u009dEÓÁ\u0017%\u0080Yåï\u0083\u0000¦³è\u0087\u0000¦ý÷O\u0000Cué\u008b\u0000æV§?\u0002\u0018®N\u007f\u00040·Fý\u0011À¶ëD\u0002\u0098)d\u0010ÀÌ\u0019ô³\u0011Àt1~^\u0002\u0018Zp\u007f\u0021\u00040´~z\u0009`:=D\u0000Ó\u0016a\u0002\u0098xùÌ%\u0080)\r\u009f\u0000¦¤©\u00040å \u0085\u0000¦Äi\u0004°í:D\u0000\u0013\u008e}\u0004°íÚG\u0000S~Ú\u0008`Ê(L\u0000Û®}\u00040\u0099§\u0097\u0000&Óè\u00040\u008f D\u0000\u0013\u0005¦\u0010À\u0090]\u000b\u0001\u000cYE\u0008`È2N\u0000³\u008cÃ\u00040\\\u009b(\u0001Ì2\u000e\u0013À¶k6\u0001Ì\u0091´\u0013À\u000có\u0008\u0001Ì°­#h"\u0001Ì\u0015\u0092\u0008`®\u008cD\u0000Û®\u0003\u00040\u009d`\u0011Àê_I\u0085\u0008`8Ñ\u0021\u0080\u0089Ä6\u0002\u0098N\u008f\u0012ÀLÓ \u0001L\u009b\u0085\u0009`Ú¦\u009d\u0000¦íÚ\u0008`Û5\u0085\u0000fZù\u0008`âgZ-\u0004°íº\u0095\u0000&Ê\u001a \u0080\u0089EÇK\u0000\u001374\u0093\u0000¦®X\u00040u\u009dB\u0000SÆq\u0002\u00982¥\u0010À\u0094q\u0013¢F¶ðé\u00040mL"\u0080Õw=\u000f\u0001\u000c_w\u0009`8\u0095H\u0000Ã\u0012\u0012\u0001\u000c\u000b\u0088\u00040,\u0081_\u0015Æ¶0¸\u00040CB%\u0080m×.\u0001L_³\u0009`:\u0085D\u0000Óæ\u0004\u0002\u00986&\u0011À´ySÓØ\u0096=\u0087\u0000\u0086Ìi\u00040±¦l\u001c\u0002\u0018ºê\u0010ÀP\u001a\u008d\u0000\u0086\u0004\u0014\u0002\u00182§\u0011À\u0090 ©rt¯\u0096G\u0000Ã\u0002"\u0001L<$\u0086\u0008`(Í\u0021\u0080¡4D\u0000\u0013ï¶\u0083\u0004°íº\u008d\u0000\u0086S]\u0002\u0018NÅ\u0004°íú"\u00040qÇùE\u0013À®ç5\u0001¬|"\u0011À¤\u0019\u009f\u0000f\nY\u00040S\u001a%\u0080\u0099æd\u0002\u0098\u0094Ñ\u0009`:\u001f2\u0001\u000cIÚ\u0009`È\u0090F\u0000\u0083Ò3\u0009`\u0086,F\u00003\u008c©\u00040)â\u0010À\u0090¤\u009d\u0000\u0086\u000ci\u00040)à\u0012À\u000cY\u008c\u0000f\u0018S\u0009`RD\u0021\u0080\u0021Ó\u0018\u0001\u000c\u0099Æ\u0008`È4F\u0000C¦1\u0002\u00182\u008d\u0011À\u0090i\u008c\u0000\u0086Lc\u00040iJ\u0021\u0080IS*\u0001Ì4g\u0010ÀL\u0021\u008b\u0000\u0006«B\u0094\u0000\u0086\u000cé\u00040\u0010±\u0008`\u008e\u0088G\u0000sä\\\u0002\u0098ã \u008d\u0000\u0016vÃ$\u0080Á\u001aI$\u0080©\u008e¢\u0010À¤1\u0087\u0000¦îê\u0014\u0002\u0098aL\'\u0080\u00192\u000e\u0001L\nã\u00040iH%\u0080Á¤\'\u0012À¤9\u008d\u0000f\u0018Ó\u0009`\u0086\u008cC\u0000C\u0003\u0093F\u0000³\u0004t\u0002\u0098%ä\u0013À \u008e\u0089\u00040)ç\u0010À¬\u001cÓ\u0008`jV¥\u0011À\u001cy\u001a\u0001\u000cZ\u009fM\u0000\u0093B*\u0001Ì4g\u0010ÀL\u0021\u008b\u0000\u0006aZ\u0002\u0001L÷p\'\u0002\u0098í¦3\u0001ÌvÈ"\u0080Ùâ$\u0002Xù\u0094B\u0000Ã*\u000e\u0001\u000cë`k*N\u0000+\u009f\u0092\u0009`X\n\u0019\u0092\u0008`XÈ$\u0080a)\u0083\u0000V>ñ\u0009`JÓ\u0089\u0000f{I%\u0080Ù~8\u00040[\u009bB\u0000S>\u0092\u0008`¸\u0004)\u00040CO&\u0080\u0019*6\u0001L×8\u009d\u0000fù`\u0010À,e\u0002\u0001LyH$\u0080\u0019z2\u0001ÌP±\u0009`JÝ\u0081\u0000fù`\u0010À,e\u0002\u0001Ly`\u0012À\u000c\u001d\u0083\u0000fè\u0018\u00040CÇ \u0080\u0019:\u0006\u0001ÌÐ1\u0008`\u0086\u008eA\u00003t\u000c\u0002\u0098Ò1\u0009`J\u0097@\u0000³µi\u00040ÛK*\u0001L¯\u0099\u001c\u0002\u0098¡J"\u0080i\u000f©\u00040\u008f\u0087d\u0002\u0098ÇW\u0007\u0002\u0098Ç[g\u0002X\u009bÏt\u0002\u0098¾ëð\u0009`h\u000c0\u0009`J\u0099H\u0000CÑ\u001d\u0093\u0000f)\u0093\u0008`\u0096\u008fD\u0002\u0098òÂ"\u0080)U\u0002\u0001L¯u|\u0002\u0098Ò²\u0009`\u00962\u0089\u0000fùH$\u0080\u00193\u0088M\u0000sÔI\u00040ÇK\'\u0002\u0098n\u0097î\u00040å+\u0091\u0000æ\u0094¥3\u0001\u000c­\u0012\u009d\u0009`\u001e_\u009d\u0009`º/»\u0010À\u0094\u0097\u0004\u0002\u0098­M#\u0080Ù^R\u0009`úI \u001b\u0001\u000c\u008f¤K\u0011À\\\u009f\u0097$\u0080¹ÞS\u0009`®§®\u0004°òÉ\u0021\u0080ÉK.\u0001L&\u0010\u0009`Ò\u009aD\u0000\u0093¶D\u0002\u0098´ÆÀ\u0004Ç\u0018m\u00101\u0008``M%\u0080\u0009{\u001f\u0001\u000c®û\u0009`\u0090Ê \u0080\u0081\u0084L\u0000\u0003\u0001\u0083\u0000\u0006\u0012"9\u0003Õ\u0083\nÅ@\u0012\u000e\u0001L\u0088\u0002\u00040H\n\u0012ÀÀ\u0080G\u0000\u0003\u0015\u0087\u0000\u0006\u001a\u001e\u0001\u000cTFsDN*ª:QDN+r\u0009`Bç%\u0080AB\u0080\u0000\u0006É\u001c\u0002\u0018hè\u00040Pp\u0008` ¡â\u0088P]È¨\u0021¤a\u0011À\u0084ÊO\u0000\u0083\u0094\u0010\u0001\u000cÒY\u00040\u00101\u0008` a\u0011À@d4EûyGU\u001f\u0082Æi>&\u0001LÈ(\u00040°#\u0013À@pq\u0002\u00188¾,\u0001\u000c¼^\u009c\u0000\u0006\u008e©S\u008eF\u0000S­K\u009e\u0096D\u0002\u0098rÜ\u0003\u0001Lø¦\u0010ÀÀ\u008eL\u0000\u0003ÁÅ\u0009`àø²\u00040ðzq\u0002\u00188&Æ1D\u0002\u0098j]j°C%\u0080)Ç=\u0010ÀÊ\'\u0097\u0000&¯Q\u0009`Ò\u009cF\u0000\u0093ÆT\u0002\u009847¸\u000em\u001dÀ\u0021\u0080\u00819\u0099\u0000&\u0004^\u0002\u0018$p\u0008` ¡\u0013À@Á\u0021\u0080\u0081\u0086Jó@u\u0021s:\u0090\u0086E\u0000\u0013ª\u0010\u0001\u000cÒ\u0098\u00040\u0090±\u0008` b\u0012À@fV9¾F¤\u0010À\u0094\u008cK\u0000\u0013B?\u0001\u000cRX\u00040\u00101\u0008` a\u0011À@D¦\u0019¡úÐAEHÄ#\u0080\u0009Y\u0080\u0000\u0006I<\u0002\u0018¨8\u00040Ðð\u0008` 2ë\u001b\r¢\u0012\u0008`JÅ$\u0080\u0009\u001d\u008d\u0000\u0006\u0096=\u0010ÀÀõ¥\u0009`à·\u0007\u0002\u0018¸&Ï\u0019"\u0001Lµ2}bQ\u0009`Êu/\u00040á\u009dF\u0000\u0003Ë\u001e\u0008`àúÒ\u00040ðÛ\u0003\u0001\u000c\\Sc\u0006*\u0001Lµ29² \u0013À\u0094ë^\u0008`åS\u008f\u00040í¼7\u0002\u0098Î¢\u001f\u0002\u0098U\u0085>\u0008`:\u008b¦\u0083/J\u0000³Êß\u0007\u0001LgÑ\u000f\u0001Lûï\u009f\u0000\u0086êÒ\u0017\u0001Ì­N\u007f\u00040\\\u009dþ\u0008`n\u008dú#\u0080\u0095O\u0089\u00040SÈ \u0080\u00993èg#\u0080ébü¼\u00040´àþB\u0008`hýô\u0012Àtz\u0088\u0000¦-Â\u00040ñò\u0099K\u0000S\u001a>\u0001LIS\u0009`ÊA\n\u0001L\u0089Ó\u0008`åS\u0088\u0000&\u001cû\u0008`å\u0093\u008f\u0000¦ü´\u0011À\u0094Q\u0098\u0000V>ù\u0008`2O/\u0001L¦Ñ\u0009`\u001eA\u0088\u0000&\nL\u0021\u0080\u0021»\u0016\u0002\u0018²\u008a\u0010À\u0090e\u009c\u0000f\u0019\u0087\u0009`¸6Q\u0002\u0098e\u001c&\u0080\u0095Ol\u0002\u0098#i\'\u0080\u0019æ\u0011\u0002\u0098a[GÐD\u0002\u0098+$\u0011À\\\u0019\u0089\u0000V>\u0005\u0008`:Á"\u0080Õ¿\u0092\n\u0011Àp¢C\u0000\u0013\u0089m\u00040\u009d\u001e%\u0080\u0099¦A\u0002\u00986\u000b\u0013À´M;\u0001LÛµ\u0011ÀÊ\'\n\u0001Ì´ò\u0011ÀÄÏ´Z\u0008`åS+\u0001L\u00945@\u0000\u0013\u008b\u008e\u0097\u0000V>Ù\u00040uÅ"\u0080©ë\u0014\u0002\u00982\u008e\u0013À\u0094)\u0085\u0000¦\u008c\u009b\u00105²\u0085O\'\u0080ic\u0012\u0001¬|Ò@+L\u0000Ã×]\u0002\u0018N%\u0012À°\u0084D\u0000Ã\u0002"\u0001\u000cKàW\u0085±-\u000c.\u0001Ì\u0090P\u0009`å\u0093K\u0000Ó×l\u0002\u0098N\u0021\u0011À´9\u0081\u0000¦\u008dI\u00040mÞÔ4¶eÏ\u0021\u0080\u0021s\u001a\u0001¬|ò\u0011ÀÐU\u0087\u0000\u0086Òh\u00040$ \u0010À\u00909\u008d\u0000\u0086\u0004M\u0095£{µ<\u0002\u0018\u0016\u0010\u0009`â\u00211D\u0000Ci\u000e\u0001\u000c¥\u0021\u0002\u0098x·\u001d$\u0080\u0095Om\u00040\u009cê\u0012Àp*&\u0080\u0095O\u0017\u0021\u0080\u0089;Î/\u0089\u0000öv\u0097eâ¿úÿþçf·+\u008eðëí\u0087ýö°Úmö»ì£i\u0096eM7?ï6§Ûly8ßÙé«²¼Í6»Íi³*\u009dÄú\u0001ôqµÝ\u0094/·ÙÃæøð\\®\u008eyöMQþX\u009c6\u000f«<«Vb\u0010\u0015ÇÍ£#nN\u0021{\u009e\u0091Ö/¯-ãOVåNû}yÚ\u001c\u0086ÛýóNìä½\u0014Ç¶:þ4ÜìÖÅù6\u009b\u008cg×³åt1[8¥Q\u001d\u0099AÜq÷v×¡ÈÂãFÄ\\uðyªn³ú`\u008eU¯A>½É§³|ºÌ¿\u009fý\u0090\u000f\u001eÊUU½QU\u0019\u008eï\u0017Ç\u000fÕÿ\u001eü\u0090\u007f?^^ç\u008b|6Ê§ùd\u009c\u000f¾ýî¿ÿøõ \u001f¬W§Õð\u001fUõ\u0006þ}[\u009cVo~\u001cä\u0083«\u007fTÕt\u0092}ÌÄ==\u001b\u001dÎw\u0019\u000cÃl~87WTÓÜÜÜÜÜ¡Vh"¨»Ì|¬ÎìgÛ&ù·¢\u0019^ßeÎ\u0019s°zú\u000fùûÅ»ìS]®iö1\u0093ó#\u009b/DI\u009aë3t}\u0081®Ïñõ\u0089¾¾À×Gúú5º.\u0096\u0084»\u000c\u001em3\u00110\u0083Ù2ûè)ôñéþ\u008bÉ|\u009egð\u000fUì\u009bìc\u0086\u000f{eº\u0088³Qö±ö}\u009b\u008d³qæÉ\u0012?ÈeM@\u000eÚqö1{x>V"w9n\u001c9*g½\u0093\u0094\u0089g\u009cÕfg¤\u001c\u008bC±:Ýf»½üWÈa\u0082\u001ad2Ó¥\u0016\u001dA)§ý`\u0095Ás\u00078\u0012=Ô,HÙ´î\u0008Èmª»e¶ æÖX_³¬\u0097®µ\u001aïËÃ9\u009b\u0088å\rµUÓÏóI\u009e\u008dÇã<\u009bÌ¦¯\u0003þ\u008d\u001e\u001f×Õ±¶-²ãþÃðXüX\u001c«\u0002ÊsC*\u008f7C\u008a÷Ûwâö\u0011\u001a¿+t\u000b¹\u001aO`\u0000ÏGRö¯YuXíÄ¨ÓC~:É³\u0099\u0018ðã¥¶\u0007;½\u0083\u0099\u008dëá\u00837\u001f³ùh\u0004\u008a±ét\u0094g\u008b<[\u008e_ß\u0019.ô\u0014\u009eO"í4\u000e·\u0093t \u009b¢Y¬\u008cµ§NkY\u009b ½ñ\u0015\u009b\u000eÏ»ª8©\u00026;l·Ù\u000c-®r¯­¹\u009b\u0082×\u008b\u0096ð_³\u0083^\u0086\u008eríÓ\u0099ÍÒÇ\u009dt\u00906´æ\u009cÙ:_èå¢\u0099Qf}Pã\u0089y­* l³ÉÈ\u009cÉxÝ^,óìfj¬Úó%j~\u0085¸iª2\u001få\u0099ø¯\u0090\u008c®&ó×â¶\u0098\u008d§"\u0097ëÃ9\u001bÎ\u000fçÜ©õ´1«GçBX\u0019Å=¸Ó%û\u001f\u009bía\u007f<­v° ÏÅòð¸)OÅñ6\u0013?Ì\u0094åúÂ®D6\u0011e9\u009cÅ=ûõ]Ç\u0096¸ù\u009c-qCk\u0089Å\u0008\u000f\u0005Ï}Ó\u0013\u009aeÛÕy\u0008w\u009b\u0019\u001e?u°³h\u001fá\u008bq0G´+n·õ(èÔ\u0084\n5c×¹_Z%h\u0099c\u009eY¯ì«\u001f\u009f\u009aqS\u0082\u009d$2üq³{¯¬\'vý ¶X\u0017\u008f«çòô3Tx\u009a­ê_zÞ¯D¥OÇÕ\u000e:uU\u0096ÙèjYeÅª*²Q\u0015^\u0008}U\u009d\u0012\u009bdÚÒàrQ7\rÿ\u0095èx\u0086B7Õ¼MÒ\\E\u00842\u0087X|´@«âtn\u0018Õ\u007f\u0011&F[\u0000#×Öæækõá\\\u000c\u0093H\u001f.\u0098\u0083öÚ\u0017Õú\n-Í¥{ñÇ\u008dX\u0014ö\u0087ÕÃæôr\u009b\u008dï²\u001f7Õæ~SÖ\u007fÖÿ^*\u009d\'ðk\u0099ûmaYdØ;Íc¼Ì\u0090\u0019\\;ËYsy\u001c~t¸\u009e¨4ù fuN½´ÖÿP\u0005l\u0084Ôè\u001d~\u0010Ð\u0084+Í\r\u0097V\u001bO4AY\u0012Påæ-£¦^\u0007\u000e«c±;¹7\u0086ë\u0085Ù,ª{\u009a\u0016\u0008uâ¬¹\u001f±ËÉ\u001cÝ××¨\u009f\u0017m\u0011Ìõ\u0092lyã\u0004v:q9\u008a\u008dÜ&\u001aÐ\u009bhÙx\u0019\u001eÌÒ\'¯ÒË±ó\\Ý\\÷\u0004ñ-¹N\u0083÷ßz\u0084Ú\u0001ëH=oÈ8bÚÌ\u0091³ø»6S»\u0014¾@\u0000\u009dUÈÄÔ\u000b>»,Ûn\u0012¾Ö\u0098\'Ô#Tl·\u00942\u000ff\u0099\u0016±hªK\u0091Ò\u0097Å%sz){ß}¸ÜìÞ7¬@°\u0016\u0093\u0011\rüë¹\u009e6K4d\u001f7\'(¦»Þ,oð\u001e\u0089\u000c*U\u0098y=qgîX/Åõ\r«\u001esÓúiPZ\u000cÇ£z\u000cª[ÙÈ{»Q;Á\u0099Ü\nF·Iµ³lÄìB:\u0095=¨öâÎßÖ©¯ÍÛ%¸´ïøþG\u0087Æ\u0097x"Yï?ì¾z\u0082&¾q§¾ïV\u008eÇ\u008c1éoÆÙ¿f\r½D/rj[Q¯Ã7x§êzÎÎfBÌ&¼\u0006\u0005\u0083\u0082öðè\u0006ï]Öá\u0014Ü»DÀ\u0005÷-\u001cîÝ õãÚ\u0088\u0009\u009b\u001dº¨~¡v\u0014Ü\u009dY1G`_ÖÜÀ\u009ac\u0007Íf\u0002zl46ÄÌIÒ|h$ÛïÊ\u0097¬z8\u0016Å.[íÖÙ\u0017x\u0096,\u0017\u0087óëf\u000b\u009eUD£¹íy6k\u008a\u008c\u009cr\u008a\r²z§Iå#&ÏÂp[oþøv{\u0094Eý¨\u008a#\u0092zO\u001f¯\u0012óÑÈ,ª»{a\u0019Ü`\u0003ÑÑ3\u0014\u0000J¯Ð÷c·i&¾xÑÌ¢Þ\u0099\u0081R7%ViãÑ\u0008\u008dÚ©/°bo\u0007kßãHÄBz\\\u0099Ð¢U\u009d+5\u0016a¸\u009câNZB(:ó4ýÒ¿ªÖ¯\u0014¦£<\u009bLÇjKFû\u009fÁÍ£©¬q{Qù.d¾þ\u0015ÑÞØ\u009eÌ\u0016b2,Enb÷Õ÷¼\u0087J ÇH\u00139Mñ4l\u0016\u008e\u00899¬Æ#üòåaU>|\u0021\u0016Òl\u0098\u008dç£z¯ª­\u0013ôù&w»»92he¥Öt9\'p\u0086³&?<3\'fÛ\u008d¹±\u0097ÎúÚ\u0008Y¼o\r|cÀ½C\u0019«\u0092çÎä_µÆ£%¥\u0000ÖnÞ(Ï¦3ù\u0002kt5\u0091ÛtÍSÂ\u008c_¼:Êð\u0016¯~íbNXs\u0098,ÐMn²0nr°ü~\u001aä³q>ÍÇ\u008büûy¾ø\u0001¿ÉÜ®Þ\u0017ß\u009e^Ê¢\u0092¯4Ç£\u001bï-\u0005=JZs¦\u0019\nî\u0096Ó´\u0092÷¡Õn³\u001d>>ï\u001e\u0086b\u000bJDOÅQ¼¾.¡\u0081Nû\u0083¼c\u008aÜëÿ\u009dLÍû\u008fù¾Ð\r.ÇãQR±¥xì¼;ð\u008d\u0002ï²c\u0019I\u0087\u0013¯ÃÅ(ÏÄ\u008bfqî ´­\u008cM¤³©×Ùd*Zã&Ï\u0096³ 7ÓFº\u009bùÜ\u0019ÛÎó\u0090CÇJº\u009cûK(úKÔeÚRBÃFº[\u0084ÝÙï\u008cÇãk¯±:ß\u0011ÈW§K7ËÀë#\u001cE\u0081iôYKÑÒu\u0080?\u001eßøÛ]÷x½ã\u001fiªÖ9\u0010\u0098<hLyT\u0093Q|¬\u0082e´âO"lµk>ñO/ßà\u009cÄwî\u008fÅÚÉÀ?Ý|c«n\u009bÖ\u009d2eé\u000e,Ù¹§Ýï$\u0012³íP\u0086a%].cOE¥\u0008\u0091ü\u000f@ãÉ\u008d­F\u0091qó\u0096F,õ\u0013q\u0084eä.õÿ^À\u0012?õ¯\u0095¾#\'¡ðr®ÞÒ×?ZÈêsSÆmÔ=\u009aBØ:õ\u0086Ûh\u001b`<\u001d{\u008bN\u000c\u001a¬÷ÊÓö÷Êã)kÛm<\u009d \u001döq}\u0006\u0007o±\u007fò\\\u001e]MÍ\u001dµ\u0099\u0013\u0016\u001aµ\u009f¡\u0087nÜb2y.³\u0086Í\u009dÿ%ÿ¾6òTæÆ\u0001\u0010ãM\u0095}7\u009f\u008cFÛæ\rÒp³«_"QOrÈ¬\u0096Á¬â\u008e\u008c*zÞ/Ä= >\u009d©\u008d¤áÜy\u0016\u0080Ée¼\u001bjþòo\u0018¹1?#H\u0098¡÷¤\u0093qð\u0081 ±­ß9¢£\u008a\u0099<«H{H·wd=·\u0081ÙÔ~\u0094ö<&\u0007oM³kqW\u001a\u0099·æ\u0019õí\u0086Qíæ\u0011Ú\u0004\u0011\u0018\u0083©>\u000be>¶y¶ýÑ\u0019\u0098ñÌ\r(ä>\\|\u001d_Û\u008bøÌÚ\u000c\u009d\u008c<[*Fß\u0089ÁïÛQkßð\u001aÏ<ë=Þe@«¿,C£\u009b£Wd7ÆF\u0019ì©d3d=\u000eXO\u00945öÝ¼K;\u000fÕìXâÔ©LUobqâÌ~\u0006vFü\u0002Yã]\u0095é\u0004\u008a\u0082ÇÁ|\u0091ø^o<ÿÿ«»\u0016Þ6r$ýW\u0084\u000e\u0002ÜÞ¶\u0093æ»\u0099A\u0016°bi&À<r±ï\u000e\u008bÀ8(RÛ\u0016"K\u0086¤$\u0093ÃÝ\u007f?T\u0091Ý,²Ù\u001dÙ³;ÀÅÀ`ô\u0015ß¬*\u0016YEv&ô-\u001c\u0012µû[¿\u0095\u001b_Ô\u001eqhLûî¸ó\u0014\u0017Ú#¼\u0089LÕé\u0010\u0013\u0021P6\u009e\u009c\u0088gðè­\u001b\u0082\u0001Iw]Zî\u009bÅ±¹Z|<\u0010\u000b\u000cc>òº\u0081U¦\u009c00õDÐ}\u009aÇ\u008dÁ3\u008d\u008eØ?\u000f"ýÀ\u0090\u00800[²\u009dZ*a(\u0085]\u0006\u001aÝ*ô\u0093ÏàbéÔ:s\u0000N\u009biÚ\u0085F\u009b\u0087±P`¼2\u0095Ý@«Á\u001dtr~;pHÙÅ\u000eEÆOkè°Q}n;}ÎÃ¤¥ìEe_Û$ì\u0009.¹¶D\u0093a¯^Ò¾|\u009cd§£ëÿñ\u0091Áù#V\u007fdæKî\u0005ú\u008c\u0006RòÄ¥åµßÓC|\u0012\u0019?9ü\u009b\u009d\u001cV0h°\u0019ª~yÕ\u001d\u008dzj&Ð8²biZ\u0093\rØ`Ô\u0019ï\u0098iÌuÏê^ÜGß©\u0097µ\u008fâ{\'\u0093îâI[n&Æ#s$Ü¯ìäð\u0087ï\u001f¤\u0018ÓÍ\\-\u0007\re\u009f \u0013\u0007\u009añ9\u009f\u001c»\u0094óZ>\u0095\u0011É×ÖÈÒ\u0080.óX>é´s:Éf\\§Öù\u000b\u0005®öõöáó±W¹M\u0097\u0012Â\u009a6\u0013ò16Hm\u0093ª\u0017*Úyr\u0001¾\u0000ÿ\u009f¿\u009cºXÛÈ}Cµ¥\u008dö\u009d>Öá)îA&t\u0017Î\u001cÖýÔÑ\u0090®Tý¨\u0097\u009eoBÛÄSwÖK\u0091®\u0015&I ªÔzKvç,É\u0080zþvÑ©\u0097\u008cîJY\')A²¤ÕÉ\u0091û)C¬à\u001a\u000c\u001dbëNg=g\u009c¸UÌY¦q3³v\u007fÆÁé\u0086åt_\u009b\u0021\u001eS¯¬£ðú¶\':\u009dOPLn¬£­2¶¯Í¤T\u009e\u007f"ë\'cûäLì+p\u0012øE\u008d¶âo=W\u0095_UÂø%\u001b4ïf\u001eó¢0+\u0007ÂàC\u0012Ü4ü\u0001\'\u009b2\u0093p\u0084\u0011ôa»\u0097\u000b\\9P¹Ïüj³8\u001cÏ\u0096wëÍ*\u0015 2N\u0019ã´Nz¬zF¶NRôb\u009dH\u0005íu¬èü\u008fHwoï\u009a7\u0017\u0008G\u009dÎÃéN&Ä\u0011xýièe©ØSÉ»sR\u0011ÎIK&®ýÙ(\u0006\u000c \\(IO\u0081Ü¯Ñ=c°\u0092¨­_ç6êYE\u0095¹\u00964¼Ö:õDV:k\'\u007f\u009b¬ïo\u0093 «þI\u000f¯2Ë^Æ\u00219Ð _FOGÅ\u0091]½â\u007fO\u0082&}1=\u000bûäbªþ"ÀiÉô\n¤³\u0021F\u000cVFsÊïçLmü^P¤/J=¢¨<kD}Ò½\u0008:`d\u0099cd\u008e\u008eõLhÌÉ»\u0008^}×[Ñ7\u0014ðÿÄðáF~\u0085vÕe\u008evûfw.B0w\u000eÛ\rj"\u0002\u0083²Ñ·\u00983¢ÃþÀ-TÎØ#¸\u0081EFNÿT\u0091£\u008b9nÊ)ì\u009e+é\u0004QIå\u000eøN\u0095\u0002´hÏÑ4m\u001dM\u001c]Í\u0089¥à\\7ÎÜ\r×/úá$\u0013ÚBÕ_Î¢\u001eè^\u0094\u0004\u0093\u0084lz§\u000f\u009eÐ\u000f\u001fkooô\u0003>8+\'\u0016ã=*îâ=8\u0009ñ\u001dòXqtûæïXÅý\u0021\ræ\u009d\u0093\u00829ïCg\u0000êï\u0085çwB¨F\u000f\u009dÚûç\u0011»¶ï\u0013=e\u00078è çèýÍ\u008d¾÷ÚÆÇ@\u0091Ð=òF\u0003ç\u0099ÍüI\u009b1Îe\'MÕ\u000bY{\u0081ò45Bë\u009dA{Üô\u0082\u0002Ch$\u0086\u009f\u0090e\u0082Ó\u0018j\u0099\u0084¥õ\u0002¥+ZÍØu\u009bn\u008f\u0011êsVé\u0019î¢Ì \u0092þþýh¨¸\u008d\u001cïÙÕ¹\u0089±Ý\u0097\'c÷§ÍM2DO´9EÕsö\u0090þ\u000bvr\u0098ªKÏsw­=\u008d\u0084,Ç÷\u0090£\u0099Å·\u0012\u0006n8p1\u0016\u008f\u001b{Ö³A\u0086\u008fT;Ñ9J6\u000c\u008b«Öqë®þ\rë)\u0091ó\u0089<ñ\u0014I\u009eì²àâ{×Ë\u0082Rò\u0019è5\u0002yrDí£\u001eÚp5ÉGÞÞá¸q\u000fÏ\u0081D6ÊàÈ\u00863\u0082\'=\u000cÁe÷\u0006É\u0019\u0089]ç\u0092.êB|oÉà§\u0086\u000bg-.\u009d\u009dïnèOv\u0089sô\u0018£vÊ\u008eÚÓïÇpú\u0080\u0086\u008c/\u0003Ô\u0099\u009a¢ó\u008a§³üð\u0010\u000cÆ\u0089qç¬>ÙJ\u0097äÌ´w\u008eÏå\u0088G\u0090Kz\u008aGs©HéÊDé*\u0096WÉ\u0083\u008d@§ñ@P]FIç^\u0089ð\u0094\'°Çp \u0001Wt{&\u0015%¤/Jt\u001asÀ/\u0095S\u0007Î?\u001dÎ¡Èí¨.É£Þ`áÊÄ§?Ißh×êt\u0006©½¬l\u009e:8\u0083±{xÈ%\u0092]]Nçd\u009d»ÏpÂ=-éM\u001cWîvñezÜvN÷Ç¹v\u0087\u001aë\n%BúØ\u0017\u0006¸æcb\u008a\u001eïä\nfF2´|jàÞ\u001f·,\u0080\u0091ÃæùdÏfþh«=\u001d}¼ÂìsMÆ\u0021öÿ¨õzØkÎ\u009dcfè*\u001e×u|e0°\u00939=À3²\u0002\u0086¢\u000fsk\u009d¯©w\u000e\u0018ïD%ÙRÿ\u0021åÐ÷Å\'ÓÙ±Àí~Ý\u0019G9Gx>ÆÍí¶\u0013·\u001e\\ñ\u0010pÅGÊ\u0093UIÖú@wú°ñ\u0093¹\u0098Ð{Í)ÚrhØr\u000c\u0085n`±¦Ý\u0084§ã®²\u009a\u0085<\u0006Ð\u008bÅâf,\\J&\u0013\u0099\u009bÂÌÍ§\u007f\u0086<úÖ\u008e½T6r-îÄ\u0099<5\u0000Õ%\u008fnô\u008f^\u008fæuz\u001c\u0082z\u009aÃ«a\u0002¸Eû\u0007¡Â\u0011O{qu0öGµç@\'Fù<ÁÅì6pQ¤H§I:\u008f\r¯ÿÑNRw´\u0018®\u0003\'T^?>4°+L\u000cÞÆÊ\u009e$vDeÒ\u0088ïÐ\u001eÑºËÆ\\\u0084¼\u0096\u0009\u000b|\'¢ðé:5´L&>qFÝÁaF\u001fûTeæÆìèQ\u001fi\u0091zd\u008b\u009eR\u0009\u0086Ñ >òG=NéÑ[\u008f°SúKp$Ô\u000f\u0003\u0007"¡PÑ»ô\u001eh½\u008dXÂ<\u0092ä\u0015õCï\u0004\u0090¤dÑ\u0081rìÝ¦Þ¬ÐY\u001d?S\u009aæ\u008d>\r\u0097_ò}\u0014N(Ò\u008cw\u0007O\u0093¾Ïð¼\u001f\u0017øýL²çUp\u0097\u001c¹)\u008b\u008b·ÿQ\u0094R\u0097\u009c\u0097Å/ço\u007f-ÚG_ÁEZ\u0094Åzõ\u001a>\u001bS\u0094Ò@²â§ÙùÅì}\u0097\nh?5\u008bU³\u009f¸ç]Ý\u001ds|R5ä¾Ã\u0014E)k(C\u009aò\u0083¨¯IEjR\u0094Ò"­\u008eh\u0087íbùéãb\u007fæß\u0016mö°wj.\u0097ûÝfóq±/JUa6ë³­W¯ov»#T¦X¦&a\\«\\\u008bÞ´¥\u0016¥âiÝ0r.ñâóñî\u0012´{³=\u0014¥\u0012PtWÝfw»»tcOÇNVE©$¤T"-Vê¢T\nªìJA\u0089Ûüçz»Ú}-J¥\u0081¨T/#\u000e¯k\u0014ð\u001em¿Á,º,Î/ß^Ì¢i¬&x\u001bÊå;¬W\r\u008e\\q\u0080k¬¯3ëJQª:×lÖe¢Ï\u009a\u0014¥²ÐÕâ¼(\u008b»}sóúåa¹\u0080ç\u009e\u000fE©+\u001c\u0005[~`\u0015\u0014æéÇýâØÜ®á\u0012­f\u0090BWe1ý÷««ß\u0080\u0001\u008fß\u001e\u009a×.h%ê\u0007\u0017\u0013¼áÛ5#sªV\u0094\u009a\u008c\u001cÌôúön\u0003\u000bU³j\u0087W\u000b\u0018¨¤wÌ±-³¼(µ\u0084\u0004Ú\u008f\u0080V0\u001eÅå»ó_IÍù\u009bÛi$¢\u008fEË\u0084^º\u0011l_²î\u0016Ó\u000e \u0006¢ÛãÐ\u0095²Ý«\u0090½gú¦ò`Xcì\u009c|\u000eC¦Ý\u0014±ºdÌ^÷Ç\\ñ¢üÀ8».µ\u0081¹j\u0093\u0096L²Òá5Ìdñ.\u0099°nÀú\u000e\u0080\u009eÁ>ì\u0018+Jm»é Sf\u008bÒT@Ñ¶\'»UU\u0094\u0086\u0001ÑT}¢(JÃ\u0091ÈúDY\u0094F \u0091÷\u0089º(\u008dDb¯A¼REi\u0014\u0012e\u009fh\u008aÒh`®\u0094Â\u0094\u0097M\'7Ei\u000cpÝ\u0007&ÀQ|"ÇyVû\u0093\u0018«ÏD¦\u00866\u001bS\u0016o\u007fù\u0011æ}¿|\r>îWëûÅmóòv}ó\u0003¸&´,ßW\u009b\u001f\u007f»ØÜ\u009dÿÛùôüí¹û÷îåË\u0097ß~RÓó\u0019þüÙ¡Ósüývúþü\u001cT÷ªYî \u0015¯\u0017\u0087oÛeûÆøv}\u007fûz½=î×ÛÃz\u0009¬ZÉë\u0011\u00057YÃ:N\r ÌÀ¦Ñ÷Ô\u000f\u001f;*\u0007¦ 2\u0092»MÜÐ}T\u000f\u0090m^H\u0012\u0021Ei,Hì\u0007&ë\u0092I{ýx\u0011ë]Ô.Êº\u0002ÑnË,y¥¯Ë\u009a\u0081X\u0017ÿzU\u0094ÅÏ»Û\u0009\u0098\u00015GYc\u0002BgÌuYçÅ\u008b\u0015e-\u0081Rg\u0084\u0084\u0017e­PðB1\u001ae-ü6(Aáw\rrÕ+©.ÊÚ\u0002¥Æµ»ä\u0090ÀV\u0088X\u00820@lE\u0010\u008e\u0008#\u0088@\u0084\u0013D\u0082¸ö\u0097\u0089¢´Èç\u001f\u00985×e±Ø¯\u0017gN­¿>î?7}Ö?|¹ýëï÷\u009bò¹X\u001e¾Ü>çÕï÷\u009bíáõsnî\u008eÇ\u0087W/_~ýúõÅWñb·¿}É«ªz\u0089©Ìs^\u0081\u000by½ÛBRö\u00829\u000cù\u0005\u0011UW\u000erü\u0001\u0098âü97/\u009f\u008b¦Ó¼)wöxîÏÑ\u0018Ei5pî\u0007ÎøuY\\v&\u00825À|-L,\u0003[\u0003·9\u001e°âº´\u0016~Û\u001a\u0007¾d¶.\u0099\u0005N­J¦\u0082¸\u000f\n_j Ë¡]õ?W9ü\u0083t\u0000«\u009clu\u0012Â*\u0006"G\u0001\u000eb\u0016Æ\u008fU\u0002\u0000Àû#¨eÉk\u0009\u0089$\u0008#Í¥\u0000\u0000<\u0093Ë¶¹4\u0088,Íe\u0000\u0000¼\u009fËt¹j/¸±T[è\u009e\u0005\u0012¤è-\u0096UQ2Vµ\u0002.\u0098º.áh°¶\u0008#Æ+Àx+ò>\u008d\u0080ß\u0000\u00934²U\u0002>\r*\u0005\u0080I\u001aÝª\u0005\u009fÆÀo\u0080I\u009a\u001a\u0014\u0008Icá7À\u0021\r¯@¥ÀoäWÆ\u0019ü\u0006Øa\u00160î0×&¦1\u009dp\u0018÷\u0018¦\u0093\u000esu2\u0083é\u0094Ã|\u001d\u0006Ói\u0087)\u0087á¨sÓ\u0009\u0011×h`ü)êJöµ\u0015Ó\u009d²úÀu\rm«\u0091³\u0009#q\u008b\u0008Pz\u009cÄyå9IT(\u0000$\u009f`\u0088\u0000%\u0093Oµùx\u0090\u0007®u)j]º\u0096\u0008\u0011x>¡ÈÀ×\u0009E9\u008e\r2\u0008ÿSõmSÆ\nH\u00804HÓ£s ×\u009eÞÛÅr&\u0080î\u0019>Ô&+\u0094\u0004\u0098jÉ\u0010`\u0008\u0000\u0001AÎ\u0001ä\u001eô)9¦\u0014N2Ha\u0012E\u0086\u0014¦\u0010\u0000\u0002)L{PÑÂ\u008c\u0013\u0021RX\u008d²E\n³\u00080·éö\u0085©Ê\u0083\u0096\u0014¦\u0098\u0093µP\u0098â(\u0084¡0%\u0010`nGÝ\u0016&=(haÊ\u0009%)L£´\u0092Â\u008cÛÙ¸-b[\u0098ßî(C\u000b³NzCaºêd\u0097£ÌkÜ\u001e\u0021Á\u0081 \u001c4wÒLò\u0009\'Ë\u0004ñRK\u0010\u0085âÜ\u0099\'Lk\u0004\u0080@@ãÁ(eíACAëAb:1SyÐR\u0090\u0005ñ\u008b\u0019Þð `\u0009E 8\u0010\u00814Ò\u0009\u0008l\u009bR\u0081\u0014¬\u0015H£\u009c@\u0084~\u001bíD\u0080 \u0006\u0085\u0083"5\u008a\u0003­Í:\u00011\u0019µ\u0011j«+\'\u001b¡¤Ú\u000b\u0006A8\u008a\u000cE\u0004Ê\u000b©­\u0096N\u0082êÑ¾Áâ+#±\u0080\u0085UF³\u000c\u008b¦\u008cú\u000fË \u008cÖVXé@ÄêÑ¾ÁZ\'£Q\u0082\u0095MÚ\u0008á(t\u0014\u0011(q¤6X?@\u0006íhß¬râGJÒNö\u0008bP*)R£HÒÚ¬\u0013Ò\u009c\u0099×Õæl>:J\u001cT½2\u0011ÂQl)"PfCm¼\u0092\u0088\u0000%gT¶µ)\'À¤$\u008d¢M\u0011\u0083rMË®\u0011\u0001Ê°¹ÅAÁkÊK\u009cU\u0088\u0000eØàâ Àµ\u008còqW,,\u0000\u0083&\u0017\u0007]í\u0015\u0006Z*\u009cI\u0004¸WõhªpPÂ^\u0083øTN¥p¯Ã}*Ó©\u0014\u009fªF\u0080{åìSÙNÇ¸T¼B\u0080{­ëR¡\u0092´4\u0015w½õêÔ§\u0012¨¢H*\u0089\u0000ç´õ\u009ch\u0099H+qPm\u0086ò\u001bç\u0006\u0011 ôFM2ãG\rÌ\u0012££|\u0016\u0011\u009e3K$ç>\u001f\u0098%\u0086Ê.<·\u0009\u0008Ï\u0099%\u0092·õ\u0081Ybr\u001a\u0097\u0083YRWQ\u0089\u0012\u0011 \u008cô\u00004oÍ¢|\u001a\u0011\u008eZz¸\u0007\u00065 ÍW#ÂE\u0086¯I\u000flÐ\u0086q\u000fÀH\u0089ö%à\u0080\u0007\u0084ËÜ\u0098t=\u0000³%Ú\u0099pÔ¸\u001a)#=\u0000;&Ú\u009bp0dj\u0083\u0094\u0091\u001e\u0080eSgç\u0000t¯\u008dæ\u0000Ì\u001b[\u0021e¬\u0007\u0016u0É\u0007\u0006\u008feH\u0019é\u0001jßh\u000eÀ\u0002²\u001c)#=\u0000³Èfç\u0000l#\u001bÍ\u0001ê\\\u0085\u0094\u0091\u001e\u0080±d£9\u0000kÉj¤\u008cõ FíOóYD¸ÊÊO[\u001fØS6;\u0007\u009aaRR"êÚ\n)#=@Í\u001aÍ\u0001èÌ\u008a\u0021e¤\u0007 "«h\u000e@\u001dV\u001c)c=0auIzPãÊBK´\u0088\u0000ex«ÃAÝUÑ\u001c\u0018\u0086\u0008P\u0086·:Ü\u0090µ(n\u0089\u0021«MB\u0021ëIBñKFX\u0001A\u001bú}3\u001aÒ\u001cÔ\u001c\u0093Hè\u000cinj\u000f\u0012C\u009aÃêÄ¨\u0019ÄA¡ù\r¶+\u000c4\u0015ÓH\u0008\u0085\u0081\u001aB\u0090ìdx-Ü\u0002D\n\u0093¸4\u0091Â\u0014\u0002@ \u0085i\u000f*Z\u0098që\u0014)\u000cM{Z\u0098õ\u0093Cv2Ü¶3Fv2\u001c$\u009dGV\u0003È°ß×»Â¬@\u0080[N\u000b\u0093\u001e\u0014´0åV=R\u0098Æõ\u0090\u0014f\u0010\u0000\u0002)¬ö \u009d\u0000`\u0016\u009eÛÒ\nd¡\u009c\u0004\n\u0090\u0099¬í/@*D\u008eçE%Âz\u0093PdXQ\u0012\nY\u0019\u0012\nÑý\u0009\u0085h÷\u0084R\u0007-\u009dPlÐÃ1\u0085UAÓ&\u0014\u00164fBáA\'&\u0014\u0011´^B\u0091A{%\u0014\u0015ôSBÑA\u0003%\u0014\u00134IB©\u0083®H(\u0016%;è\u0016\u0001Ll\u0014R\u0086íqÁ\u0099\u0013ó\u008e\u0019\u0005ð«1\u0011"Pú)"Qôim\n\u0011 \u008cÕæõ\u0000)É8%@\u0090\u001aÕ\u0003E,ê\u0006R\u009b¨\u0010\u0001ÊHm\u00829E\u0011J\u0012Üi\u0009\u0082\u0008Ô\u001f\u0014\u0091¨<hm\n\u0011 \u008cÕ¦\u009d&\u0021%\u0019§F\u0008R£\u0082¡\u0088EíBj\u0093\u0015"B\u008cöM2§jBIÒë\u0019\u0082\u0008Ô@\u0014\u0091¨~hm\n\u0011\u0091³¨HmÚé"R\u0092q\u008a\u0088 5ª(\u008aØÀ}1·ª\n9\u008f´C1D\u0084\u001a³$\u0085âÈ\u009f4\u009f@D¨1KR(\u0089\\Ló)DDÖjâ]}:ptÒ\u0003\u0083ÜLK¬\u0011\u0011jÌ\u0092\u0014Ê"Ï\u0093|ºBD¨1KRh\u0086\u0092AóqDDÖjêz \u0089\u0094Ä=Ð\u0012%\u0084\u0096¨\u0010\u0011zÌ\u0092\u0014P\u0088\u0088æ@\u001bD\u0084\u001e³$\u0085®QÚh>\u008b\u0088ÈYM¡\u0007¦\n\u0092\u0017÷À0\u0094:R¢á\u0088\u00083fI\n#P6i>\u0089\u0088È\u009dp\u0085\u001e\u00806\u0015Ñ\u001c\u0018\u008d\u00880c\u0096¤0&HsÒ\u0083\u001a%\u0099\u0096h\u0011\u0011¹Ó¯Ð\u0083ºBy\'ùj\u0086\u0088¨³»Ó¶\u00075G­@ó\u0009DD\u009d\u0095\u009f®>\u00194DÜ\u0083Z¡v %jDD\u009d\u001b\u0093Ð\u0003\u0083:\u0084æ«\u0011\u0011uvwÚõÀ¢¦\u0021ùl\u0085\u0088¨³òÓÖg\u0089n\u0089{`\u0089öH(D?$\u0014\u0019ä<¡¨ É\u0009E\u0007YM(&È\\B©\u0083T%\u0014\u001bä&¢HPÜ&W\u008f¬Xàð\u0084Â\u0003\u000f\'\u0014\u0011x1¡ÈÀm\u0009E\u0005~J(\u0084/\u0012\n\u0099ù\u0084Bæ6¦\u0094ðþw1ýíâï]8Ióõìv\u007f¶<;\u009c-ï\u009aå§³Ín±jV¯\u0099|Á\u0098\u0092/ª6áíþ\u000c.\u009b¬·\u0087ãb³iV¯»è§ãîövÓ\u009c\u001dï\u009aû\u0006_£ìÜñø\u001eû«É³Ù\u0094](ùÃÄ?\u0001ÿjòL¼\u0099N\u0021j£}\u0017îÕäÙÍ\u008d2\u009c\u0003ôðyÿ°\u0001è\\¨j>\u0007èËn½\u0001Gõ3=­æ3\u008b©\u009aÅòîÕäÙüÍÅìÍ9 ß\u009a\rÆ\u009d=\u009bÏß°Ê\u0004è¿\u000e\u001b@ë©vuvÑÎ\u0098vî Ëf¹Û®\u0012°}h*`íÛ:QV\u0017gH\u0021\u0017(ú¾¹iö\u008b\u008d#Lçç\u008e\u0016¡õ\\\u0001ê±·ðN\u001d\u0012fúb\u0006\u0084}ssÕü\u000e\u0098\u0090z>\u0017XÄq\u001b:\u0010Áí«ò0èoà\u000fð£Ë_¹ÎÃ/Ú×ze\u0085]¶\u0014Òa\u009f\u001e""à\u0093d0ø\u0002þ\u0010\u000c\u0001ÝPÕùl6ÇùÝ¬¿4Ó\u0088v¡à\u000fhÛÝq}ã\u0006ÎÌÏÝ@=,\u001e\u009a=b3>\u009f»t>2Ì\u000fñìü\u0002§»½e\u0017\u0006y»ør±;\u001e¦·g7\u008bÍ¡A>\u009b³\u0094\u0006a*¯&Ïìô|úF\u0087\u0082.Ã=\u008a\u007f\u0081Çlàõ\u0016Îás\u0006ggîÓÐ¿=@°\u0084«ð¼m/¾#x±Ø\u007f¢\rÁ\u0087ùïv\u009bU³\u0007RÛóéü\u008do;}}\u0010²éy=\u009f&9\u0091Ü\rh7w\u0098u¾[~>ÄÃ\u001afýa¿»Ý7pÅ\u0000[¤µ¹ °ª^M\u009e1Y]8îka£")ü¼]5{\u000cÝxvó\u0011þÜdn?õëë>\u0000ØC\u007fÜ7ß\u0092¦ußì\u008dðCË~}Ê×õqywµ_,?\u0085Yí¸\u008bRý¼ö\u0088w\u009fï?vY[\u0099%$\u009f/T¹Ê\u0089Lw\u0091\u0002\u0006Oó©\u0091\u0015\u000e_ûm¾\u0084È%%RÞØ¬\u000fÇ\u008býîá¢ÃÍÜ8\u0012Þ\u0001m\u0091sÂùWëûæ-\\\u0014ú²Ø$ò²Ù\u001d\u000e­`Ìg\u0008Ý.Ö®ä\u008bÙ|>3\u001dÓL} \u000eáÃC\u0003ßq$\u009a\u0016UþÇÝï]Ú\u0086Ã\u009fkÝ~ýß\u0010s½¹Z|LZqÄ÷\u009d#Nv_\u0098¾ê\u0008~à\u008f»\u0087\u0087f\u0085P\u0090@÷H4\u0091æ7®ûËÅ~õ\u000e$â\'\u0094\u0088\u0096õæ\u001cþ¨*Â|\u0015þ«+§$WD¼æ3>\u009búÕæ[ÀÃìÒ\u000f\u0091Dª\u0087\\¹\u008f:\u001c=^\u001a©%·V\u0011J5S.\u008f[zh\u009e¹\u009daÿ\u009bÕ\u001aÃÙ\u009b­¯\u007f6Ó.\u000f¡àJ\u0080ä\u001bü§«6ÁE\u0086Í(þöØÜ\u000fS~êqÝÃ~w³Þ4¿4ÛÏo\u0097»íe³i\u0096Çfuö1QÕ\u0003ÉÜÇAc\u0085D\u0013úr\u0082ÎKÈ>\u007f`\u000fX\u0086¼*ñKÐáØ<\u001cÞ¬÷ËMÓqêÅÅEÇdÍÃaºð\u000bÑ\u0085×\u0006\u0008\u0092\u0011¢/\u0093Gc\u000eB÷Îé¡ù\\MkÔ\u009eÇÝns\\SF#M\u007f\u001b\u0089×lÚj \u0018êw\u008býâþ\u0010Ko=÷,±û8½½j\u0096w[øÀÕ\u0001Yòb\u001aHç\u009bÛ]dÐ\u0000è\u0083\u0007[¾f\u000e\u007f\u0083½ùy}8\u0086\u001eÞ5\u009b\u0087\u0084oWëÃr³Xß·«)Ì¹q\u0002óþóvºX~:6\u0007Ïeú¦¾¹éÑ®ZÛ\u0081\u0009\u0011´Ö{L\u0012g\u0083\u0021»Z?8ÃÇuÛºVÜ\u001fo®ÖÇMÓr³¹qS´ø\u0002J\u0000\u0086ÁÎ|ÒË\u008bæ°ÄúäGÃ\\}÷\rØWÓ\u0085ï\u0083\u000cúó¾YÞ­\u001f\u0082)\u0014ç\u0002\u001a5t\u009aÅ\u008d¸©)\u0095\u0018;\u001fë%_aVxAêÓ\u0006\u009f\u0095ùÑ[«Z,?\n\u009e\u0010ßã\u0092Ñ,y£]>\u007f\u007fçï(÷\u0089ÈÇÄ9\u0010W+Ë+ùCq]~\u0080\u008d\u0097.eeKØg\u0097ÅÕÛ«\u009fgða¶\nA\u0017\u0095<m\u0016ûõánry¿\u0098\u009coW\u0093÷\u0087õä×õÍñÛÄY*\u0087ÉÿL.\u008fûfñir6¹üv86÷\u008bãz9¹\u0082(Ðímq}ý¿ÿ\u0007]\u0000zâ\n\u0081\u0004\u0000' \
+  --compressed ;
+curl 'https://www.streak.tech/logo3.ico' \
+  -H 'authority: www.streak.tech' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: handlePostUUID=07490c8e-eb5e-4cb7-8578-9c7a2b07d8a0; _pk_id.4.e8fc=e2455b5e0ac44785.1705561183.; _ga=GA1.1.2013506926.1705561183; _ga_D30ZJP85K3=GS1.1.1707304882.5.1.1707304934.0.0.0; _clck=17m2z0p%7C2%7Cfj3%7C0%7C1485; _pk_ref.4.e8fc=%5B%22%22%2C%22%22%2C1707378969%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D; _pk_ses.4.e8fc=1; _clsk=1egdz1%7C1707378982260%7C5%7C1%7Co.clarity.ms%2Fcollect; _ga_5LJDYS3ZB0=GS1.1.1707378968.28.1.1707378996.0.0.0; pathname=/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.streak.tech//_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://api-op.streak.tech/open_screener/?slug=bearish-sma-and-rsi-nifty-options' \
+  -X 'OPTIONS' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'access-control-request-headers: authorization' \
+  -H 'access-control-request-method: GET' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://api-op.streak.tech/open_screener/?slug=bearish-sma-and-rsi-nifty-options' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=wRPFPzHh4IGlcTAIHTJP6Xd0AzM9EnXLFty8jFtOWSInmLzsmG0oqWCrtrPvSrKt;csrfmiddlewaretoken=wRPFPzHh4IGlcTAIHTJP6Xd0AzM9EnXLFty8jFtOWSInmLzsmG0oqWCrtrPvSrKt;sessionid=wRPFPzHh4IGlcTAIHTJP6Xd0AzM9EnXLFty8jFtOWSInmLzsmG0oqWCrtrPvSrKt' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/explore-6e5e8438959d9266.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/scanners-990bbb92d19d9b5a.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/strategies-22eb739cb45658ec.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/scanner/manifest.json' \
+  -H 'authority: www.streak.tech' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: manifest' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/media/placeholder_light.82306c02.gif?w=640&q=75' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/explore-6e5e8438959d9266.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/scanners-990bbb92d19d9b5a.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://www.streak.tech/_next/static/chunks/pages/strategies-22eb739cb45658ec.js' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'Referer: https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw $'{"event_id":"ce5f1e2d3e5b498ea2f35c21e5d21d79","sent_at":"2024-02-08T07:56:37.411Z","sdk":{"name":"sentry.javascript.react","version":"7.5.0"},"trace":{"transaction":"/scanner/bearish-sma-and-rsi-nifty-options","public_key":"c08af936856c4436a3ce95485003016e","trace_id":"f95184c1fcd649a5ad8c8b82a7aca518","sample_rate":"1"}}\n{"type":"transaction","sample_rates":[{"id":"client_rate","rate":1}]}\n{"contexts":{"trace":{"op":"pageload","span_id":"8e41ab54c3354854","tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"}},"spans":[{"description":"unloadEvent","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"94be3ab8fd2ace3c","start_timestamp":1707378996.1625,"timestamp":1707378996.1625,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"domContentLoadedEvent","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"8cb305ce3e55a5ad","start_timestamp":1707378996.403,"timestamp":1707378996.403,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"loadEvent","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"ad9b250cc35880a8","start_timestamp":1707378997.2481,"timestamp":1707378997.2482,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"connect","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"8ad7a4731ae5761c","start_timestamp":1707378996.0552,"timestamp":1707378996.0686,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"TLS/SSL","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"a9a6338ae8c7ad23","start_timestamp":1707378996.058,"timestamp":1707378996.0686,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"cache","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"a93b992b25fae7d3","start_timestamp":1707378996.0491,"timestamp":1707378996.0552,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"DNS","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"aaee1a72c812f9aa","start_timestamp":1707378996.0552,"timestamp":1707378996.0552,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"request","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"aa157c5397c0e644","start_timestamp":1707378996.0688,"timestamp":1707378996.1582,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"response","op":"browser","parent_span_id":"8e41ab54c3354854","span_id":"8bea86f292fbf049","start_timestamp":1707378996.1555,"timestamp":1707378996.1582,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"Next.js-before-hydration","op":"measure","parent_span_id":"8e41ab54c3354854","span_id":"ad4b385b62fbb059","start_timestamp":1707378996.046,"timestamp":1707378996.4006,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://www.googletagmanager.com/gtag/js?id=G-5LJDYS3ZB0","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"a3bc8e09b75de52b","start_timestamp":1707378996.1764,"timestamp":1707378996.1996,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://analytics-op.streak.ninja/js/script.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"894bc23725b2434f","start_timestamp":1707378996.1767,"timestamp":1707378996.1767,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":7599,"Decoded Body Size":35442},"description":"/_next/static/css/677cc6296fc22c5b.css","op":"resource.internal","parent_span_id":"8e41ab54c3354854","span_id":"b20dd8cda3bf7e31","start_timestamp":1707378996.1768,"timestamp":1707378996.1768,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":2909,"Decoded Body Size":6004},"description":"/_next/static/chunks/webpack-738a8c7251b9e45e.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b5dc3b109347991c","start_timestamp":1707378996.177,"timestamp":1707378996.177,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":45410,"Decoded Body Size":140139},"description":"/_next/static/chunks/framework-540f1b10bbe8b420.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"a35b70c7be16bb8b","start_timestamp":1707378996.1771,"timestamp":1707378996.1771,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":19847,"Decoded Body Size":61528},"description":"/_next/static/chunks/main-86461a59998d1af7.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"a42104a0a087829f","start_timestamp":1707378996.1773,"timestamp":1707378996.1773,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":2592388,"Decoded Body Size":4729431},"description":"/_next/static/chunks/pages/_app-6f4105f1f845acda.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"95ad802dc4043a46","start_timestamp":1707378996.1773,"timestamp":1707378996.1773,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":572,"Decoded Body Size":1060},"description":"/_next/static/chunks/pages/scanner/%5Bname%5D-817636fc92980515.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"ba49d03c4a44d8b9","start_timestamp":1707378996.1775,"timestamp":1707378996.1982,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":947,"Decoded Body Size":2933},"description":"/_next/static/ocbB_prghrgmQgUtxj_05/_buildManifest.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"ae1648c501f16721","start_timestamp":1707378996.1777,"timestamp":1707378996.1777,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":52,"Decoded Body Size":77},"description":"/_next/static/ocbB_prghrgmQgUtxj_05/_ssgManifest.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"81e41684097f4cb1","start_timestamp":1707378996.1779,"timestamp":1707378996.1779,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":53,"Decoded Body Size":92},"description":"/_next/static/ocbB_prghrgmQgUtxj_05/_middlewareManifest.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"9744c0dc4e689dc7","start_timestamp":1707378996.178,"timestamp":1707378996.178,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":489,"Decoded Body Size":3351},"description":"https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"8d306e4c8454df02","start_timestamp":1707378996.1781,"timestamp":1707378996.1781,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":354,"Decoded Body Size":761},"description":"https://fonts.googleapis.com/css2?family=Lato&display=swap","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"963386ac7e1780cc","start_timestamp":1707378996.1782,"timestamp":1707378996.1782,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"97deed6d5807a97f","start_timestamp":1707378996.1782,"timestamp":1707378996.3987,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://www.clarity.ms/tag/kr82l30mjm","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b8e9f04afe770890","start_timestamp":1707378996.2033,"timestamp":1707378996.5298,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://track.streak.ninja/matomo.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"99bd55f59f4a00c2","start_timestamp":1707378996.204,"timestamp":1707378996.2373,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":7884,"Decoded Body Size":7884},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2","op":"resource.css","parent_span_id":"8e41ab54c3354854","span_id":"973aa7899d931e18","start_timestamp":1707378996.2106,"timestamp":1707378996.2106,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":7748,"Decoded Body Size":7748},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2","op":"resource.css","parent_span_id":"8e41ab54c3354854","span_id":"a8e8d92d9b21eda0","start_timestamp":1707378996.2108,"timestamp":1707378996.2108,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":8000,"Decoded Body Size":8000},"description":"https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2","op":"resource.css","parent_span_id":"8e41ab54c3354854","span_id":"b3e4c03970df8a43","start_timestamp":1707378996.2113,"timestamp":1707378996.2113,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"sentry-tracing-init","op":"mark","parent_span_id":"8e41ab54c3354854","span_id":"b9ca21d2e8b26902","start_timestamp":1707378996.3964,"timestamp":1707378996.3964,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"Next.js-hydration","op":"measure","parent_span_id":"8e41ab54c3354854","span_id":"b22a7ee180aa755c","start_timestamp":1707378996.4006,"timestamp":1707378996.4411,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"beforeRender","op":"mark","parent_span_id":"8e41ab54c3354854","span_id":"a4f0f99eb51c5921","start_timestamp":1707378996.4428,"timestamp":1707378996.4428,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":25599,"Decoded Body Size":71691},"description":"/_next/static/chunks/29107295.4a69275373f23f88.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b2c33abaa93046af","start_timestamp":1707378996.4597,"timestamp":1707378996.4753,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":54443,"Decoded Body Size":164947},"description":"/_next/static/chunks/3fff1979.612c6162f1b345ff.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"887cd9ff1df6d55d","start_timestamp":1707378996.4616,"timestamp":1707378996.4779,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":77140,"Decoded Body Size":305284},"description":"/_next/static/chunks/ea88be26.43b75960b55a0567.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"bf48862bde4fef82","start_timestamp":1707378996.4623,"timestamp":1707378996.4869,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":14173,"Decoded Body Size":43899},"description":"/_next/static/chunks/11e07bb4.5707a93598069430.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"8990c1fca63b54bc","start_timestamp":1707378996.4628,"timestamp":1707378996.4862,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":13649,"Decoded Body Size":39520},"description":"/_next/static/chunks/7083.9c63fdc4eec7f340.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"be8d96a1293e895e","start_timestamp":1707378996.464,"timestamp":1707378996.49,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":16577,"Decoded Body Size":58095},"description":"/_next/static/chunks/5488.978ae6403be09fd0.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"93da8bdbc99c2c06","start_timestamp":1707378996.4653,"timestamp":1707378996.4909,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":15308,"Decoded Body Size":37420},"description":"/_next/static/chunks/1892.f427591a24079d36.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"98d24bcc33c9488c","start_timestamp":1707378996.4667,"timestamp":1707378996.4912,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":10925,"Decoded Body Size":30267},"description":"/_next/static/chunks/9319.29d5e1171b4f1efa.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"a78f1f04a82a778b","start_timestamp":1707378996.469,"timestamp":1707378996.4934,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":17030,"Decoded Body Size":61983},"description":"/_next/static/chunks/6125.3dec7996ee419c7c.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"87ecf6cbfd8761b4","start_timestamp":1707378996.4699,"timestamp":1707378996.4966,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":13883,"Decoded Body Size":44262},"description":"/_next/static/chunks/1591.d84ed173c24bcdac.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"9e5e425ed994c269","start_timestamp":1707378996.4707,"timestamp":1707378996.4976,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":5514,"Decoded Body Size":15535},"description":"/_next/static/chunks/5633.24647aebe425a4d3.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"bf11fce73028236d","start_timestamp":1707378996.4717,"timestamp":1707378996.4989,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":3740,"Decoded Body Size":9950},"description":"/_next/static/chunks/8779.53814537c97c0119.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"860cd25a3598aab1","start_timestamp":1707378996.4743,"timestamp":1707378996.4991,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":4832,"Decoded Body Size":12528},"description":"/_next/static/chunks/4602.3cf6b5f4d1738cd6.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"9c4e8d174f10c4c1","start_timestamp":1707378996.4751,"timestamp":1707378996.4996,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":40615,"Decoded Body Size":172480},"description":"/_next/static/chunks/3970.88fe0d3008da1738.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"bf6386abebf37050","start_timestamp":1707378996.4757,"timestamp":1707378996.501,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":9246,"Decoded Body Size":28782},"description":"/_next/static/chunks/9008.82b0c32e2aed33f0.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"9cb8c4b6c74422c9","start_timestamp":1707378996.4763,"timestamp":1707378996.5075,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":5706,"Decoded Body Size":16260},"description":"/_next/static/chunks/8114.bbf0ba275238a4cf.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"9a4de11f171dbd12","start_timestamp":1707378996.477,"timestamp":1707378996.5079,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":11536,"Decoded Body Size":42329},"description":"/_next/static/chunks/3340.8fb02e806f87ab26.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"87876f57a7fec54a","start_timestamp":1707378996.4775,"timestamp":1707378996.5083,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":31839,"Decoded Body Size":113519},"description":"/_next/static/chunks/9706.fb45455eedeb4f33.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b970bb6bc1ab8642","start_timestamp":1707378996.4781,"timestamp":1707378996.5113,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":9314,"Decoded Body Size":27966},"description":"/_next/static/chunks/430.8b61574b24f33788.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"99199bc6c1ab1b75","start_timestamp":1707378996.4792,"timestamp":1707378996.5101,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":92676,"Decoded Body Size":379279},"description":"/_next/static/chunks/1867.2f62c0cedeac245c.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"87e5e3880cfa2ac1","start_timestamp":1707378996.482,"timestamp":1707378996.5148,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":5284,"Decoded Body Size":16117},"description":"/_next/static/chunks/7236.dad4227a23f66dfe.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"8025971d7e78ddbf","start_timestamp":1707378996.4834,"timestamp":1707378996.5108001,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":4057,"Decoded Body Size":13349},"description":"/_next/static/chunks/6296.3a88b4f0f1f38e93.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"ae0c42687338f9c8","start_timestamp":1707378996.4847,"timestamp":1707378996.511,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":861,"Decoded Body Size":2893},"description":"/_next/static/css/999735718d407326.css","op":"resource.internal","parent_span_id":"8e41ab54c3354854","span_id":"a45be5f422694f0b","start_timestamp":1707378996.4868,"timestamp":1707378996.4868,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":33595,"Decoded Body Size":76451},"description":"/_next/static/chunks/4617.76f7ffec818ae2db.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b44fb8613a2d1526","start_timestamp":1707378996.488,"timestamp":1707378996.5226998,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"afterRender","op":"mark","parent_span_id":"8e41ab54c3354854","span_id":"8324544973a3158a","start_timestamp":1707378996.5373,"timestamp":1707378996.5373,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://track.streak.ninja/matomo.php?action_name=&idsite=4&rec=1&r=855271&h=13&m=26&s=36&url=https%3A%2F%2Fwww.streak.tech%2Fscanner%2Fbearish-sma-and-rsi-nifty-options&_id=e2455b5e0ac44785&_idn=0&send_image=0&_refts=1707378969&_ref=https%3A%2F%2Fwww.google.com%2F&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=1536x864&pv_id=fddwAo&pf_net=20&pf_srv=87&pf_tfr=2&pf_dm1=43&uadata=%7B%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%20A(Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22121.0.6167.140%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22121.0.6167.140%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2215.0.0%22%7D","op":"resource.beacon","parent_span_id":"8e41ab54c3354854","span_id":"be4eb0ab4a9ad79a","start_timestamp":1707378996.5796,"timestamp":1707378996.9008,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://www.google-analytics.com/g/collect?v=2&tid=G-5LJDYS3ZB0&gtm=45je4250p1v9175102544za200&_p=1707378996203&gcd=13l3l3l3l1&npa=0&dma=0&cid=2013506926.1705561183&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B121.0.6167.140%7CChromium%3B121.0.6167.140&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&are=1&pscdl=noapi&_s=1&sid=1707378968&sct=28&seg=1&dl=https%3A%2F%2Fwww.streak.tech%2Fscanner%2Fbearish-sma-and-rsi-nifty-options&dt=&en=page_view&_ee=1&_et=1&tfd=558","op":"resource.beacon","parent_span_id":"8e41ab54c3354854","span_id":"97fd5bf5a0a7c8cc","start_timestamp":1707378996.6045,"timestamp":1707378996.6608,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":0,"Decoded Body Size":0},"description":"https://www.clarity.ms/s/0.7.20/clarity.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"81ad8dc5d213779b","start_timestamp":1707378996.616,"timestamp":1707378996.619,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"@grammarly-extension:checkScriptInitStart","op":"mark","parent_span_id":"8e41ab54c3354854","span_id":"b0a10f247b7d020d","start_timestamp":1707378996.6328,"timestamp":1707378996.6328,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"@grammarly-extension:checkScriptInitEnd","op":"mark","parent_span_id":"8e41ab54c3354854","span_id":"872c89f7b78b7352","start_timestamp":1707378996.6422,"timestamp":1707378996.6422,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":5973,"Decoded Body Size":22970},"description":"/_next/static/chunks/3949.60b4074a67224698.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b2c5617b49342df1","start_timestamp":1707378996.9936,"timestamp":1707378996.9980998,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":822,"Decoded Body Size":2471},"description":"/_next/static/chunks/2860.114b9d411dbd8faa.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"80ca7f2fd803b7b1","start_timestamp":1707378996.9952,"timestamp":1707378996.9982998,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"first-paint","op":"paint","parent_span_id":"8e41ab54c3354854","span_id":"ada5688ce9d518be","start_timestamp":1707378997.2617,"timestamp":1707378997.2617,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"description":"first-contentful-paint","op":"paint","parent_span_id":"8e41ab54c3354854","span_id":"a90f64f00363fccd","start_timestamp":1707378997.2617,"timestamp":1707378997.2617,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":3477,"Encoded Body Size":3177,"Decoded Body Size":15086},"description":"/logo3.ico","op":"resource.other","parent_span_id":"8e41ab54c3354854","span_id":"b0be88a0c81486bb","start_timestamp":1707378997.2874,"timestamp":1707378997.3363,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":21364,"Decoded Body Size":21364},"description":"//_next/static/media/logo-tm.9a37d03b.png?w=1920&q=75","op":"resource.img","parent_span_id":"8e41ab54c3354854","span_id":"89a18afa95f8b590","start_timestamp":1707378997.2958,"timestamp":1707378997.3324,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":2228,"Decoded Body Size":2228},"description":"//_next/static/media/placeholder_light.82306c02.gif?w=640&q=75","op":"resource.img","parent_span_id":"8e41ab54c3354854","span_id":"9b74a2a0d3d025a2","start_timestamp":1707378997.2979,"timestamp":1707378997.3328,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":539,"Decoded Body Size":1244},"description":"/_next/static/chunks/pages/explore-6e5e8438959d9266.js","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"ab81a02f0fdeeab7","start_timestamp":1707378997.3174,"timestamp":1707378997.3246999,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":622,"Decoded Body Size":1420},"description":"/_next/static/chunks/pages/scanners-990bbb92d19d9b5a.js","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"aa8a498b227deb22","start_timestamp":1707378997.3181,"timestamp":1707378997.3263,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":644,"Decoded Body Size":1474},"description":"/_next/static/chunks/pages/strategies-22eb739cb45658ec.js","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"a7f5782d8d3dae93","start_timestamp":1707378997.3189,"timestamp":1707378997.3268,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":1979,"Encoded Body Size":1679,"Decoded Body Size":4453},"description":"/scanner/manifest.json","op":"resource.link","parent_span_id":"8e41ab54c3354854","span_id":"8f8a5901d3738544","start_timestamp":1707378997.3225,"timestamp":1707378997.3542,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":539,"Decoded Body Size":1244},"description":"/_next/static/chunks/pages/explore-6e5e8438959d9266.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"988091924bc38363","start_timestamp":1707378997.3494,"timestamp":1707378997.3573,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":622,"Decoded Body Size":1420},"description":"/_next/static/chunks/pages/scanners-990bbb92d19d9b5a.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"b7c84dac8e809281","start_timestamp":1707378997.3533,"timestamp":1707378997.3603,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"},{"data":{"Transfer Size":0,"Encoded Body Size":644,"Decoded Body Size":1474},"description":"/_next/static/chunks/pages/strategies-22eb739cb45658ec.js","op":"resource.script","parent_span_id":"8e41ab54c3354854","span_id":"97decd528c781752","start_timestamp":1707378997.3574,"timestamp":1707378997.3609998,"trace_id":"f95184c1fcd649a5ad8c8b82a7aca518"}],"start_timestamp":1707378996.046,"tags":{"effectiveConnectionType":"4g","deviceMemory":"8 GB","hardwareConcurrency":"8","sentry_reportAllChanges":false},"timestamp":1707378997.3609998,"transaction":"/scanner/bearish-sma-and-rsi-nifty-options","type":"transaction","measurements":{"fp":{"value":1215.699999988079,"unit":"millisecond"},"mark.fp":{"value":1707378997.2617,"unit":"second"},"fcp":{"value":1215.699999988079,"unit":"millisecond"},"mark.fcp":{"value":1707378997.2617,"unit":"second"},"connection.rtt":{"value":150,"unit":"millisecond"},"connection.downlink":{"value":10,"unit":""},"ttfb":{"value":109.49993133544922,"unit":"millisecond"},"ttfb.requestTime":{"value":86.6999626159668,"unit":"millisecond"}},"platform":"javascript","event_id":"ce5f1e2d3e5b498ea2f35c21e5d21d79","environment":"production","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","HttpContext","BrowserTracing"],"name":"sentry.javascript.react","version":"7.5.0","packages":[{"name":"npm:@sentry/react","version":"7.5.0"}]},"breadcrumbs":[{"timestamp":1707378996.4,"category":"navigation","data":{"from":"/scanner/bearish-sma-and-rsi-nifty-options","to":"/scanner/bearish-sma-and-rsi-nifty-options"}},{"timestamp":1707378996.443,"category":"navigation","data":{"from":"/scanner/bearish-sma-and-rsi-nifty-options","to":"/scanner/bearish-sma-and-rsi-nifty-options"}},{"timestamp":1707378996.922,"category":"console","data":{"arguments":["Initializing Firebase"],"logger":"console"},"level":"log","message":"Initializing Firebase"},{"timestamp":1707378997.388,"category":"xhr","data":{"method":"GET","url":"https://api-op.streak.tech/get_version_web/","status_code":200},"type":"http"},{"timestamp":1707378997.395,"category":"xhr","data":{"method":"POST","url":"https://os-analytics.streak.tech/event","status_code":200},"type":"http"}],"request":{"url":"https://www.streak.tech/scanner/bearish-sma-and-rsi-nifty-options","headers":{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}}}' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\ní}Û\u0092Ü8²Ø¯ÐT¬C²Y\u001cÜ/­hÛju÷îxgw\u0014+íeFR\u009c`U±º©®\u009bXì\u009bf&Â_qüî×óâ\u0017ÿ\u0084ÿÂçK\u001c\u0099\u0000ïdUi4»g}|¦5¬*d"\u0091\u0099H\u0000\u0089\u0004@ü\u0010¦áÉÛ\u0090Ä:f$\u008cXÄ8\u0089(\u0011"\norÃ\u0096\u009c¬>¬Â(¤zÅ>\u0091-|K¯æ\u009fh\u0018©\u0088Dä}\u0014&áÉÛ·ÌÒ\u0088Ù\u0088G6b\u001cþQJ"JYD5\u008f(#¬ñ \u0011µÚFa\u009e.7É<\u008cÂk\u0016FTi\u001b\u0009\u0021ùûè-° "\u001aQÉUD%©¿\u0094\u007f\u008c\u0090÷Ñ[Ê\u0080x$¢·áýý}|µÙ\\-Ó"¹Z%ëä*ÍãÙ\u00068OÖÉò±Èf»Éf\u001bï\u008a<Mnâu¶þ\u0090\u0084\u0011fóIE:»\u000e£p±Y\u0017;O*Ùf;OdW$E6\u008bgËÍí|±Lò4[ï²«ë¢\u0084\u0003¡Ù2É³â1^íÂ(,òdvÓ-Î\u0013/\u0089U9]q\u0093\u008aÓ\u0092ómÖàÙ3¸Ù5ð: &\u000bï\u009d\u0082\u0004h+â\u008a\u0010\u0015ñ\u0088éHD\u009cG2¢$Ò\u0091\u008eLD9g\u0091\u0005,\u0019Q\u001a1\u0013IMÊ¼\\E*zË4\u008b\u008c\u0089\u0094Â¼Ú\u00006¥ZFäýû÷Q¸E\u0003Ð,R\u00916\u0091\u0092\u0091ÖQøõï~\rjËg§×E±Ý\u009d|õUG×_}õ\u000fëô¡øÊ)ã«U:Ï\u0092¯\u0096\u009b«Í¤XÅ6ázNø4Þ®¯þóý)7\u0082üû\u008f§Z\u0086Q8Og\u009by¶¾:Mv\u008fë\u0019$$E2Yg««Ól]äP/\u0090:[&»Ýé\u0087ÝNP¬¾ÇezºÝì²"Û¬O\u0082dºÛ,o\u008bôy\u0090­wiq\u0012\u0090íÃó`ºy\u0098ì²OÙúê$\u0098nòy\u009aO¦\u009b\u0087çÁ6\u0099Ï1Ñc\u0001ä$XoÖéó`\u0095äW\u0019P¼-6Ï\u0083y¶Û.\u0093Ç\u0093`ºÜÌn\u009e\u0007÷Ù¼¸öù®S0\u0018ÿc\u0095­\'\u001eH\u0009ù\u0015Ðyè$dëI\u0099¥Fi¥8\u0005ïÒâ\u0097Ð1µÌé8 \u000fQðKVZÀ\u001eÂÈÚÈ°È\u009aè­|ÿùv±]&³ôz³\u009c§ù?,A\u0003±a\u009c¨\u0019añU¶\u0000î\u0089)-ä­\u008eÌû\u0086\u0001Pk+\u000b\u0018­\u000f_Ýy2Ïnw\'\u0001\u0015\u0090ø··\u0097\u007fA³8¨b%~¦}\u001c_yh)\u0094Ù\u0088\u0012\u0012Q\u0006Æ\u0012Q\u0015u*\u0094\u0011\u001aFo©\u008d\u0018y\u001fQN#JhD9\u0019Ãf\u00156\u008c-\u0096D*\u0012\u0094F<\u0012ÄFá7_ÿþ·Ð×îNw³<Û\u0016\u0021\u000eL§Û<]¤\u0005v«×yº8m\u000b6»¾]ßì¾Ú&Wéî«ôa»ÜäéD¥25\u0082\u001b+íÜ2¥â\u000f»0\u0012\u0094AI\u0094\u0002w*Òï\u000fÓÛÍ\u0092õ:Íw\u0013kÉt:µlNíÜNeâ\u0009r$È>\u0083`\u0091\'Ez\u0095¥»\u0009céTs;\u009b\n©¤Ig@ò}ô\u0016ºvÐ\u008a\u00801\u0082Dáë7ß}sQö­\u001fv»Óòû*-\u0092ÓUr\u0093¾\u0086ö\u0004\u0003]\u000c:6&øÁ5\u0087ëd¾¹GË\u000føö\u0021`ðå.É\u009fN i¼Fè³^s3ØN\u0092ÙÍU¾¹]Ï\'³Ír\u0093\u009f\u0094ù®^åÙ*É\u001f\u009f=\u000f~r¥Ùà\u0087 Õ*ªv´X¦Í\u0006\u0088Å3lÌÉ2»ZO²"]íN\u0082Yº.ÒüyðávWd\u008bÇÉl³.Òuq\u0012ì¶É,\u009dLÓâ>M×ey\u0096\u0004?t\u008b\u0018$çÑiÍ\u001eku5î×1\u0094\\71É]>5ÐE¡P=þËü£Ê\\Þ¦ß\u0000Ñ³«J\u009d\u0096\u0005?\u0004E\u009e¬w\u008bM¾:\u0009òM\u0091\u0014)\u009f?¥Q@Ü¿y\nè\u0088Sö\u0088Ëe@bÎv\u009ep²ÎV\u0093Åíz6I\u0093]ZÓæ\u0087hO¨\u0092\u008e¼Ï\u0021\u0082\u001f\u0082Í]\u009a/\u0096`H×Ù|\u000e51Pö.\u0080¢&Ùz²¹-\u0002²{\u001eü\u0004ÍC:\u001b®Z\u0087£*ûUXY\u0089Ú>\u0004\u0094\u008c\u001aIGñê3\u0015\u009f_M\u009fRm£\u0080\u001a\u0015\u0005Ôêg\u009eQpÈ\u0084ì2ª\u009a\u008cfëe¶N\'~tð\nÒ¥J\u001bê`\u0084¬*} .À×\u0084Ñ)=\u0009(\u0008øï²Õv\u0093\u0017Éº¨\u0008\u0099\u0081¢\u000e[74¾eº(\u0007Á\u008a\u0080\u001bß\u0086ÆLGm\u0097.\u0017\u001db\u009c\u0090 f¥Î\u009a§Ë¤ÈîÒ>ÚÉ5\u0098FðC0»Íw Ýí&\u001b&è1;*sV\u0088_\u0097I\u0091þå)5Û\u0087gÏ\u0083V#Yfë\u009b\u0097\u0090ð¬¯µ±\u0012lS\u0097·à$T\u0019\u001aÝ\u0081\u0095¿êº\u0000\u001e\u0009Ú oôÓMQlV®Ú*8Ç\u000e¶o\u0088c\r½H¦»º\u008ds"ªü¾ÞÐ>î}Ç$\u0009©0¡¥\u0014\u009bíIÀå\u0098\u0013ä1U¿My\u00110¿ëí\u008eêb9\u0081\u001a\u0002\u0012\'\u0001\u0089e@\u0003èÕK~éö\u0021Øm\u0096Ù¼+[Õ\u0082]ëmw\u009aÎ\u0087óäÍ\u0000ùáÜÎ´}fh¦\u001a\u0087[Ñn§\u009c\u0092î\u0018Ôç\u0016Z>c*\n\u0018gQÀ\u0004}Örè8\u0019r=MÍ5¥u¥\u008f\u0018h\u0085Ê*\u0001©\u0017¯m\u000eéCñìy\u009bárTâª\u0016¿i\u001c¾óà\u00900Kò´\u0018gÂ«ÒuT\'\u0081\u008aeC²Úé\u001ehNôs\r;[oo\u008bÎ\u0010Æ)\u0098w\u008fé±\u001a5X£²[£ª§Âî\u00801ÐA\u0001d2Ïòtæ ³ÍòvµÞ3@x\u0086õÀx4Úuv:âRÛ^°áfÖ)\u000f\u001a@Ù00C\u009b\u0008iX]Ï»\u001ak\u0087X\u0015g\u0008l6F\u0003µïKiÖ\u0009kWk¯§\u001a\u009bNíi öd±\u0099ÝîÀc¸-`ü*\u0087¡\n~Ò\u0098}À°Ñ4¥\u0006è<É+cîñÜê*yÝU2Ò\u0018\u0088Ö\u009bÉ<ßl\u009f\u000f6Ø¦¦\u0006\u001a\u0001£uï\u008f]\'\u0089e\u009e®*ðÀà@bÞÄà]Ù Á¿Ng\u009bõÜyÎ\u009dì\r%2h;õ\u0094\u0015K\u000eHL\u009bäe×z\u008e0]\u009fu`\u0090\u0018jGÃ\u001eÇ\u007fÁ\u0019d°Y/\u001f\u0083Ý,OÓu\u0090¬çÁÓæ<\u0099+µ}xæÓ\u001bÓe\u0021\u0008¤ÿðn\u001d\u0004µa÷*÷§wë£\u008a\u00210\u008d\u0018(Æ\u0017\u007fL1Ð÷Xì{pf«Þ7\'US?\u0097âLïõ\u0085\u0098ù\u009cÉ\u0008gÀÍ§I¶\u009eCÇf­µÏ\u001bÞµsAêÂ\u0016ÙC:\u007f~h&\u0007v>ßÜ¯«é\\Ó\u001bÝl\u0093YV<\u0006L\u0082G:»\u009df³É4ý\u0094¥ùS\u0012s\u0011\u0081åJx\u0012\u001e\u00054&â\u0019º«\u009dF.÷\r\u0001eù\u008d\u0001\u0080Ù\u0093\u0093É}:½É\u008aÉn\u0096o\u0096Ëi\u00927\u0015åº\u0085\nTV_³·à¤Ù\u0010ÀÎ\u009bÝ"§{f\u0010Æ+èK¦\u0099\u009cÓÊ»\u001d\u0093\u001cá\u009få®rÖí\u0019\u000e ïá\u0001«y\u009bäi\u0003\u009f·tVÎ¤|/\u0001\u009dÐ\u00045Ò\u009bM¹\u008e¨39EPÙ\r·\u0011ËæÖ¨\u0010Ñ\u001d§\u009aÅÁ°6<uó¹÷M\u0008Q\u0084=õÙ\u001dôóÍ}M÷èJô\u0019T­ÁrDg\r>uß?\u0012d¸u\u000cÕ\u008fùL÷jzÕ\u001c5\u001c\u0011\u0001\rÃ·ë\u0093\u0080ÖÉ\'ëâz2»Î\u0096ó§ëÿÈ\u009e5±HÌ*<ZÎ(\u0090ï\u0086ÃÑª½r \u009d§\u008bävYÔþ©\u0003wú°~\u009fu\u008c:\u0004;¦^F\u0087\u0083ºÛ×¦Óë£=\rÇ¤:\u0093øf\u0096ÿ\u0014ìî®JíÐíÈØx\u0097æE6K\u0096¥m£\u009d\u0017àk4\u0088©º|%Ç\u008bïÑ\u00022Ý\u0086Óî\u0018ª2Xgê?à$Ö\u0011tì\n\u0094ëC}?\u008aC âQxþõ\u009fÂH0\u0012I\u0015½åª\u0015®5&\u0080 ½²\u0080A\u0011+<ûã\u009b7ßþ\u001eVÕ\u001e·ééô¶(6ë°\u0095ÉºL:È³ív\u0099^,\u0016é¬è\u0086ý)£8®tc\u0007P\u0012Ã\u0092 Ä.CV8Ú\u0006Ðø0\n\u0001\u0098ð\u000cs\u0007\u0017LÖ?\u001aË\u0011\u009c\u0001²Â\u000cáîîêdww\u0015FáÃj¹ÞaÄÞ\u0087Õïy¼É¯¾b\u0084\u0090¯\u001cÊ]\u0096Þ\u009fm\u001eNI@\u0002%\u0002nb¡*5d³Í:\u0080\u0007FáÀ\u0084\u009e¦Ï~ÈÓâ6_\u0007³x\u0096§I\u0091^,ÓUº.\u009e¾\u0083\u0082ß\u0085ÑÃÓ\u001f°Ü\u0093wáxÉïÂÈ\u0097|ò.l\u0096ý.ü)J\u009fE¯~üñé«Ó~\u0011\u0090ñ\u0087w~}.Y¥ïÂ\u0093wá7Éc\u009a\u0007\u000c²~V\u000e:\u009cc\u009b\u0014×\u0090i~ò.ü\u001dg\u008e¯\u0080Æ\\\u0004:6/D,u\u0080\u000fà\u009bB\u001a\u0002¿á,`2\u0096bÉDÌ&ðHº¸\n(ÁãûwaÔeêUR\\\u0007\u008cpý.üé\u0019ü÷SàB©°Ê\u009b-\u0097§µ\u0017þë<}|\u0086¦\u0098onR\u0088¤£9\u009eRÀu}\u009cû^.R¢QNÒ»t]ì¼\u0087\u0002\u0016£Ñ¢Þ\n\u001e\u0009\u0001Ëîy\u0096L\u0096É4]\u009eB\u00876\u0081ª¯\u0089øñ¤\u0019\n\u0001\u001aÆ[¥î\u009b°B+ç\u0012Ð,\u001a(\u001açUµÂ\u009a¬ÒS_{a$`\u0089\u001eÈ(\u0015)\u0098B7mÓU\u0082\u0012_f\u009bç?Ë6Ë²½m~úñÇ§\u009fþ\u001el\u0093\u0004`\u009d$VÎ:[ÖF\u009dµi´¶o(\u008b-\u000f8CÓ\u000cz¦I\u0003:©\u0090\u008f4Í¾Q>\u0083uRú¾²EÑ°E\u00010ñ>\u0012\u009c¢ÉT&7ÏvÉt\u0099ÎO[}¯u\u001d6W`\u0015\u000c­ç­ÑïûfC\u0001\u0081£é¼5:2\u0006\u008a\u0010XLøªMRW\u0096Ü\u009a{+\u0098{7¦VÎE»¿Î\u008at\u0082.54\u0097û<Ù>\u001fZA\u0080A®NN\u0097Ël»Ëv\u0083\u00812àT¢8Ø\u0008 &¡\u001d\u009cþÕº\u0098V+«j\u0010ØP¨4P\u0018%\u001a4¦Qká\u007fx\u0013FáY\u009aäÁËë$¿J\u0083Í:ø}¶(\u001e\u0083\u0000²\u0019Ìú\u0096RX\u000c\u009d\u009fþµì\u000f\u0096Va\u0019Ö\n?èq\u001béþ NA\u0014A\u0010Ü\u00851\u0002\u000c\u000b\u008a@@ê" e\u0009æáåèëÌ£\u000ck¸¸#\'®\u009fC\u0083\u001d \u0004C¸\u0010\u008e\u0013Ñ\u001b\u0099\u0099\u0010\u0000\u0097XHøæÅ\u0019.\u0081æ\u009bezZ\u0080Ý·LT\u00835\u000bå\u0018\u0087U\u009c\u000e-\u008d´´+\u0087R^\u0001\u008f³l\u0017­\u001c\náv\u0082Ü¥ÄÆK­±´\u0088jùþ\u000b\u000b\u001ajVP\u0092õ%\u0099\u0003%\u0089nI´WÒëót7{Ö\rÔz\u0091$ÁÊê(\u0096S\u0019¸ø; PW\u009f\u0092Ô\u009dTíhQ\u0082\u001d\u0013Åþ\u0089±z\u0017ÈÀ|\u0008\u00881O¬çßq\u0006æ+9Vtøæ7\u0017/Îá·pÆ"y\u0014¾9ûöü»ÒXòÍ=L/¶\u0080#ÑH¾XQU¯$\u0095³:)\u0087$f\u001cEÅ]0ÔBs\u0094ÚÛ\u0004\u0003\u0089þù\u001fÿÉý\u0003JÆ×\u0021B^Ï\u0092u\u0090§»Ûe\u0001{\u000c¤Å\u008aöÀo\u0092]\u0011äÉ:H\u008aà\u009fÿñ\u009fN\u001c\u008dàÕï\u0002÷í«ÖGU\u0082"®fº\u0015¨\u0002\u001føG^9`R§ö\u0021gB\u0089@ò\u0098ó/s&\u001eó\u009fëébáÞ\u009bø.ÿñÇ§ßå¿\u0088?Ñò\u000e\u0014\u008f\u0085\u0008\u0018\u008bEÀmly,^Ð\u0098ñ\u0000\u001f\u0004ÿ¸\rÈl\u0012k\u001e\u0090\u0009\u008d\u0095\u008a¥ÄOèÎù\u001d¥I¬i¬©\u001bY&±\u008a\u0095yI9\u008cRT\u0001\u001a\u008f\u0085\r¸\u0088©\u0008H YÌél\u0012S\u000e¹\u000c\u0014ÄaØb66\u0089`±\u0090\u0081{ºq\u008aË\u0098ó\u0009Õ±\u008d\r\u008b\róÉ±\u008eÍ\u001d%±\u0011\u0009\u008d\u0005\u0010\u0011%·4\u0096\u0016è©\u009227\u001e\u0012\u001b:\u0089¹^2\u001e+;a,æö\u0005\u008d\u008d\u000cðáp\u0094\u0008\u0098HXÌX\u0080\u000fL\u009dÄR\u0081ÄC>Oí\u0087µ\u001d\u009e\'üB³ËKtv"Í"Í»#G{MdÄ÷VÌõ5\u008a¶ûòF\u009bãl¸c\u0097ÝÆÍ\u001a\u008d\u001b\u0016\u0008%\u008b\u0002J)¬\u000frlâ\u008ac_T6o¡\u0084ïcþÐè`\u0000Ob\u001fô\u0096I\u00191Ù\u001e}$ì\u0094ÌænÜú\u0083CW®ËR²Ê\u00121E"¦(\u0014¢=T\rB\u008d\u0087êA¨õP3\u0004ÕÄCí \u0094:¨&\u0083Pæ¡t\u0010Ê=\u0094\rB\u0085\u0087òA¨t}¨ïý®7÷Ùú*\u008c\u0084v}+À=\u000c\u009c\u0013­}ªj÷¤\u00002\u001eä:Ù\u0088\u0013èva/3¦V\u001dìf\u0011FÂ\u0010\u009fl\u009bÈ\u0086ºTC\\*c\u001cR\u0019öö\u0003öv¤¡ÑC\u0086f8öÑ½Á\u000eÜ-#\u009cµ\u0097~º\u0091Ø\n*}%y\nX\nÍuÀ\u0021Ã\u0080\u0096t\u0003«ÑhÄá\u009bß´<(Aàçf¹Û&ëSZÚ¶[?½N\u0093y\u009aW\u0082\u000e\u0004l\u008cq-ÃÀTVÒ\u0088K\u0016qÉ#.EÄ¥\u0004\u0096­Ç0c\u0018\u0096x\u000cÛÃ\u0000(ÅÆ\u0012¾9¯xK\u0097ËnLIÈ_u6|\u0086\u0091°Ì5O\u000b®\u0084&\u0011Ç©V+\u001f#Cù¸ÏÇFóÑÁò\u0084ÏÇ«|\u0011×0[°Òµé:\u0095Aªrý\u0081\u0095=|í\u0021Í<\u0006ó\u0018\u000fÑ½<Öõ\u000c­2$\u0021®W±¶\u0083/\u0009E\u0008`´Ë\u0090\u0084y\u0008íåá®\u007fé\u0094áz\u001d\u0080vñ¥\u0087\u0088^\u0019ÊCº²K¢]/Õ)Ã`*@»øÖCL·\u000cJ<¤\';¥®¯k\u0097A\u0019¦\u0002´\u008bÏ=\u0084õÊ\u0010\u001eÒ\u0093\u009dJ×cvÊP\u0098\nÐ.¾ö\u0090n\u009dKj<¤\';µ®ßm\u0097\u0001\u0011TÍ\u0010ÚÁ\u0087À(@X¯Î\u0021ò\u008a\u0090\u009eì\u0010lÕ¼W\u0086ëÓ%ëÉ\r\u0091-\u0084ôê\u001c¢­\u0008éÉ\u000eQ5-ze\u0018L\u0095¬\'7\u0084Æ\u0010Ò«s\u0008\u0088\u0021¤\';\u0084QLÕwþ)KïaË^\u0018I\u0088\u0096\u0098Þ4\u0094ÃdYB ÄpÄ\u0009¿þý«?¾q\u0003zØB´\u0081ßûs»\u009e§\u008bl\u009dÎË\u00189L\u0018Â(lìp8ýçÿö?:ÿ\u0082Ñ\u001fÕ?\u0088:\'ËÛô´;y\u001aÝÞÐÝYÂ\röQ\u0012"=F4"\u0012ÿæó~\u0086Ï\u000b\u0013:\u0082Æ$qØ}«T+Âör³ÚnÖéº\u0008\u0098\u0009Þ½»e\u0084r\u0008¸½íÍ§h\u0000³Ù/\u0099Ký¥xÚ\u009bêtÊ¯8\u00805\u0086Ï\u009fv\u0001\u008f~ÊõÛâÇ\u001f\u009fþ¶8vÊõk\u0098x\u0007BZò.\u008cê\u001d\u009fïB·ñø©%\u0001\u008fµ\u000cxÌä³á\u0089Ù,ËgËt\u0088ø\u0005\u0086\u000cÓ\u0080sñ.\u008cf\u000f\'<\u0096Ñì\u0011?r|6K¬6\u0099>¥$\u0016ÖBqÏ~VyB\u0091Ï*ïËJã\\~Vi¬\u0096n$Ø\\¯(·£Îpà°\u008c:Ãw\u008c:ÃQ?çÕu\u0082w\u0016:\u0011íý9\u0015IE\u0000Ùx÷­J°è×Õ\u0009\u0010ë\u0003?¬\u0017-aR\u0084\u0091\u0084ð\u009d­g[\u0012â\u008cÖ÷É\u0012\u0012m/\u0004Åd\u001d\u009en/°H\u0088\u001fÙ24\u0013I\u0098nJ\u0088\u0011\u0081;U\u0095P:QX\u0082FÏ\nÙ\u0085îÞ \u0086qnS\u008b\u008au\u000eSIE\u0012ï&\u0001\u0015IÑwjS\u0091Ì9FM*\u0092;\u0097¨¢"¼#\u0084T$zG\u001d*Ê¹>-*Ú9=\u0015\u0015ã]\u001d¤bÑÿiSQÞ¹iRQÔ¹5%\u0015Å¼3\u0003T\u0014G\u000f§CE8÷¥EE:Ç¥¢¢¼»\u0082T4ú0\u001d*Æ9(-*Ö¹&%\u0015p¬Êu^\u0009\u001e\u0010ëj\u0017]\u0096\u008evKç£¢"¼Ë\u0081T$ú\u0021\u001d*Ê9\u0019-*Ú¹\u0017\u0015\u0015ã\u009d\n¤bÑÓhS1\u0004ý\u0084±ðÙ\u0097.Äm\u0093\u009f\u001b;«\u0096áVÉ\u008f?>]%\u007f\u000f\u000bqLÄ\u0094\u0005\u0094ÄJ&\u0094ÇÂ\u0004îéÆÛ:E\u0007ÞÓPª\u001aßÝo\u0018ô\u0015s\u008f\nÂ&\u000eBbjýÓ\u008dd\u0094Älâ\u0093Ç³ÅJº\u0087gÃCä÷#Ýx[$\u0015Ó\u0080$øá¾û?Ébj_tÓÝ×ïW$\u0010:f&a\u0014\u0098sO·\u0018\u0004ßÍ¤Jgîá¼¬\u0006ö÷àÃ1\u0013H\u000bî\u0094¤°\u009a%Ì\u000b\u0086~\u001d<\\yÂ8Ø\u0092:·\u008bÆ\u0086%]$\u001e\u000b9\u0081Ç÷cË\u0096\u0083»u]dÏªÈê\u0008G\u000fCÑGê®@Ö~\u0081;\u009bíÆ±Ó\u0021¯ \u008c¤a8\u000c¹&\u0087^¸ÂD×Â"U\u001f0üyÁè_b×Åw\u0010\u008aþ;hP+\u000e\u0096áV\u0016ñ9´Z\u0088«\u009c\u001a\u0096DÝê",\u0092r\u001dS>\u0088\u008cë\u008bG/m¿\u0085\u0091®áUØÚ©¨\u0097|Z+LbO¬W\u001a\u0081n\u0086¯{\u0089.F3ÀuÄÖ[ ¢Ð\u0015ñT4º\u0021\u0083Tüî¬«<\u009b\u000fl`\u0004J\u0006\u009d\u0094ªs/]§íCÓyÂ_-7\u009f(ø\u001f\u0008Xôj>s\r\u008a\u008d®AIKÐ3\u001aX\u007f"8\u0021e\u0092\u0096ëOÒRÄ\u0085<~\u0090ÓBD\u001eÆ<\u008c\u000eÀ¸\u0087±\u0001\u0098@G\u000bÆ@ÍÁÅ³\u0012½,ß:5\u0017\u0091æ2Ò¨{«Ðã*¥\u008f´À\u001c\u001a]¯>i\u0083é\u0000ïÃ¬\u0087\u0099\u001eL\u0011âav\u0000FÑ£«ØU\u0084¡;7Ä®"\u001c]»6»\u008a\u0008ôñú¤%¦«Ê¥kÂ\u0094\u0087É\u0001\u0098ö05\u00003è:6Øµè7\u000e²K\u0009ú\u0090\u001dv)Eg²G\u009a2LWt@\u0014Ê=¬_á\u008a\n\u000fã\u00030\u0089>jÍ.Uè \u000e³«ÑYí²kÐkí\u0093¶\u0098\u000eð\u001e\u000cö."l \u001f£\u000eÆú6¯\u0018Cg¸f\u0097qô\u0084\u0007Ùe\u0002½â\u000e»L¢{Ü\'­0]±\u0001Í3ía\u0003\u0015\u000eoü@Xßæ\u0015³èu×ìr\u0082.÷ »\u009c¢ûÝa\u00973ôÃ{¤á-$0\u0096ò\u0081\nçÂÃ\u0006ÄäÒÃ\u0006l\u001e\'}Í¦Æ5úöÃìâ\u009bNzìZtø{¤\u0005Át\u0080÷aÔÁÄ@\u0085\u000bæaC49Î#jvÝ\u001c`\u0098]\u0021qBÑaW(\u009cYôIkL\u0007x\u001ff<l V`\u009a\u0089°\u0001\u009b\u0087)§n65\u0098vê\u0091¦\u0006³OÝkj0ÿÔ\u0003\u001a\u0084y¨¶\u0008ïÃ¤\u0087\rT8ÌN\u00116 \u0002\u0098¥\u009az«\u0099\u0082Yª¡nC\u0097\u008b\u0082´6]5\u0082;0]z8å1,¢Î\u001eý\u0097Ü\u007fÖÎc/À\u0013F\nf¿\u0086bao­¶ï\u0087J\u0010\nb\u001dÖÐÈâ+Q`}o\u0088jI\u0013&ÏHÓ\u008eÓä°qó\u0008\u009a¬â\u0014¦ßæ\u0017r\u000b\u001aG\u0006\u00802C§¹R¼Âyjm\n\u0094\u0010ö\u001eß&\u0004þU/Yb²ReÜ\u00057º¦\u000fÛd=Oç§\u008bd¹K÷¸u­\u0003Èc\u00078\u0080I\u0085~YÓ\';n\u001f\u0021äÕ\u0098W5;»\u0092{\u0083\u001eÛðôC\n*ÇLhB¹\n&\u008c\u0018¬\u001b\u008bn[½\u001a¬  \u0001>ÔÐ\u0014_À¿/\u009bâÿiö³¦$X²\u009f\u008f|\u009cýøãÓ\u008f³Ï\u000bÔJÅÜæ\u009a#sý\u0021\u009d\u0015Éúj\u0099\u0006\\Rö.\u008c`~xò.|²X,Þ\u0085\u0091Ûb\r¿Ó$M\u0017b\u00982\u001cÛ\u0001ânEU\u0090È\u001f4\u0011$Ê\u001fNLM\u0005¦\u0004#óï\u0092ÆÃI,£Gx8jÜ\u0096Ô¸\u0005j:\u0096%\u008f%µ}ÓùÁ\u0009\u008f\u0016\\½\u000b#\u009cêS\u0019+Ë\u0002\u001b3)î`ÎÊ\u001bJ\u0010IÂù¼¥\u0087NÒ7Ù:\u009d%[\u008c\u0087ß®ç\u0007\u0082\u000bcÜè\u000e7\u008cÇ\u0084ª;ù/À\u008a©Xa±T" "V\u001c\u0097Q$®£ÈrÝ\u0006¿OðyMc-Ì\u0018\u008e{Þ©XKÕÇ\u00994R®\'#\u0084&\u008dÂ¾\u001fPÊÏ\u0092Ô\u0096\u00922\u0011\u000ba\u0021FE\u0088¾S1\u0093\rÅ;#kh}Nù\u008c§¿¬Ö¡Í·x\u0081}ÎÔÜýÍù \u0015\u001f4\u0086CÔ\u008cÄÆØ_ öùÞ\u009a\u0017\u009f]ó¥ô\u009d%\u0012x\u001bO{I\u00847\u000e\u0085Àw\\\u0012Q\u0010\u0081¶Õ$\u0081\u0012®¿,\u0000õ_¿¼»ÿ\u000bt÷\u007fùüî^\u008c\u0084\u0094\u000ew÷ü¯ÒÝ«_´»\u0097¿Lw/½]¯`1[BÀ\u0096i\u0013\u0088Øh\u000c\u0090\u0011\u0013ðXjXß&F\u0005"\u0016LMLl©ð)4\u0096\u008cïi\u008c\\¨Å\u0082\u008f7ÆFú\u0087M¶î\u0001þ\u008cÂÓXTöü\u0096\u0012Øù\u000fïb\u0013ø`\u0091³\\æb8¿\u0094å¾ùrËý#Xî\u001f\u007f\u0086£b;KÊMç\u008d\u001a\u001eL\u000cU#kÊ¥ýì5p¨õ1#\u001dYX\u0086b]©e]çWÓ\u0004¶úÁN?&xDbJÇÖ\u0082Áu\u0007®Æ\u0088[\u0013\u0018Á\u001aÄkÃ\u00819Ák\u0098\u0012P\u0085ß/\u0093U¶|\u0004\u0013Þl·Ùz7y\u009d®²³Ír\u001e\u0005>Ågú³\u0093K\u00112¤§\u00026\u0003º\u0086F¢Ç\u0013òSô.<{\u0017>ë\u009aYÝ_6\u0096\u00909©úK\u008e\u0011Ä_Ìê~ûåVw\u0009Vwù3úËîF\u0086¦Õ1¡¿ØêÄç[\u001d\u0014;`uLèHÑ\u0088±Òè¢ò4xl­þ9\u0016È\u0014ëZàBó9U\u007f[\u000b|=`\u0081\u0011%RÀCú\u008eN``\u001a\u0082#\u00940\n)\u0012S\u0094îO}aÙ×J\u007f¨\u000b_w\u0089ñ\u0014XùµªwX£q¦BÁb°ÕMË\u0086\u0087\u0089Æº_ëâÕ-t¡ÇÐa\u0021ÙÚ\u000e:t&Ã2CP\u0082\u0090\u000eº"£è\u000c\u0083á\r\u0015\u0019\u008e)ª\u0011\u0087(Ud\u0004\u0006Ê»*\u0082È\u0000ljÀÝÓ\u0014i(\u0017ÿ>R#0o\'òx\u008d\u0018\u0017%?V#\u0016\u0083ëÇj\u0004ÞEJLS#\u0096b\n@º\u001a±\u000ccñ]\u008dX\u008eaxÔ\u0008%\u0010ÈQ`u\u0094\u001e­\u0012ëÃîGªÄ*\u0017\u0089?R%Vc\u0000ÿh\u0095\u0018\u008cé7Ub1\u0005 \u001d\u0095hB0ÞßQ\u0089\u0006\u0093¢º\u0011>Ñ\u0084¹0þq\u001aÑ\u0084»Èþq\u001aÑD¸`ÿq\u001aÑDâ\u001aÁ\u0091\u001aÑDá²A­\u0011M4¦\u0000¤§\u0011\u0083K\n=\u008dX\\Mh\u0018\u0089¦Ä-\u0015\u001c©\u0012JÝêÁ\u0091*¡Ì-(\u001c©\u0012Êq\u001dâX\u0095P\u0081K\u0013\r\u0095\u0080\u00810\u008b\u0090®J¨Âe\u008b®J¨Æ\u0015\u008b\u0086\u0091PãV#\u008eÕ\u0088u\u000b\u0014Gj\u0084\u0011·fq¤F\u0018Å¥\u008ec5Â\u0018®~44Â8¦\u0000¤«\u0011&pe¤«\u0011&qQ¤i$L¹\u0015\u008f#UÂ´[\u00049V%Æ­\u008b\u001c«\u0012\u008bË)Çª\u0084\u0013\\ai¨\u0084SL\u0001HW%\u009cáêKW%\u009cãÂËÀ\u0088\u001câz\u0007®¯\u001c©\u001cî\u0097\\\u008eT\u000e¼z_t\u009bÄ¸r¸ÆÅ\u009b£\u0095cp=§©\u001c\u008b)\u009a÷»YAp­§«\u001cAq\u0099§i/\u0082¹5\u009c#U"¸[Ö9R%B¸\u0095\u009e#U"$.\u0010\u001d«\u0012¡pÍ¨:i¯Á\u009dU´:óô¸\u009an\u0096a¤\u0085Á%\u008e\u0006\u009eÅ5\u008eò°ì\u009bWa¤%q+\u0018~Ï?\u001cjJ\u0021\u0099â\u0002G¹\u008fÈª/\u009b\u0097ä?ûTkµ3/\u0081#­É/s¤õó7\u0012\ræø\u001aT±H\u0093â:Í\'Ùz±9îÕ/J$ð\u008a\u0003æ÷°q6q?y\u0019\u009bÃïß¯ÈD\u009a\u0098\u001aÜ\u0016g\u0002÷\u0084,$ÀtÀ\u0087\u0080\u008b{øÍi,\u0090±a£[\u0092\u0094\u0085ýæ\u00877êq\u0016\u00088Ä\u0090°ØBÀÑÒ*lhÝãO\u009cµ\u0080 \u0089ÄÓ\u0007w\u0094ÆJ¼èä\u000cJ\u0092ûx£GòÆ`7_Â\u0003î¹¢1¥\u00138\u008dÁa\u0007\u0017>üI\u000b9\u0089\u0099\u000eX,©{ød\u0021&\u0010¯â1UîáÓ¹\u009eàñ\u008a@\u0094)ÌLb9\u009bÄDN`«\u0021\u0016\u0004XTN\u009c~4ì\u000eÔ\u0015>Qp\u0014"`±ñ\u000f\u007f\u001a\u0003ÓÍ\u008cLbªc¤áHÀ\u000b.(\u0084Æh\u0085\u008aE\u0002¿Fº\u0087O\u0087³\u0019Ú\u0006í\u0093\u00174¨eäîQ&#ÇA¥¥\u0080Å\u008aÂv¶\u0098ø\u0087Gä\u001av7\u000e°\u0011K:#\u00012L\u001dÃÀï\u0080h±4Á\u0080&b©0?¨Í+\rtÖÒn<X\u000bP\u0009,6Ö=JÓ#26{í\u0087\u0095Ûí\u009aûíÜqj×uJæ\u0016C÷lps¯\u001f\u0083.\u0090ã\u0002ªï\u0019\u007f\u007fùíäÛWo ]àêéøª9Õn]^r·,\u008f\u009f¹û\u0018\\\u0094ç*pë©þ,øÅÙ%\u0085³à\u001aö\u0012)\u0083E\u0096Ç\u0091ªâ°óIîÓÝf\u0095Nn×Àõ$Y\u0016îí/\u008cèØ\n\u001e0\u0005\u0007\u0080Äõ\u0084©;ØÛk(Mt,e\u0080\u000f×j©\u0004{$V,\'1\u0015¸íU\u001a\u009a@sq\u008d¦Ú\u008e\u001bKêÚ\u0092¾\u0086p¯\u001cÁ1\u0013ÄYÆ\u0094«\u0009Rc\u0009\u0095±å6ð\u001fØ\u008bM8\u008d\u008dV1U\u000cÎ)id\u00132&2&\\\u0004îé¶\u0019Ãw\u008e)ü\u008eªXë\u0001¤ \u0081tÍUlé\u0018\u008e#w7\u0019£4i`}¿\u009aP\u00113E\u001dï\u0006\u009a«ÅÖb\u0085ß\u0009jb\u000eFzç2t\u0010\u0000Å#|_\u001fögêìâ\u0005T°Â\u0015ó\u0091UxXs\u0006$\u008d\u000b+£Hpq\u0090\u0096\u0006cØã\u0094ìèz~\u0015\u0012\u00062\u0016\u0083\u0092ãe\u0091Q2U\u008c/\u008c´".\u009c\u0004^\u001b§àp)\u008a\u0081&ç\u0083qj\u0021\u0089a\u0080\u0009\u001aRD9\\ÅÅ\u0099\u0080\u0087\u0084\u0007 1\r\u000f\u0003¸\u001cqµÛe\u0086\u0097A\u0001>\u0007|\u008eô\u0005Æ\u009cÐÙá\u001cÉK\u000c+¹\u0014\u0001ó&pfüF\u001bÊ\u0005>\u0090¶Æ\u0008\u0091K\u0006/\u008dKÄ6.ÞÓ\u0090Áb$¨)\u0083&\u0018\u0001:J\u0006Ø]e\u0004æ\u0019\u0096\u0001n¦2ª)\u0083æ\u0018\u0008jÈ \u0005Æzº2ÀV(c{2hå"4µ\u000cZcì¦%\u0083Á\u0098Íq2XÄÕnÇÔ\u0080\u000c\u0086`X§\u0021\u0003\u0004ßÊ\u0018¢\u0093\u0001âkVõd\u0080 \u009bÕ=\u0019 ÀæO\u001ey\u0019 ¶fmK\u0006£0Èr\u0094\u000cF#.ä\u0019\u0091Á` ¦)\u0083ÅXKC\u0006K0\u009cÒ\u0095ÁR\u000c\u009bte°>\u0008RË`9\u0086G\u009a2X\u0081a\u0091£d°\u0012q\u0021Ï°\u000cVaä¤\u0021\u0003\u001c< ´%\u0083ÁøGO\u0006\u008bq\u008e\u008e\u000c\u0006TF\u009bmÚ\u0010\u008añ\u008c\u0086\u000c\u00860\u008cc\u001c#\u0083\u0021\u001cq\u0021Ï \u000c\u0086\u0008\u008cuÔ2\u0018"1\u009cQË`\u0088Â\u0088EG\u0006C4F&z2\u0018\u0017ghÈ`1\u0002Ñ\u0094\u0001n\u009ccÇµiC)â\u001a:Ò¦\re\u0018\u009chÈ@9Æ\u001f\u001a2P\u0081\u0021\u0086®\u000cTb(¡+\u0003U.0PË@5\u0086\u000cZ2\u0018\u000c\u0015\u001c\'\u0083E\\È3,\u0003#\u0018ChÈÀ(\u0086\u0009\u001a2@\u0098\u008f÷Ú´a\u001cgü]\u0019\u0098pó÷Z\u0006&qfß\u0094\u0081)\u009cÑ\u001f%\u0003Ó\u0088\u000byFd08éoÊ`q^ß\u0090\u0081\u0013\u009cºweà\u0014§è]\u00198Ã©x}Nüÿ±\u0003[adà\u0092D¡P\u0094\u0086\u0018ÿª\u000ei\u0081\u0094\u0002c\u0021\u0095\u0084\u007fµ\u0083@å;\u0006\rl.\u0096õKi\u000c\u00847ÝQ\u0085±Ó9\u0083/êní\u0008\u009d&»\u0014&(\u0083;=\r×èLvý¶ö6ÄÊÿ\\,\u0016õ{^ý\u009e\u0014 b\u0090\u0008\u0010ëM7ª\r~n\u0082ÑßÞW\u0011w\u009bÇ\u001aô;\u0009ð^wØÅq\u008a[5 Xë\u008b5ãÅêV±å>>P8¬\u0008QXç¡\u008a\u008a÷\u0091\u0011ÄS³ãÔ\u008c§ö÷º\u0015ÏË\u0005ÒP\'\u008d ãÒØ°ì~ºÛíÊ:\u0081}5\u008d\nq\u009b¼\\\u0021¨2æ\u000b¡£\u0085 ß_\u0017Rî£C\u001a\u001cn3\u0084\u009eÜSã\u009e\u001a\u001b§F=µ¿ÇÝp\u0095\u0021\u0097j2°[ß\u0005\\Ç\u001b\u0017GU\u0010\u0011QE`¼\u0011\u0012ó@ÞÑ\u008aÃ[bO¿hï\u0094¯\u0080÷uåº\u009d/Uå6\u001b\u001dl\u0091*[]\u0099î_«\u001bCû\u0017\nç\u0091xð w¯%\u001f\u0091VV/\u0087\u0016\u008d}-ø=\u007f8Uc\u0081\u008er\u0017P©âÁ=@À\u0088FF\u0080\u0021dÆ¿$f\u0098¦ßüSO®½\u0002Âê8À)UåÏ\u0005n¾8\u001dÝzQâ¹s\u0005§\u008a\u0010`ÇàÄø-Upáð\u0098N\u0004ê\\Co\u0004·=+\u00088\r³\\nKi©¡³)\u0005nIv\u009bRN\u0009ìJ\u00016,²ap,S\u0086\u008c\u0092÷\u009bQêî\u001e·¢ {\u000683`¥\u0006¬\u0014ÖQü)/*-xE\u0092â\\\u001a\u009d\u001dØÀÐ´i\u0008§)\u00818ÎÉ\u0082õ|\n+ø½^Xr\u008fÊ*T\u001bQX|î£\n\u008fÊKTðí`QÖ÷\u0081°î\u0081\u0008å\\\u0007V3)¬Qöú\u001e©<ª,Q\u0005\u0014&ø\u0000ªö¨ªB\u0005\u000eá\u0012o%) \u0018\u008c\u00218MHÙÖ\u0084E\u0098\u0091¥Ë\u000cë/\u0014V[|9J`9ð\rJ\u0084£\u0010F\u0011\u000cA \u0019\u0081}@\u008e¦¹À\u0003òj\u0005È\u0014\u0091\u0021\u0013V6Ô\u0018d0\u0090¡S\u008b\u008aa\u0010£$ll\u009f°\u0085¼\u0016Ò,ø®\u008ac\u000e\u0083á\u0014GÝ\u0082\u0014Ö\u000eP\u0017\u0018\u000biØ\u0008Þ\u009cÍ\u0086mD)\u0084\u0001Î\u0021\u001b\u0081£X\u0088ª\u000eÚ\u0008\u0004A\u0011U\u008fØ\u0088²\u001eÁ\u001c´\u0011M<ª=h#\u0010<\u0006Ô*bÓµ\u0011\u0008-k>l#\u0010sÖ\u001cq\u008e·\u0011-0Äs\u009c\u008dÀi5-0ÓA\u001b\u0081à\u0019Æß\u008e¶\u0011­1\u0087ÁwI\u001e°\u0011m0ÖÔ°\u0011m1\u00164h#\u0086 Ìh{ÐF\u000cu¨\u0086\u001c´\u0011Ã<*\u001d±\u0011Ã=\u0002;h#\u0010¦CT~ÐF\u008cô¨bÄF 4U\u0086\u0017»6\u0002¡(C\u0011çx\u001b\u0081ð\u0014Êp\u008c\u008d@äÊ0ÌtÐF ¦\u0085\u0012\u001fm#\u0010î2\u001cs\u001e´\u0011\u0088\u0081\u0019Ñ´\u0011\u0088\u0081\u0095±Ì®\u008d@0Ì\u0018Ä9d#\u0010\u000bCTqÐF *\u0086¨rÄF H\u0086\u0008ê \u008d@ô\u000cQõA\u001b\u0081\u0088\u001a¢\u009aa\u001b±\u0018\u008e´\u00836b\u0021Êf,â\u001cm#\u0016âp®R\u000eÛ\u0088\u0085@\u009c%\u0098é\u0090\u008dX\u0088ÉaüøX\u001b±\u0010³³\u0014s\u001e²\u0011\u000bÑ<Ë\u001a6b\u0021\u0090WÆ\u008a;6b1\u0000ª\u0010ç\u0080\u008dX\u0008ó\u0021ª9d#\u0016Â\u007f\u0088j\u0087mÄBÌ\u000f\u0010ª\u0098ß¨\u008dX\u0088þ\u0021*=d#\u0016Â\u0082\u0088ÊFl\u0004¢\u0084ex¼k#\u0010*´\u001aq\u008e·\u0011\u0008$¢E\u001ec#\u0010c´\u00063\u001d´\u0011\u0008>Zû96\u0002\u0021Hk1çA\u001ba\u0004cÑ\r\u001ba\u0014cÅ\u00836Â\u0018Â\u0000ç\u0090\u008d0îQ\u000fú¬\u0016B¾\u0088:â³Z&=ÂA\u009fÕ2åQ\u000fú¬\u0096i\u008f:â³Zf0F>h#Ì"\u000cp\u008e·\u0011N0Ä~\u009c\u008dp\u008aÈ\u0096\u001föY-\u0004\u009cÉçø¬\u0096sÌaùa\u009fÕr\u0081±þ\u0086\u008dp\u0089±øA\u001bá\na\u0080sÈF¸ö¨\u0007}VË\u008dG\u001dñY-·\u001eá Ïj\u0021´\u008d¨\u0007}V+¨C\u0015#>«\u0015\u000c× \u0006mDp\u0084Yñ\u0019>«\u0015\u0002\u00970\u008e³\u0011\u0021\u0011Ù\u008aÃ>«\u0085Ð4ý\u001c\u009fÕ\n\u008d9¬8ì³Zap-¥a#ÂâZÇ \u008dH\u00820+\u000eú¬VR\u0087*\u000fú¬V2\u008f:â³ZÉ=ÂA\u009fÕJáQ\u000fú¬VJ\u008f:â³Z\u0088ß±a\u009fÕBT\u008bQÄ9ÞF \u009aÃ\u008eôY-\u00049\u0018ÃL\u0007mD\u0011\\dú\u000c\u001bQ\u0014sXuØgµ\u008aáZUÃF\u0014Çµ¤A\u001b\u0081p\u00023\u0088sÈF x\u0080¨\u0007}V\u000bQ\u0000D\u001dñY-Lä\u0011á Ïj\u0095ñ¨\u0007}V«¬G\u001dóY5Á5´A\u001bÑ\u0014aV\u007f\u008eÏ\n3m~¬Ï\n3kN0ÓA\u001b\u008192ÿ,\u009f\u0015æ½\u009cbÎ\u00836¢\u0015.øTÛl­Ö¸â³ÿ\u0085%Ã×müUn\u0008³Úø5\u001d¯X\'ú{\u008cÕ\u009az]À­\u0012Àj+`[mª\u0088çÃ)ÁWÊ<úO\u007f¤±ñ\u0002;ü\u009e?\u009cêXV\u0021i\u000bÓb\u0021ºå:\u00953\n\u0087#á=0\u0080bMYï\u008cj\u0005\u000f\r\u000f\u0003\u000fë\u0018\u0095-Ê\u000c\u0083Ä.8\u000c\u0007áBdÒ±\u0018Âke0\\ú\u0096QË#F-\u0094g1£À gµq\u009cQx?µ5ÒG5Û\u009c2ê8BN\u0015¢X#Ç9\u008d\u0018E[q<j\u001f\u001fÜ#½A\u0014@ÝKÓV4-F\u0006ûrY\u0082A½\u0001\u0000Å\u0008^W`[\u0086èÆ\u0005¶\u001cQ\u0000õ8\u0081­ðÁ®q\u0081­D\u0014kÅ\u0091\u0002[\u0085a®\u0001¹4F¨\u0006\u0000\u0006ÃQ=\u0081­\u008f7\u008d\nL\u0009q1)[Í]\u000eHL\u0009)c7£"ÃÉ\u0004ÄAä£\u0084¦\u0084p\u000cÜô\u0084£\u0084\u0008\u000cº\u000cA$\u0086X:rSB\u0094\u000f¢ì\u0013\\#\u000e"\u001f+¹ñ\u0011\u0089}\u0092»¨\u0005"\u001f)9%\u0018\u008e\u0018\u0090\u008fR\u000c%\u000cA\u0018\u0006\u000ez\u0092\u0083#KzÝ^[rpE\u0089vÈGJ\u000eþ%ÝÛ«QB\u0015â ò±\u0092k\u009cd\u000fÉgp\u0082<\u0004±8\u001dîI\u000e¾\u001dÛÛ\u009dÁY\u001aÄAä#%\u0007\u009f\u008cííÑ(\u0001Ï\u008a\u0019\u0087|¤äLàÔq@>&qÚ7\u0004Q8ÉëK®ý4n\u009fä\u0006q\u0010ùXÉ­\u009f\u0013í\u0091\u001c¼\u0011ð¦\u0000ùHÉÁÅ\u0010\u00836Í\u0019Nf\u0086 \u001c§.=É¹ð\u0093\u0093=\u0092s\u00898\u0088|¤ä\\yO\u007f\u009fä\u001aq\u0010ùXÉ\rºùCòYtÑ\u0007 \u0082 CÞ\u0093\\Pïrï\u0091\\0ÄAä#%\u0017Üû¯{$\u0007×\u0005 D\u001cè>jÉ\u0085DçuH>\u0085\u008eç\u0010D£\u009bÙÝ\u0080Ð;\u007f\u0014\u0002®A\u000f´<¶ðõå\u009bï\u0002<\u0006H\u0089°\u0008B\u009cðõ\u001f_µïçr~¨\u0086k\u009b\u009aï¦#±LWÏ\u0021»$eöòø^çýn\u000cn\u0006©Þï¶ÙÂV¦Ý\u001b·vß¾S\nß\u0080çßáà\u007fÕoV\u0008ªµìï\u009e2¸¼~7K\u0096éS\u0012ëg\u008e\u000fêù\u0090¤ºûìòâ,è¼\u0084 xy\u0011ºcw¶¾Ôæ\u000c\u00938z\u0088åy¹Ð\u001d°³Æ\u009f;f\u0002n2Ãóv\u0090\u0086À·LP\r\u0010\u0083\u0010UBª#r\u000cnPgpU:\u0013\u000c+Mê\u0012Iíeó\u0095cÓ wç\u0019à\u0002)XtìÊ4,Z\u0011ôéZ\u008c*\u008ai\u0008l3ªX\u0009¡ã\u008c*^"±ª,\u0082\u0000\u0081\u000eX\u008b\'ô\u0008u\u0087\'\u0085nW\u009b\'\u008di\u0008ìðdJ\u0088ÞÃ\u0093-\u0091*º\u0012ËÇÖV¾X¡d\nÏH\u0012Ñæ\n\u001a,xE-¶4w\u0089\u0008nó\u0005ó@\u000fâã\u008c¹Ã¦Òá·´¥\u0095ó_Ú\u009ciçº´93Îkisf]"\u0082Û\u009cA§äAv\u009c3\u0098þ:¬ê~>¯3\u0098\u0013\u0013ªÛ\u009cÁ,\u0096PÓæ\u000cí\u0095Ú6gFºD\u0004w8S\u0015hOKÀ\u0099±ÃRm\u009d\u0019ãÆÿ6gÖ\rý-Î,q£~\u008b3´Z<Ôk»\u0096oY\u0005Úcúèô:,ÖÖ\u0099\u0015n|nqf¥\u001b\u009aÛ\u009c)7*·9Ó.\u0011Á\u001dÎL\u0005ÚÓ\u0000¬­°LKg\u0014=jnZ\u009cQBÝÐÙä\u008c\u0012æFÍ&g\u0094p\u0097\u0088à\u0016g\u0014â7\u001e4Þ\u0002(\u001a¿Ã\u0012-\u009dQ¢ÜøÖæL»¡­Í\u0099q£Z½ëøos.¶\u007f{9\u009c\u0088\r\u0081#ëOtSbÚlýÕ\u000eÂ\u000e2C\u0081\u0019J*fl\u009b\u0099\u007f;ùúÿñÉ×A\u0083ah0Ô»eÎÏø?ÿë¿ÿïÿ\u0019 \u0080y?iä=¿\u008a\u008f\u001dè3Ò²@<C"Ü»:Ø\u0084\u0095°Ð\u0084iéÚ\u0018\u001d1x\u0097\u0002S®\u0017 Òû\u001b-låý\u008b\u001e¶ö\u009e@\u000b»\u001cù{ØÖ\u000fÏMl\u0008\u009aãhÜÅÆémy\u0085m\u0085]\u008e\u0090=lî\u0087±\u0016¶ð£V\u000f[ú¡¥\u0085]\u008e$=lí»û\u0016¶ñ½{\u000fÛú.¸\u0089ÍË\u001e·\u008bÍ©«çñ\u0003É\u0084¹\u0003Éx\u0002`öè>s÷1x\u0096\u0013ë~"\u001a\'\u0092_^²KðS)gÞª¨\u008b¨\u008fnC\u009d\u0018\u0009\u009b\u0094yMDP#º\u001bsYgcî·Ût\u001d¼NÖ»(Ø%ëÝd\u0097æÙÂí\\ÅÁ\u0007FD0=<\u0014Äàô\u001a\u0083³j\u000cN¦18\u008cÆàH\u0019ÓT#¶ð\u0086Jq|\u0086@>\u0083ó_\u000c\u008e|18¸Åàe2\u0015qé,õHâÊÛ5u\u0001\u0087CÄµ3ì#\u0089\u001bß\u000c¨\u000bÜ\u001f"n];8\u008e8\u000eÞÐj(z\u000c\u0087\u0088Ã«M Ù\u001cI\u009cùFF\u0005=\u00868w­ìHâÂ·I*\u008e©P\u0021]£<\u0092¸òM\u0098\u008ac*\u0014Çgvl\u0085\nã[<\u0015ÇT(Di É\u001fG\\\u0092²\u0083\u0010ÇT¨¤®\u0021÷#\r\u00147ãCth\u0000Ä\u009dÑ\u000f\u0081\u00843Ù\u0021\u0090t\u00067\u0004RÎ\\\u0086@ÚUö\u0010È¸ª\u001a\u0002Y§è\u0001\u0010¼M\u0007Ô4\u0004¢N%~ìü3ôr°PIËW\u00061ÃÐs\u0086ø\u0011\u0095¼\u0093(\u009cüíDé$o\'*\'s;Q;iÛ\u0089ÆÉÙN´NÂV"Ì\u0086©"ÍDh\u0018pg¸\u0080\u008f÷Ñ[|¯]$àöb¸õ\u0098Ñ(<ÿúO­\u000bÎ­\u0080Û\u0090¨2U\u009c¦|\u001ff@ \u0018ô0)C5x\u008d÷ûè-lHTÿúîþ\r\u0017óm¾\u0099¥»]:Ïæ§\u009b\u0082]%\u001a®9\u0088¤\u008dÂ³?¾yóíïKæ§·E±Y\u0087í\u001bïATÉºläÉ<»Ý\u009d\u0004j¨\u0090ÅL\u0016«\u0010ß²\u0004õ\u0008­4\u0002§\u0008|þ6¦ jV|\u0008á\u0094\u0008¼\u0083¤Ä~ßgA\u0018\u00182û\u0014\u001eÍíýC\u0088F ØP~f¬3\u0005\u001däÙv»L/\u0016\u000bw\u0010¨}·;£\u0012ï×è]wß)pI¯ô\u0016\nÔ\u0091À\u0019½/\u0010¯ÊX&Óty:Mf7\u0013x\u009fTUHY5í+K;\u0094WyÎ·\u008b0\u0012\u0092F\u0002n3\u0095\u0083ú \u0004å¡\u0006ïûbvX/äú\u0021Q»0\u0012\u008aG\u0002\u009b½\'ÔF»[?.\u001e\u0016a}Uk_\u007fpUk\'×Ííâ:ß4np\u001d&¾|Ôdzß¸µ¬/LëÖ²¾\u0014ì\u0021)D\u0011¶ï2s\u0006\u0005}O?ÃZPkàæµæ\u0005gû2,oïè<l_z¶\u000f\u009fe\u009fn>ªÆu³\u000eYê\u001eæìúq¾\u000bë;h\u0087u\u0094òÇÍ\u0087°¾\u0015m_Ùæ\u0091Nïá\u0082òæUiû2L\u000b¹\u0099Þ\u0084íûÓö\u0096Àf$\u0085¦Û¼Tm_\u0086»dÎ>@\u0009å½¹£ê¸Ú¬3°\u0085ò2ÝauÐíÝôêcX_»¶¯ðÇ\u0087kÅÃöUlûð\u0017Sb®æaû~¶}\u0019®\u0016º¸Fn\u001a\u0097¶íËp+\u00844Ó°¾\u0000xT\u001d\u009fÖæÃ\u0007\u001eÖ×\u0002\u000fëcnnÖd\u0013Ö÷ºí+ý¦(ì-ö¦\u008dËÞöexHï²t\u0016¶o\u0080ÛÛ¼RÜPÓº\u0015n\u001f¾^/n\u001e>\u0086õUÆ£ú¸ù´*®eX_p<Ò¥,3rkÂúâ¸½õMòë$l_&·\u000f_Íçä.l_0·\u000f\u007f¶fr±\u000cÛ·ÎíË\u0090äé\u0007è;Ê+\u0099Gµ±Ì?®?\u0099°¾¨yX\u001b×·é§ÇÛ°¾\u0097n_á×óÅöSØ¾«n\u001fþöúfc@ÕÍ\u000bìöeà÷|ÍnÂö­v{3ÌÉ\u0087\u0015\\\u0004^^.=n\u001d·r9\u0083\u0001§¼rzX\u001fYv¿\u009c\u0082wS^|·¯ôO·ó$\u0005å5oÃÛküùò*\u0003\u00854¯ÈÛ\u0097áÃ\'Á\u001e\u0090\u009dÆ½y{\u0015rÇô]X_\u0093=ª\u008f\u008fäþã\u001aõá/Ï\u001eÖÇt¹Ö\u001fmXß¬·¯ð\u0015\u009dÞÏ@¼æu{û2Hþq\u0095.Âö\u001d|{»\u009b\u009bÛkT`ób¾½Ut}u5]\u0085õ\u008dß£\n\u0099~ZÍi\u001eÖ÷\u0080\u000f+D¬®\u008aÇ°¾ºo_á\u001f\u0097Åî~\u001b¶ïóÛ[Ý3\u0091ÃpÔ¼ãoïè²]Òkè>\u009a\u0017ÿí\u001dÎ?ÞÜfa}sù¨6v\u008bõGð\u009aÊëÌ\u0087\u0095Q,v×ü:¬o\u0006ÜWvºX>&à\u00194¯\u000bÜ\u0097\u0021Ë>&s\u0011¶ï\u0010ÜkN\u008b\u0007#Á\u009c\u009a\u0017\u000bî\u001dlÓ\u0095¾[\u0081¿¬"\u0021T$dÃ\u001dïÎ\u001f\u0098\u0096Ã.æìviÒ{\u0098\u0001RØ\u0081¡"\u0011±\u0088GáÙ·çßUÑéô~r\u0095Of\u0093Ýdv\u009dÎn&ËM\u0002\u0017âQ\u0011ÃL9&%âU>\u0081}¬ÙzW$ËeÚ\u00987VS\u0081É$Oç\'Á\u0093\u008b3z.Åó`2¹ÊÓt}\u0012<á/ÏÎ`\u000bíd²É\u0093õUz\u0012<Y,¤f\u000c\u0092¶·ùv\u0009I/¸$\u0097\u0097\u0090t·É\u0096iq\u0012<QgäòÂ"V\u009aÌ®O\u0082\'\u0097/Ï/^¾\u0080\u0094Çt\u0089\u001bj\u009f\\^¾¤D×Iÿ°[Bª9S®ÌéÕ«<[%ù#â^º¤êrÁfâ\u009b4/²VÚn\u0006"\u009c]µ²fót\u009aäÍ¤ß¤É<Íÿ\u0090.Ò<Y:ÀÙå\u000b\u0007k¥\u009aK\u0009©>ík\u0098å"àB\u009d_\u0000 O\u0017°\u0007\u0003t&Ôå%G\u0012Åº\u0016 \u0095|\u009eí\u0092éÒ)ý%üAzáò\u0013\'|ë"Å\u0093à\u0089\u0099[ng%¤\u0021°Ç\u0087\u0019Þ<\u0087½$O\u0014\u0087?LÄ©ñK7A\u007frñâââ\u0012ëw\u0099Ý¥g-Ø¹\u0084?\u0080­7E¶p\u008aÓ\u0097/\u009c¢¶É6Í1í\u0082]^:¼Ý,Y¯}êååÅ\u008bs¬îurwV´ô¾NîÎ7Åîìj\u0082\u00975¢\u009dÁ\u009b7Û°"¿\u0005\u0090={qöRÕ\u0084^_\'s°\u0095üjú\u0094\u0011\u00130J\u0002ÆÈ3ÀXdË"Í¿Å\r0®À\u0017%¿\u0018\u0085\u0080ká\u009b\u008c\u000cÝ\u0018\u007f\u0012<9»|éyÇ\\ßÀ|ØeS\u0097æò¬\u0093\u0013Á\u0095B«ºÃ¬\u0097\u009bÙí®­ÖºÖ·ùæ*Oab\u0089\u001c)¥Ï\u009bÉ\u0092\u009c\u0004O¨ çÎúÊd-[­\u0010\u0082;9¾ÐèÉb\n\u007f®2×7ýò õÏ°Ñ½\u0097úë<}ì°\u0086FúM¶¾i¥ïJóëCî³bvý&\u0087¨BU«\u0095u5¡¾^{ÀëÛÕ´ÊZ¶Ù\u0006Èç«\u008b\u009c\u000f5\u0099éæ¡´\u0090\'T±3-\u0008ª\u000f\u001aÂ|s¿î\u0000\u0099h\u0002\u009b¶±ÌvÅy¾Ù\u009eWéúR;Ð5\u001c\u0001(S^4,ÿM¶J¿\u0086\u0088Ì]²ì´\u0097åf·+\u001bÆå\u0005&]%\u0099£|~qyy¡+£qöÒ²Ã]º\\¶zZìá§\u009b\u0087\n7eðç¸Ë³O\u009bu\u0091,ß$Ó\u000e\u0017E2Ýu,9\u0099\u0015Ù]ú¦\u0002xÅ\u0017\u009bí6\u009dcRÝ\u0002Ýû¡\u001b­ù¥\u0013\u007f\u0096äóWÐ"~\u0083-¢4½K\u0006\u007fÍ®\u0008ó\u0011üÏ\u0010×IÎ\u001bÍëò\u0082]\u009cùÑæ±N¯k\u0017G¡\u0006 êzà¢¼\u0006¡J`7Hµ\u008að*ucU\u0003B.¤Ëã\u0086\u009ef\u009eK{\u0081ò§ó¬x¹Y\u0017éÚ\u0097\u007fq¡\\\u009e\u0006\u0004G\u0002\u0004/ð?EJ\u0084ó\u00013k¦\u007f]¤«qÈozV·Í7\u008bl\u0099þ.]ßÂ\u0096Ä×é2\u009d\u0015é|2ítÕ#hxcR§Cj"z:u\u009f×\u0001ûüµyÀ0ä»\u0012?\u0004í\u008at»{\u0089w)W\u0096z~~^\u0019YºÝ\u009d%~ :÷½\u0001&64ä\u008c®2ÐZçÐè^¹~èòR\u009e\u0019ì=\u008bÍfYdMCk°þu«y]\u009c\u0095=\u0010¨úU\u0092\'«]»õ\u009aKo\u0012\u009béÙÕ\u009btv½ÎfÉr\u0087&y~V\u0083^,¯6-\u0087\u0006\u0012_»>¡´kêÒ_¢4ßd»¢\u0096ð:]n;v;Ïv³e\u0092­ÊÑ\u0014ê\\»\u0006ó\u0087ÛõY2»)Ò\u009d·2µ0\u008bE\u000fö¦ô\u001d(çu¯õ\u0007Dig\u0003\u0095½É¶Îñqb[ÇÅªX¼É\u008aeZZ³^¸*Jî \u0013\u00005Ø\u000b\u008fúú<ÝÍ°<1ÕÔ\u0095·JÁ¿:K¼\u000c¢î?Wéì:ÛÖ®P;\u0017À\u009a\u008eN\u009a,øÂ4¡\rggjfl\u008eYwÛ$¿YâËú~í½UÅgSÎ:À?à\u0090\u0091ÎXª\\¾u2»\u0099&ùwØî;M¾\r¼\u0004à|n\u0019\u0011ÏÃ÷ï\u007fú¿(×\u0010t\u001dÅ\u0000\u0000' \
+  --compressed ;
+curl 'https://www.google-analytics.com/g/collect?v=2&tid=G-5LJDYS3ZB0&gtm=45je4250p1v9175102544za200&_p=1707378996203&gcd=13l3l3l3l1&npa=0&dma=0&cid=2013506926.1705561183&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B121.0.6167.140%7CChromium%3B121.0.6167.140&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&are=1&pscdl=noapi&_eu=AEA&_s=2&sid=1707378968&sct=28&seg=1&dl=https%3A%2F%2Fwww.streak.tech%2Fscanner%2Fbearish-sma-and-rsi-nifty-options&dt=&en=scroll&epn.percent_scrolled=90&_et=18&tfd=5566' \
+  -X 'POST' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-length: 0' \
+  -H 'cookie: ar_debug=1' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://log-sentry.streak.ninja/api/7/envelope/?sentry_key=c08af936856c4436a3ce95485003016e&sentry_version=7' \
+  -H 'authority: log-sentry.streak.ninja' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://www.streak.tech' \
+  -H 'referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw $'{}\n{"type":"client_report"}\n{"timestamp":1707379052.249,"discarded_events":[{"reason":"network_error","category":"transaction","quantity":1}]}' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\nE\u008eÁ\u000e\u00820\u0010DÿeÏ#ÙÝv[â¯4=\u0090Ð  h\u0090\u008b\u0018ÿÝ`¢d.ï0\u0099y/*tNÄU¬\u0094\u0009\u000e¢ÑÃ\u0082¯=h\\j½:\u009e\u0086\u0089@\u0012\'Ýø¾SéÚM\u0008\u0001\u000cÎ \u0086Î)\u0099)+´\u0006]ú¶-3e$Ñèà\u0021\u0010s\u0001b|À/"Ñ2\u0092Åh5\u0004\u001e\u0089®·îô(óº<«Çº\u0094f¬æ~\u001e\u001aÊÿ\u001eC\u0021N\u0082ß}\u0099¿\u0017\u0006E\u0084@\rÇ \u000b\u0008ØÕ¼ìÅ\u009cóû\u0003\u0011¦>öñ\u0000\u0000\u0000' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\nMÍÍ\nÂ0\u0010\u0004àwÙóPö\'\u009bMú*\u0021\u0007Å"Õ\u0016DÁ\u0083â»K\u0011Eæò\u001d\u0086\u0099\'M46â\u0021\u0006eB\u0082Gx\u0081iµ\n:_\u008b.Æëi%\u0090Äª\u000f¾l\u009a\u008e\u0087\u0087\u00102\u0018ÜA;\u001a[+\u0091³C\u000bè>ßæý2QGû¬%0Ä-Cü\u000fß¸+kG«\u009ck\u0080¡\u0090¨00\u0012Ôà\u0010¨o.\u0008©¿¢edl¯5\u0081{ï¯7h\u0014NIË\u0000\u0000\u0000' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\nÝUM\u008fÛ6\u0010ý+\u0004Oi12ø-Q\u0086.ý8ôÒö°íÅÐA¶h/\u0013Y\u0014D:koÑÿ^Ð\u0094d§»\u0008\u0092C\u009a 0 \u008f\u009f¥\u0099÷ÞÌP\u007fa\u0083Ë\r&«|Å\u0008\u0006\u0009\u009a(\u009d\u0003çJQÀïÆ\u0082u\u009c\u001cß\u001e1`\u009a\u001fÙ3\u0019bd\u000eí3Å \u0080\u0000©\u00017¸Ül(#\u009cå@\u0019H\u0005R\n BÕp\u0085¹\u0088°`\u0014¤d@\u0019\u009dp¡ïqM&8\'\u000b,4ä2Á\u0082Ü²\u0088â\u0006§\u009a\u0009¦\u0090ë\u0009¾ËÍ\u0015\u0014l\u0082¥ºÁ\u0012\n>Áy±ÀL\u0082\u009eï.ä\u0002S\rzÎ­Ù\rf@I1ã·\u009a\u0091,Í\u0013.É­(\u0089Ú&_$å\u0093]B\u000b |R$\u0019\u009dáB\u0003\u0015¢\u0086Mê\u008a\u0000\n4Ê¡\u0092Ü\u0082ù#%#\u0089¸à²\u0000\u0002\u000c¨\u0094p­\u0021\u0080\u0016 A\u0081\u0006\nL\u0002ã·\u001b¹\u00025õ\u0083\u0003\u008dn\u0012I%\u0090º®\u0001\u000fsk\u0005\u0007\u0015%Q\u00101\u0001þé\u0097?1à¶\u0009M\u0016ì0\\²Ñ¹PaÀ¶­\u0012@1`\u001f.\u009d©\u0006gû`ÆÌ¼7}ð%ê]oÖè9³}kÎ%ÒZë5zo½ÝÚÎ\u0086K\u0099âÎ¬Q\u0018\u009bÞÛ`]\u009f\u009eBÄ#Óøø½F\u0083\u009bÿj¶Þu§`Ö¨3ûP"2\u009c×(¸a\u008a\u008eÍx°}ú\u0081£\u0008\u0096\u0094ld\rx×5ÞO\u0094·î\u008cÞzÏ´\u009cµùÐ\u0004S=Ú¶5=\u0006\u001c\u009aí\u0095tuU7ºÎTÁ¹.Øa\u0011{lÎÙ\u0093mÃc\u0089¸LD\u0016\u0011Y{\u001a\u009bD\u0099\u001c}âÂ\u0013¡\u0017\\v®\u000f¦\u000f\u00186\u0094×sò\u008f§\u0012\u008b6þ2_3\u008eîé®%/¼»¦\u0090ËÓ·\u001dUw\u0096M}ÿª¦¥"C×ìÌÑô¡\nnÀw£¹\u0011õ78\u0098¶÷&\u0094¨9\u0005\u0097.d8¿\u009cÎ\u0094wïÆc\u0099Â®\u0009\u0086·or¡Wj8\u0003Ê4[\u00151 Ãù»Wº.>·ë\u001flÌëÅù\u008aM\u0015ç²ÓlHú5Î\u0084ÿÐÝxd\u000bF\u0000ÿðÇÃÃo¿ÆY¾\u000c¦Ú\u009eBpý²\u0006qø\u000b\u001dw\u0080ª\u001c\u008dv\u0018:óó~ovaQ;Í6eTF\u001e»ÓèÝX¢É\u00848Óûv\u0018ÝÎxoZÛV\u001d=äq;\u009aÑ6Ykün´[Ón/\u008b\u008ds\u0007òÔ\u0001\u0095v\u0017ÿ¾\u0090ZJï]\u001f²\'c\u000f\u008f¡D\u0092\u00905º"Þ>\u009bHèJÇu\u0091ÍxØ¾aR\u0002\u009a/Ó\u0080å©\u0002þþ\u0001\u0003þ±³»w(8ä\u008dA;×·×^xü\u007f\u0098\u0003UÐOÛ2ú%ÖL\u0015¯nY|\u0017«\u000f\u000eß/dl:¯¿\u0081©ÿ·Ûü£fãºþû\u001f\u0002¯\nþÆ\n\u0000\u0000' \
+  --compressed ;
+curl 'https://o.clarity.ms/collect' \
+  -H 'Accept: application/x-clarity-gzip' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: MUID=351A4D2F07A4677108335F50065C664E' \
+  -H 'Origin: https://www.streak.tech' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\nE\u008d;\nÃ0\u0010Dï²õ`ö£ÕÊ¾\u008aP\u0011°É×\u0021¤tðÝ\u0083\u0002ÁLó\u008a73\u001fZhªÄC\u000cÊ\u0084\u000cÑd^\u0090ÂÆ\u0004º¿\u008b>\u008c×ÛJ \u0089U7~uZÎó&]gp\u0003\u009dhªUr\u000eeh\u0001]®ó¼<©¡þç \u0010·\u000cq> \'\u0095\u0011\u0092\u0012DÙÅ{#$\\ÁP\u0014\u000bXw`\u0002\u0087@\u001déP,#ãwë\u0001n­í_QP÷UÎ\u0000\u0000\u0000' \
+  --compressed ;

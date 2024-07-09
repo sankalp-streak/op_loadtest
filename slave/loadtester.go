@@ -38,6 +38,9 @@ func statusCode(output string) int {
 func required(s string) bool {
 
 	nots := []string{
+		"/static",
+		"wss://ss.streak.tech",
+		".chunk.css",
 		"track.streak.ninja",
 		"os-analytics.streak.tech",
 		"/static/js",

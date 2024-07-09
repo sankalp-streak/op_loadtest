@@ -1,0 +1,18 @@
+curl 'https://api-op.streak.tech/dummy_login/' \
+  -H 'authority: api-op.streak.tech' \
+  -H 'accept: application/json, text/plain, /' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'x-app-uuid: 2032d49c-031e-4470-a8e9-77ff36d80b1b' \
+  -H 'x-csrftoken: bG9naW4=' \
+  --data-raw 'action=login&type=login&status=success&request_token=dy3eI8L7RHA9WyOfKfNhxYFLNU7H51Uj' \
+  --compressed ;

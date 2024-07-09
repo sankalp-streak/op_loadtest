@@ -8,6 +8,7 @@ import (
 	"net/url"
 	curl "optest/curlgo"
 	"strings"
+	"time"
 )
 
 func parseCurlRequest(curlString string) (*http.Request, error) {
@@ -46,22 +47,29 @@ func parseCurlRequest(curlString string) (*http.Request, error) {
 	return &req, nil
 }
 
-func RunCurl(curlCommand string) int {
+func RunCurl(curlCommand string, timeout int) (int, time.Duration) {
 	command, err := curl.Parse(curlCommand)
 	if err != nil {
-		return -1
+		return -1, 0
 	}
 	req, err := command.ToRequest()
 	if err != nil {
-		return -1
+		return -1, 0
 	}
-	client := http.Client{}
+	fmt.Println("Timeout:", timeout)
+	client := http.Client{
+		Timeout: time.Duration(timeout) * time.Second,
+	}
+	startTime := time.Now()
 	resp, err := client.Do(req)
 	if err != nil {
 		fmt.Println("Error making HTTP request:", err)
-		return -1
+		return -2, 0
 	}
+	endTime := time.Now()
+	timeTaken := endTime.Sub(startTime)
 	defer resp.Body.Close()
+	fmt.Println(resp.StatusCode, timeTaken, req.URL)
 	if resp.StatusCode > 299 || resp.StatusCode < 200 {
 		bodyBytes, _ := io.ReadAll(resp.Body)
 		bodyString := string(bodyBytes)
@@ -69,6 +77,6 @@ func RunCurl(curlCommand string) int {
 		fmt.Println(curlCommand)
 	}
 
-	return resp.StatusCode
+	return resp.StatusCode, timeTaken
 
 }

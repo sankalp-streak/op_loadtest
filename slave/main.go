@@ -108,9 +108,8 @@ func processAlerts(tid string, req *prismPB.TaskRequest) (bool, []proto.Message)
 	users := len(data)
 	resp := make([]proto.Message, users)
 	fmt.Println("TOTAL HITS PLANNED:", users)
-	r := finalLoadTest(users, data[0].TestName)
-	fmt.Println(r)
-	resp[0] = &loadtestPB.Response{Success: r.suc, Fails: r.fail, Total: r.Total}
+	r := finalLoadTest(users, data[0].TestName, int(data[0].TimeOut))
+	resp[0] = &loadtestPB.Response{Success: r.suc, Fails: r.fail, Total: r.Total, AvgTime: float32(r.time / time.Duration(r.Total)), Timeout: r.TimeOut}
 	fmt.Println("Results===============>", resp[0])
 	return true, resp
 }

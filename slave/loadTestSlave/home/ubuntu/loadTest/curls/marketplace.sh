@@ -1,0 +1,11 @@
+curl 'https://api-op.streak.tech/marketplace/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'Authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Accept: application/json, text/plain, /' \
+  -H 'Referer: https://www.streak.tech/' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&page=1' \
+  --compressed ;

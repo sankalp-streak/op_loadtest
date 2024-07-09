@@ -516,7 +516,7 @@ curl 'https://api-op.streak.tech/marketplace/' \
   -H 'sec-fetch-mode: cors' \
   -H 'sec-fetch-site: cross-site' \
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
-  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=N2hmXPv1oLih72EUynoPrupROVc4bMWiFgZ2pVtGaONVzYbHZ4chNCCxMKwiUfUf&page=1' \
+  --data-raw 'page_limit=3&resp=json&csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV&page=1' \
   --compressed ;
 curl 'chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Book.woff2' \
   -H 'Referer;' \

@@ -55,8 +55,9 @@ func main() {
 	users, _ := strconv.Atoi(os.Args[1])
 	fmt.Println("Number of Users:", users)
 	tasks := make([]protoreflect.ProtoMessage, users)
+	timeout, _ := strconv.Atoi(os.Args[3])
 	for i := 0; i < users; i++ {
-		tasks[i] = &loadtestPB.Request{TestName: os.Args[2]}
+		tasks[i] = &loadtestPB.Request{TestName: os.Args[2], TimeOut: int32(timeout)}
 	}
 
 	key := "LOAD_TEST"
@@ -68,13 +69,20 @@ func main() {
 	var Success float32 = 0
 	var Total float32 = 0
 	var Fails float32 = 0
+	var TM float32 = 0
+	ct := 0.0
+	var Times float32 = 0
 	for _, x := range resp {
 		Success += x.(*loadtestPB.Response).Success
 		Total += x.(*loadtestPB.Response).Total
 		Fails += x.(*loadtestPB.Response).Fails
+		TM += x.(*loadtestPB.Response).Timeout
+		Times += x.(*loadtestPB.Response).AvgTime
+		ct++
 	}
+	fmt.Println(Times)
 	percent := (float64(Fails) / float64(Total)) * 100.0
-	fmt.Println("Result for=> Users:", users,"Total Request:",Total, "Success:", Success, "Fails:", Fails, "Fail Percent:", percent)
+	fmt.Println("Result for=> Users:", users, "Total Request:", Total, "Success:", Success, "Fails:", Fails, "Fail Percent:", percent, "Timeout:", TM, "AVGTIME:", time.Duration(Times/float32(ct)))
 
 	elapsedTime := time.Since(startTime)
 	fmt.Printf("Master took %f Seconds\n", elapsedTime.Seconds())

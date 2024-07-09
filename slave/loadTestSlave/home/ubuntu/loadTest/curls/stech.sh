@@ -1,0 +1,187 @@
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":[],"universe":["Nifty 100"],"chart_type":[]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":[],"universe":["Nifty 50"],"chart_type":[]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":[],"universe":["Nifty 100"],"chart_type":[]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":[],"universe":["Nifty Weekly","BankNifty Weekly"],"chart_type":[]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["5min"],"universe":["Nifty Weekly"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["5min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["5min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["5min","3min","10min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["5min","3min","10min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["3min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
+curl 'https://s.streak.tech/screeners/multi_search' \
+  -H 'authority: s.streak.tech' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: csrftoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;csrfmiddlewaretoken=7k3gDvLlCoUyBLoZW4yUBG4C2Op6B8AiW9j4j0S5QytGsF9g80hUic5v9jyLEErV;sessionid=d0JkfnbzrDGbMS9QXz0t8czkiaNA50BF' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://open-v2.streak.ninja' \
+  -H 'referer: https://open-v2.streak.ninja/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+  --data-raw '{"page_size":20,"return_fields":[],"query_fields":["screener_logic","screener_name"],"query":"","page_number":1,"search":{"sample":[true],"screener_uuid":[],"time_frame":["min"],"universe":["Nifty Weekly","Nifty 50","Nifty 500","Nifty 100"],"chart_type":["candlestick"]},"sort":{"symbol_count":"desc"}}' \
+  --compressed ;
